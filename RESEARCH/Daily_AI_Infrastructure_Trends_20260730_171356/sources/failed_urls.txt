@@ -1,0 +1,11 @@
+2026-07-30 https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/
+- web open: internal error
+- fallback: verified date, title, URL, and excerpt from the successfully collected official RSS feed
+
+2026-07-30 https://developers.redhat.com/articles/2026/07/30/behavioral-testing-for-ai-agents
+- web open: internal error
+- fallback: verified date, title, URL, and full article text from the successfully collected official RSS feed
+
+2026-07-30 https://kubernetes.io/blog/2026/07/29/controller-runtime-cache/
+- web open: internal error
+- fallback: verified date, title, URL, and full article text from the successfully collected official RSS feed

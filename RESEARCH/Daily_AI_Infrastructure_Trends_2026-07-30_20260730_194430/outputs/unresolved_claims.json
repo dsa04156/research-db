@@ -1,0 +1,37 @@
+[
+  {
+    "claim_id": "clm_006",
+    "text": "사회신호의 채택확산성",
+    "risk": "normal",
+    "claim_type": "trend-signal",
+    "source_ids": [
+      "src_015",
+      "src_016",
+      "src_017",
+      "src_018"
+    ],
+    "counter_search": "최근 커뮤니티에서 하네스, 평가, 메모리 거버넌스와 Kubernetes DRA 관련 언급을 찾았지만 표본이 작고 플랫폼별 추천 편향과 날짜 불확실성이 있어 실제 채택 추세로 확정할 수 없다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "실험효과의 외적타당성",
+    "risk": "high",
+    "claim_type": "quantitative",
+    "source_ids": [
+      "src_002",
+      "src_003",
+      "src_004"
+    ],
+    "counter_search": "자기진화형 하네스가 보고한 두 자릿수 성능 향상과 비용 절감 수치에 대해 동일 계산 예산 비교와 held-out 일반화를 반증 검색했다. src_002가 단순 scaling 대비 일관된 우월성을 부정하고, 모든 수치가 동일한 arXiv 도메인의 미심사 개별 실험이라 독립 재현이 없다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  }
+]

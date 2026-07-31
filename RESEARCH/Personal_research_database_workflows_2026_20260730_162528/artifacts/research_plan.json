@@ -1,0 +1,34 @@
+{
+  "topic": "개인 연구자가 자동 수집·중복 제거·AI 요약·Obsidian 기록을 결합한 연구 DB를 실제로 사용하는가",
+  "focus_areas": [
+    "Zotero와 Obsidian을 분리해 사용하는 개인 연구 워크플로",
+    "SQLite를 중간 상태 DB로 쓰는 자동화 구현",
+    "자료별 구조화 요약과 일일 종합의 역할 분리",
+    "AI 자동화와 사람 검토의 경계",
+    "현재 로컬 구현과 공개 사례의 차이"
+  ],
+  "scope": {
+    "temporal": "2024-2026, 2026년 최신 구현 우선",
+    "geographic": "글로벌",
+    "exclusions": [
+      "출처가 불명확한 SEO 도구 비교",
+      "팀 단위 엔터프라이즈 지식관리",
+      "한국어 요약 품질을 검증하지 않은 마케팅 주장"
+    ]
+  },
+  "output_format": "한국어 비교 보고서와 현재 DB 개선 권고",
+  "audience": "개인 연구자",
+  "subtopics": [
+    "일반적인 Zotero-Obsidian 분업",
+    "동일·유사한 오픈소스 구현",
+    "학술 문헌 에이전트의 검증 구조",
+    "현재 구현에 대한 설계 권고"
+  ],
+  "search_queries": [
+    "Zotero Obsidian personal research workflow 2026 latest",
+    "automated literature review personal research database AI agent 2026 open source",
+    "site:github.com Zotero Obsidian SQLite LLM research notes 2026",
+    "local-first literature synthesis SQLite Qdrant 2026",
+    "scientific literature retrieval grounded citations human review 2026"
+  ]
+}

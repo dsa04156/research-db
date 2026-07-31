@@ -1,0 +1,25 @@
+# Bibliography
+
+- [src_001] Lilian Weng. 2026-07-04. Harness Engineering for Self-Improvement. https://lilianweng.github.io/posts/2026-07-04-harness/
+- [src_002] Jia Luo. 2026-07-30. SKIMIX. https://arxiv.org/abs/2607.27994
+- [src_003] RHI authors. 2026-07-17. Recursive Harness Self-Improvement. https://arxiv.org/abs/2607.15524
+- [src_004] Mao-xun Huang et al. 2026-07-30. MANTA. https://arxiv.org/abs/2607.28527
+- [src_005] Xinxing Ren et al. 2026-07-30. AgentRadio. https://arxiv.org/abs/2607.28430
+- [src_006] Manyi Wang et al. 2026-07-30. PAIChecker. https://arxiv.org/abs/2607.28587
+- [src_007] Fouad Bousetouane. 2026-07-30. Stop Shipping AI Agents on Faith. https://arxiv.org/abs/2607.27677
+- [src_008] NVIDIA. 2026-07-30. Four Ways to Deploy More Secure AI Agents. https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents/
+- [src_009] CNCF. 2026-07-30. Runtime Supply Chain Verification using NRI. https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri/
+- [src_010] NRI Supply Chain Plugin. https://github.com/saschagrunert/nri-supply-chain
+- [src_011] Triton Control. https://github.com/ai-lab-tech/triton-control
+- [src_012] Upbound. 2026-06-24. Modelplane. https://www.upbound.io/newsroom/upbound-launches-modelplane-the-open-source-control-plane-for-ai-inference
+- [src_013] Asari AI. 2026-07-28. Speeding up end-to-end inference with self-improving agents. https://asari.ai/blog/inference-optimization
+- [src_014] NVIDIA. 2026-07-30. Exemplar Cloud. https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/
+- [src_015] Google Cloud Next. 2026-04-24. How OpenAI builds Kubernetes GPU clusters. https://www.googlecloudevents.com/next-vegas/session/3912935/how-openai-builds-kubernetes-gpu-clusters
+- [src_016] NVIDIA and Hugging Face. 2026-07-20. Cosmos 3 Edge. https://huggingface.co/blog/nvidia/cosmos3edge
+- [src_017] GSMA. 2026-06-30. Beyond the Cloud. https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/beyond-the-cloud-edge-ai-for-lmics/
+- [src_018] LF Edge. 2026-03-19. InfiniEdge AI. https://lfedge.org/infiniedge-ai-and-the-orchestra-of-orchestrators-bringing-ai-to-the-edge-responsibly/
+- [src_019] Yu Cui et al. 2026-07-30. Agent Harness Distillation. https://arxiv.org/abs/2607.28147
+- [src_020] Hanshuai Cui et al. 2026-07-30. MemTxn. https://arxiv.org/abs/2607.27834
+- [src_021] Yongye Su et al. 2026-07-30. ChronoMem. https://arxiv.org/abs/2607.27773
+- [src_022] Public Instagram post. 2026-07-30. https://www.instagram.com/reel/DbbM0Pwgt9-/
+- [src_023] Doppler LinkedIn post. 2026-07-28. https://www.linkedin.com/posts/dopplerhq_ai-agents-edge-computing-and-the-growing-activity-7487960083214057472-6GeO

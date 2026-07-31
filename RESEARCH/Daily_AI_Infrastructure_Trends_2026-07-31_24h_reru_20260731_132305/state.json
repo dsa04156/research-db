@@ -1,0 +1,101 @@
+{
+  "session_id": "Daily_AI_Infrastructure_Trends_2026-07-31_24h_reru_20260731_132305",
+  "topic": "Daily AI Infrastructure Trends 2026-07-31 24h rerun 1322",
+  "created_at": "2026-07-31T13:23:05.444506",
+  "updated_at": "2026-07-31T13:25:00+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "focus": [
+      "self-evolving harness와 harness-time scaling",
+      "AI agent 장기 협업·평가·권한·거버넌스",
+      "Kubernetes runtime 및 AI inference control plane",
+      "cloud AI inference 성능과 운영",
+      "edge-cloud 배치와 edge AI"
+    ],
+    "output_format": "Korean daily research briefing and evidence-backed report",
+    "scope": {
+      "primary_window": "2026-07-30T04:02:00Z/2026-07-31T04:02:00Z",
+      "catch_up_window": "2026-07-24/2026-07-31",
+      "social_context_days": 7,
+      "exclusions": [
+        "X/Twitter",
+        "lead-only social posts used as conclusions",
+        "vendor or preprint performance claims without independent replication"
+      ]
+    },
+    "sources": {
+      "required_types": [
+        "primary research",
+        "official technical documentation and code",
+        "official project releases",
+        "industry research",
+        "non-X social discovery signals"
+      ],
+      "minimum_quality": "Two independent domains for verified claims"
+    },
+    "audience": "individual technical researcher",
+    "special_requirements": [
+      "Korean synthesis",
+      "canonical deduplication",
+      "verified-only synthesis",
+      "Obsidian graph links",
+      "Zotero synchronization status"
+    ]
+  },
+  "plan": {
+    "subtopics": [
+      "self-evolving harness와 harness-time scaling",
+      "AI agent 장기 협업·평가·권한·거버넌스",
+      "Kubernetes runtime 및 AI inference control plane",
+      "cloud AI inference 성능과 운영",
+      "edge-cloud 배치와 edge AI"
+    ],
+    "search_queries": {
+      "harness": [
+        "MANTA multi-agent topology adaptation",
+        "AgentRadio passive awareness",
+        "SKIMIX harness-time scaling"
+      ],
+      "evaluation": [
+        "PAIChecker PR issue misalignment",
+        "agent benchmark protocol validity"
+      ],
+      "infrastructure": [
+        "Triton Control Kubernetes",
+        "NRI runtime supply-chain verification",
+        "cloud edge distributed inference"
+      ]
+    },
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 23,
+  "artifacts": {
+    "research_plan.json": "artifacts/research_plan.json",
+    "claim_ledger.jsonl": "artifacts/claim_ledger.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_daily_research_report.md",
+    "eval_report": "outputs/eval_report.json",
+    "daily_digest": "../../vault/Daily/2026-07-31.md",
+    "daily_briefing": "../../vault/Briefings/2026-07-31.md"
+  },
+  "errors": [],
+  "verification": {
+    "passed": true,
+    "signature": "6fac19b4ad91feddfdb748cce3ad00db037114b168b861a6f5c9f59ca68b4a44",
+    "verified_count": 6,
+    "unresolved_count": 6,
+    "refuted_count": 0,
+    "checked_at": "2026-07-31T04:32:34.926697+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

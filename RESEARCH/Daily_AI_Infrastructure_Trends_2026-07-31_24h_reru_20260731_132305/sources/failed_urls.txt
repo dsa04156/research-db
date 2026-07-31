@@ -1,0 +1,3 @@
+Instagram caption fetches returned HTTP 400 for some individual reels; other Instagram results completed.
+YouTube keyless transcript requests hit bot checks; configured server-side transcript fallback recovered the selected videos without browser-cookie access.
+Threads completed with no matching results for Kubernetes and cloud-edge queries; this is not an auth or timeout failure.

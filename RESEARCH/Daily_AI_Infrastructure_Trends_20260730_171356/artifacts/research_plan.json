@@ -1,0 +1,46 @@
+{
+  "research_question": "What changed during the latest seven days across self-evolving agent harnesses, AI agents, Kubernetes AI infrastructure, cloud-native platforms, and edge AI, and which changes deserve priority in a personal research database?",
+  "success_criteria": [
+    "Cover five non-overlapping subtopics",
+    "Prefer primary and official sources",
+    "Register every cited source with an A-E quality grade",
+    "Require two independent domains for each verified core claim",
+    "Run counter-searches for high-risk claims",
+    "Pass validate_ledger.py and eval_report.py",
+    "Ingest only relevant, dated, direct-source records into the local database",
+    "Write a Korean daily synthesis and synchronize new items to Zotero"
+  ],
+  "timeframe": {
+    "from": "2026-07-24",
+    "to": "2026-07-30"
+  },
+  "subtopics": [
+    {
+      "name": "Agent harness self-improvement",
+      "priority": 1,
+      "source_types": ["academic", "official research", "expert blog"]
+    },
+    {
+      "name": "Agent runtime, memory and evaluation",
+      "priority": 1,
+      "source_types": ["official research", "academic", "project release"]
+    },
+    {
+      "name": "Kubernetes AI workloads",
+      "priority": 1,
+      "source_types": ["official project", "vendor engineering", "project release"]
+    },
+    {
+      "name": "Cloud-native platform changes",
+      "priority": 2,
+      "source_types": ["vendor engineering", "official documentation", "industry analysis"]
+    },
+    {
+      "name": "Edge AI and distributed inference",
+      "priority": 2,
+      "source_types": ["vendor engineering", "academic", "industry analysis"]
+    }
+  ],
+  "estimated_sources": 15,
+  "estimated_time_minutes": 20
+}

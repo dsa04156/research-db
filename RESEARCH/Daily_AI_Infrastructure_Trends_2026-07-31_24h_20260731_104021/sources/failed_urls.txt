@@ -1,0 +1,3 @@
+2026-07-31 Instagram 일부 reel caption API: HTTP 400. 게시물 metadata는 수집됐으나 caption 실패는 플랫폼 전체 무응답으로 간주하지 않음.
+2026-07-31 YouTube transcript 1건: yt-dlp timeout 후 fallback으로 복구됨.
+2026-07-31 Threads: Kubernetes·cloud-edge 두 질의는 정상 완료 후 no-results. harness 질의는 정상 결과 반환.

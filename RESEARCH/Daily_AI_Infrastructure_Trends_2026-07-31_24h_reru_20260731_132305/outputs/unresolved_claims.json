@@ -1,0 +1,97 @@
+[
+  {
+    "claim_id": "clm_003",
+    "text": "신규 하네스 성능 수치 일반화 미정",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_002",
+      "src_004",
+      "src_005"
+    ],
+    "counter_search": "MANTA·AgentRadio·SKIMIX의 benchmark 수치를 다른 연구팀의 동일 조건 재현, 비용 정규화, production trace에서 확인하려 했으나 독립 재현을 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "도입 범위 검증 보류",
+    "risk": "normal",
+    "claim_type": "trend-signal",
+    "source_ids": [
+      "src_011",
+      "src_012"
+    ],
+    "counter_search": "Triton Control과 Modelplane의 공식 구현은 확인했지만 독립 사용자 사례, production 규모, 장기 운영 지표를 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  },
+  {
+    "claim_id": "clm_009",
+    "text": "벤치마크 정합성 오류율 일반화 미정",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_006"
+    ],
+    "counter_search": "PAIChecker가 보고한 SWE-bench Verified misalignment 비율을 별도 데이터셋 감사와 독립 연구에서 재검증하려 했으나 동일한 표본·정의의 재현 결과를 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_010",
+    "text": "하네스 추출 방어 효과 일반화 미정",
+    "risk": "high",
+    "claim_type": "causal",
+    "source_ids": [
+      "src_019"
+    ],
+    "counter_search": "Agent Harness Distillation의 black-box extraction과 deception defense를 저자 외 독립 재현 또는 우회 연구에서 확인하려 했으나 찾지 못했고, 논문도 work in progress라고 명시한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_011",
+    "text": "에이전트 메모리 복구 계층의 생산 환경 일반화 미정",
+    "risk": "high",
+    "claim_type": "causal",
+    "source_ids": [
+      "src_020",
+      "src_021"
+    ],
+    "counter_search": "MemTxn과 ChronoMem의 transaction boundary·semantic rollback을 독립 도메인의 production replication, 장기 운영 데이터, 비용 비교에서 확인하려 했으나 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_012",
+    "text": "비-X SNS 신호의 산업 일반화 미정",
+    "risk": "normal",
+    "claim_type": "trend-signal",
+    "source_ids": [
+      "src_022",
+      "src_023"
+    ],
+    "counter_search": "edge placement와 agent credential 관리에 대한 공개 게시물이 보였지만 플랫폼별 표본이 작고 원문 독립 검증이 부족해 산업 추세로 확정하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  }
+]

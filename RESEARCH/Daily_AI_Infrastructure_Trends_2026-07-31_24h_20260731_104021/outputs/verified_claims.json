@@ -1,0 +1,90 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "최근 자료에서 agent harness는 고정 glue code가 아니라 skill routing, evaluation, verification, memory, infrastructure optimization을 함께 다루는 동적 운영 계층으로 취급되고 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_007"
+    ],
+    "counter_search": "harness를 단순 prompt template로 한정하는 최근 반대 근거를 검색했으나, 세 출처는 서로 다른 구현 관점에서도 model 외부 control loop를 공통 핵심으로 둔다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "harness 개선 효과는 agent 수나 반복 횟수에 따라 단조롭게 증가한다고 볼 수 없으며, matched-budget baseline과 held-out·trace-level 평가가 없으면 개선을 과대평가할 수 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_002",
+      "src_007",
+      "src_008",
+      "src_009"
+    ],
+    "counter_search": "agent 수·반복 증가가 항상 우월하다는 반대 근거를 검색했으나 SKIMIX는 비단조성을, Asari는 matched baseline과 anti-cheating 검증을, protocol 연구는 평가 설계 민감성을 보고한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "production agent의 신뢰성은 model 내부 판단만으로 보장할 수 없고, 권한·sandbox·공급망·memory write·감사 가능성을 model 외부의 강제 가능한 control plane으로 분리해야 한다.",
+    "risk": "normal",
+    "claim_type": "prescriptive",
+    "source_ids": [
+      "src_004",
+      "src_005",
+      "src_006",
+      "src_010",
+      "src_011",
+      "src_016"
+    ],
+    "counter_search": "prompt-only 또는 model-as-a-judge만으로 tool-using agent의 production risk를 충분히 통제한다는 근거를 검색했으나, 독립 출처들은 각각 memory, governance, runtime security 경계의 외부 집행을 요구한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "Kubernetes 공급망 검증을 API admission에만 두면 static pod와 direct kubelet path 같은 우회·가용성 공백이 남을 수 있어 container runtime 경로의 검증이 보완책이 된다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_011",
+      "src_012"
+    ],
+    "counter_search": "admission-only가 모든 container creation path를 완전히 포괄한다는 반대 근거를 확인했으나 CNCF 설명과 reference implementation은 명시적으로 runtime 우회 경로를 대상으로 한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "AI inference 성능 최적화는 단일 kernel이나 GPU 사양이 아니라 workload, topology, runtime, scheduler, load balancer, correctness check를 포함한 full-stack 검증 문제다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_007",
+      "src_013",
+      "src_014"
+    ],
+    "counter_search": "동일 GPU 사양이면 software·topology와 무관하게 성능이 재현된다는 근거를 검색했으나, 세 독립 출처 모두 representative workload와 full-stack topology 검증의 필요성을 설명한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

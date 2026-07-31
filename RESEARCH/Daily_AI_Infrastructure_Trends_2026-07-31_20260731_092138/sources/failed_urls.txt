@@ -1,0 +1,1 @@
+No critical source URL failed. Fresh NVIDIA, CNCF, Docker, arXiv, Hugging Face, GSMA, Google Cloud event, GitHub and Upbound pages were reachable on 2026-07-31.

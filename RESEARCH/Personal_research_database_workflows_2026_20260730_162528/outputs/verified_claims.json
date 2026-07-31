@@ -1,0 +1,100 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "개인 연구용으로 수집·상태 관리는 SQLite에 두고, 자료별 결과는 Obsidian Markdown으로 내보내는 공개 구현이 실제로 존재한다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_006",
+      "src_007"
+    ],
+    "counter_search": "동일 구조가 단지 개념 제안인지 검색했으나 두 출처 모두 구체적 구현·실행 구조를 제시한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "Zotero는 서지정보와 첨부물의 기준 저장소로, Obsidian은 사람이 읽고 편집하는 지식 계층으로 분리하는 것이 현재 도구 생태계와 맞는다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_005"
+    ],
+    "counter_search": "모든 데이터를 한 도구에 넣는 사례도 확인했으나 ZotFlow 자체도 Zotero 데이터와 Obsidian 소스 노트를 분리한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "확인된 두 로컬 우선 구현은 검색·수집 단계를 자료별 추출과 교차 자료 합성보다 앞에 두는 단계형 파이프라인을 사용한다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_006",
+      "src_007"
+    ],
+    "counter_search": "한 번의 프롬프트로 모든 단계를 처리하는 사례도 찾았지만, 여기서 확인한 두 구현은 입력과 출력을 나눈 명시적 단계 구조를 사용한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "원문 메타데이터, AI가 만든 자료별 요약, 여러 자료를 묶은 종합 보고서는 서로 다른 저장 계층으로 분리해야 추적성과 재처리가 쉬워진다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_003",
+      "src_007",
+      "src_008"
+    ],
+    "counter_search": "단일 Markdown 파일만 쓰는 구현도 있으나 복잡한 상태·원문 증거·재처리 이력은 별도 저장소를 사용하는 사례가 더 직접적으로 확인됐다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "AI는 수집·우선순위·구조화 추출·초안 합성에 사용하고 최종 채택과 연구적 판단은 사람이 유지하는 구성이 현재 근거에 가장 부합한다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_010",
+      "src_011"
+    ],
+    "counter_search": "완전 자동 연구 시스템의 주장을 확인했으나 2026 로드맵은 과학적 판단과 신규성 평가의 취약성을 명시하고 인간 통제를 권고한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_006",
+    "text": "문헌에 대한 신뢰도 높은 질의응답은 단순 요약 DB보다 전문 검색 인덱스와 근거 구간·인용 추적을 추가한 별도 계층을 요구한다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_008",
+      "src_009"
+    ],
+    "counter_search": "요약문만으로 답하는 도구를 확인했으나 PaperQA2와 OpenScholar는 모두 검색·재순위화·근거 인용 계층을 핵심으로 둔다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

@@ -1,0 +1,2 @@
+{"source":"seed","source_id":"lilian-weng-harness-2026-07-04","title":"Harness Engineering for Self-Improvement","url":"https://lilianweng.github.io/posts/2026-07-04-harness/","authors":["Lilian Weng"],"published_at":"2026-07-04","abstract":"A survey of harness design patterns and optimization for self-improving AI systems, covering workflow automation, file-system memory, sub-agents, context engineering, workflow search, evaluation, observability, permissions, and evolutionary harness improvement.","topics":["self-evolving-harness","ai-agents"],"relevance_score":10.0}
+

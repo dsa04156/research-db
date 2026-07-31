@@ -1,0 +1,83 @@
+{
+  "session_id": "Personal_research_database_workflows_2026_20260730_162528",
+  "topic": "Personal research database workflows 2026",
+  "created_at": "2026-07-30T16:25:28.574339",
+  "updated_at": "2026-07-30T16:29:00+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "focus": [
+      "개인 연구 DB의 실제 사용 사례",
+      "Zotero, SQLite, Obsidian의 역할 분리",
+      "AI 요약과 인간 검토의 경계"
+    ],
+    "output_format": "한국어 비교 보고서",
+    "scope": {
+      "temporal": "2024-2026",
+      "geographic": "global"
+    },
+    "sources": {
+      "preferred": [
+        "official",
+        "software_primary",
+        "academic"
+      ],
+      "avoid": [
+        "SEO roundup",
+        "unattributed claims"
+      ]
+    },
+    "audience": "개인 연구자",
+    "special_requirements": [
+      "현재 로컬 구현과 직접 비교"
+    ]
+  },
+  "plan": {
+    "subtopics": [
+      "Zotero-Obsidian 분업",
+      "SQLite 기반 자동화 구현",
+      "근거 기반 AI 문헌 합성",
+      "현재 구현 개선안"
+    ],
+    "search_queries": {
+      "workflow": [
+        "Zotero Obsidian personal research workflow 2026 latest"
+      ],
+      "implementation": [
+        "automated literature review personal research database AI agent 2026 open source"
+      ],
+      "validation": [
+        "scientific literature retrieval grounded citations human review 2026"
+      ]
+    },
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 11,
+  "artifacts": {
+    "research_plan": "artifacts/research_plan.json",
+    "claim_ledger": "artifacts/claim_ledger.jsonl",
+    "quality_report": "sources/quality_report.md",
+    "bibliography": "sources/bibliography.md",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/"
+  },
+  "errors": [],
+  "verification": {
+    "passed": true,
+    "signature": "c3f1321f671b3ed7790afe99ad5f0d8000f97812ccba89e85c2ef20eb3bec486",
+    "verified_count": 6,
+    "unresolved_count": 0,
+    "refuted_count": 0,
+    "checked_at": "2026-07-30T07:29:10.078482+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

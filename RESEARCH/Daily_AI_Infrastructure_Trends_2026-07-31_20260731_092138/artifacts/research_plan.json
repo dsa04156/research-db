@@ -1,0 +1,34 @@
+{
+  "research_question": "개인 연구 DB에서 self-evolving harness, AI agents, Kubernetes/cloud-native AI infrastructure, cloud/distributed systems, edge AI의 최근 7일 변화를 어떤 근거 수준으로 추적해야 하는가?",
+  "time_window": {
+    "primary": "2026-07-24 through 2026-07-31",
+    "social_context": "2026-07-01 through 2026-07-31",
+    "background": "2024-01-01 through 2026-07-31"
+  },
+  "subtopics": [
+    "self-evolving harness evaluation integrity",
+    "AI agent permission boundaries and sandboxing",
+    "Kubernetes runtime and software supply-chain verification",
+    "cloud AI infrastructure performance validation",
+    "edge-cloud placement and physical AI"
+  ],
+  "method": [
+    "구조화 수집과 비-X SNS 수집을 canonical URL, DOI, arXiv ID, 정규화 제목 기준으로 중복 제거",
+    "SNS engagement는 발견 순위에만 사용하고 사실성 근거로 사용하지 않음",
+    "논문, 공식 기술 블로그, 공식 프로젝트 코드와 릴리스를 우선 확인",
+    "핵심 주장은 서로 다른 도메인 두 곳 이상으로 교차검증",
+    "수치·성능 주장은 반증 검색 후 독립 재현이 없으면 unresolved로 분리",
+    "verified_claims.json만 최종 합성의 근거로 사용"
+  ],
+  "deliverables": [
+    "sources/sources.jsonl",
+    "artifacts/claim_ledger.jsonl",
+    "outputs/verified_claims.json",
+    "outputs/unresolved_claims.json",
+    "outputs/refuted_claims.json",
+    "outputs/00_executive_summary.md",
+    "outputs/01_full_report/01_daily_research_report.md",
+    "vault/Daily/2026-07-31.md",
+    "vault/Briefings/2026-07-31.md"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "session_id": "Daily_AI_Infrastructure_Trends_2026-07-31_20260731_092138",
+  "topic": "Self-evolving harness, AI agents, Kubernetes, cloud and edge computing: daily trend research",
+  "created_at": "2026-07-31T09:21:38.628697",
+  "updated_at": "2026-07-31T09:31:50+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "focus": [
+      "self-evolving harness evaluation integrity",
+      "AI agent permission boundaries and sandboxing",
+      "Kubernetes runtime and supply-chain verification",
+      "cloud AI infrastructure performance validation",
+      "edge-cloud placement and physical AI"
+    ],
+    "output_format": "Korean daily research briefing and evidence-backed report",
+    "scope": {
+      "temporal": "primary 2026-07-24 through 2026-07-31; social context 30 days",
+      "geographic": "Global",
+      "exclusions": [
+        "X/Twitter",
+        "lead-only social posts used as conclusions",
+        "vendor performance claims without independent replication"
+      ]
+    },
+    "sources": {
+      "required_types": [
+        "primary research",
+        "official technical documentation and code",
+        "official project releases",
+        "industry research",
+        "non-X social discovery signals"
+      ],
+      "minimum_quality": "Two independent domains for verified claims; high-risk claims require counter-search and A/B primary evidence"
+    },
+    "audience": "individual technical researcher",
+    "special_requirements": [
+      "Korean synthesis",
+      "canonical deduplication",
+      "verified-only synthesis",
+      "Obsidian graph links",
+      "Zotero synchronization status"
+    ]
+  },
+  "plan": {
+    "subtopics": [
+      "self-evolving harness evaluation integrity",
+      "AI agent permission boundaries and sandboxing",
+      "Kubernetes runtime and software supply-chain verification",
+      "cloud AI infrastructure performance validation",
+      "edge-cloud placement and physical AI"
+    ],
+    "search_queries": {
+      "harness": [
+        "self improving AI agent harness context engineering",
+        "agent benchmark protocol validity matched budget held-out tasks"
+      ],
+      "kubernetes": [
+        "Kubernetes AI agents inference infrastructure GPU scheduling",
+        "runtime supply chain verification NRI"
+      ],
+      "edge": [
+        "edge AI agents distributed inference cloud edge orchestration",
+        "physical AI Jetson cloud-edge placement"
+      ],
+      "social": [
+        "Reddit HN YouTube TikTok Instagram GitHub Threads LinkedIn",
+        "X excluded"
+      ]
+    },
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 16,
+  "artifacts": {
+    "research_plan.json": "artifacts/research_plan.json",
+    "claim_ledger.jsonl": "artifacts/claim_ledger.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_daily_research_report.md",
+    "eval_report": "outputs/eval_report.json",
+    "daily_digest": "../../vault/Daily/2026-07-31.md",
+    "daily_briefing": "../../vault/Briefings/2026-07-31.md"
+  },
+  "errors": [],
+  "verification": {
+    "passed": true,
+    "signature": "a6c71f929dfedc2064818064a8581858bec40370a947b11759e1e8eacb663ae0",
+    "verified_count": 5,
+    "unresolved_count": 2,
+    "refuted_count": 0,
+    "checked_at": "2026-07-31T00:31:38.718328+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

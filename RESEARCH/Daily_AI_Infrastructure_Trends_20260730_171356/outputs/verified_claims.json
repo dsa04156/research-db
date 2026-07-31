@@ -1,0 +1,91 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "최근 자료는 모델 자체뿐 아니라 컨텍스트, 도구, 기억, 검증, 실행 제어를 묶는 하네스를 독립적인 연구·성능 레버로 다루는 흐름이 강화되고 있음을 보여준다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_004",
+      "src_005",
+      "src_016"
+    ],
+    "counter_search": "반대 근거를 찾은 결과 src_016은 자동 하네스 진화가 동일 예산의 단순 test-time scaling을 일관되게 앞서지 못하고 일반화도 제한적이라고 보고했다. 따라서 추세의 존재만 확인하고 보편적 성능 우위는 주장하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "자기개선형 에이전트의 변경 승인에는 에이전트가 작성하거나 조작할 수 없는 외부 검증 신호와 실제 동작을 보는 행동 테스트가 필요하다.",
+    "risk": "normal",
+    "claim_type": "causal",
+    "source_ids": [
+      "src_003",
+      "src_006"
+    ],
+    "counter_search": "자기작성 테스트만으로 안정적 배포 승인이 가능하다는 최근 반례를 검색했으나 찾지 못했다. src_001도 하네스 업데이트에 별도 evaluator signal을 사용한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "장시간 실행 에이전트의 운영 핵심은 최종 응답만 보는 것이 아니라 실행 궤적 관찰, 행동 회귀 테스트, 지속 메모리의 보안·삭제 검증을 함께 갖추는 것이다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_006",
+      "src_007",
+      "src_008",
+      "src_017"
+    ],
+    "counter_search": "단일 최종 점수만으로 장시간 에이전트 운영 문제를 충분히 다룬다는 최근 근거를 검색했으나 찾지 못했고, 출처들은 서로 다른 실패 표면을 제시한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "Kubernetes 기반 AI 인프라는 컨테이너 배치에서 더 나아가 분리형 가속기 자원, 안전 게이트, 통합 ML 수명주기와 관찰 가능성을 다루는 방향으로 확장되고 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_009",
+      "src_010",
+      "src_011",
+      "src_015",
+      "src_017"
+    ],
+    "counter_search": "성숙도를 반증 검색한 결과 CoHDI는 CNCF Sandbox이고 일부 Kubeflow 기능은 alpha 또는 제안 단계다. 방향성은 확인되지만 전체가 production-ready라는 주장은 제외한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "엣지 AI의 최근 연구·산업 논의는 클라우드의 전면 대체보다 워크로드별 하이브리드 배치, 이기종 장치 재현성, 자원 할당의 자기보정을 강조한다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_012",
+      "src_013",
+      "src_014"
+    ],
+    "counter_search": "클라우드 대체 주장을 반증한 결과 src_014 자체가 탄력성과 프런티어 모델 접근이 필요한 작업에는 클라우드가 계속 중요하다고 명시한다. 따라서 하이브리드 배치로 한정한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

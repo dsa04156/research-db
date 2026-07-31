@@ -1,0 +1,25 @@
+{
+  "research_question": "개인 연구자가 자기진화형 하네스, AI 에이전트, Kubernetes, 클라우드·엣지 컴퓨팅의 최신 변화를 매일 무엇을 중심으로 추적해야 하는가?",
+  "time_window": {
+    "trend_signals": "2026-07-01 through 2026-07-30",
+    "background": "2024-01-01 through 2026-07-30"
+  },
+  "method": [
+    "구조화 소스와 공식 RSS·릴리스를 수집하고 canonical URL 기준으로 중복 제거",
+    "last30days로 Reddit, Hacker News, LinkedIn, Threads, TikTok, Instagram, YouTube 등 비-X 채널 탐색",
+    "SNS 결과는 탐색용 약한 신호로만 사용",
+    "핵심 주장은 서로 다른 도메인 두 곳 이상으로 교차검증",
+    "수치·인과·시장점유율 주장은 고위험으로 분리하고 반증 검색",
+    "검증된 주장만 한국어 종합 보고서에 사용"
+  ],
+  "deliverables": [
+    "sources/sources.jsonl",
+    "artifacts/claim_ledger.jsonl",
+    "outputs/verified_claims.json",
+    "outputs/unresolved_claims.json",
+    "outputs/00_executive_summary.md",
+    "outputs/01_full_report/01_daily_research_report.md",
+    "Obsidian daily digest and separate briefing",
+    "Zotero synchronization status"
+  ]
+}

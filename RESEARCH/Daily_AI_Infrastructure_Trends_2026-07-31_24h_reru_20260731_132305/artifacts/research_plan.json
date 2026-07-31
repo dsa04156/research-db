@@ -1,0 +1,21 @@
+{
+  "topic": "AI agent harness와 cloud-native AI infrastructure의 최근 24시간 재조사",
+  "temporal_window": {
+    "primary": "2026-07-30T04:02:00Z/2026-07-31T04:02:00Z",
+    "catch_up": "2026-07-24/2026-07-31",
+    "social_context_days": 7
+  },
+  "subtopics": [
+    "self-evolving harness와 harness-time scaling",
+    "AI agent 장기 협업·평가·권한·거버넌스",
+    "Kubernetes runtime 및 AI inference control plane",
+    "cloud AI inference 성능과 운영",
+    "edge-cloud 배치와 edge AI"
+  ],
+  "selection_rule": "실행 시점 최근 24시간 발행·갱신 자료 우선, 최근 7일은 누락 복구, lead-only SNS는 결론에서 제외",
+  "exclusions": [
+    "X/Twitter",
+    "날짜 또는 원문을 확인할 수 없는 재게시",
+    "독립 검증이 없는 vendor·preprint 성능 수치의 확정적 사용"
+  ]
+}
