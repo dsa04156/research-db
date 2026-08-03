@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 176
+source_count: 178
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **176개**
+연결된 자료: **178개**
 
 ## 자료
 
@@ -27,6 +27,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/Forget humans “in” the loop. Harness engineering puts humans “on” the loop -- R001657|Forget humans “in” the loop. Harness engineering puts humans “on” the loop.]] — 2026-07-31 · `rss:The New Stack` · 관련도 4.3
 - [[vault/Sources/Distributing Security Controls Through Harness Engineering -- R000008|Distributing Security Controls Through Harness Engineering]] — 2026-07-28 · `arxiv` · 관련도 4.3
 - [[vault/Sources/SWE Self-Improving Agents Why The Bitter Lesson doesn't mean what you think it means -- R001591|SWE > Self-Improving Agents: Why "The Bitter Lesson" doesn't mean what you think it means]] — 2026-07-23 · `social:reddit` · 관련도 4.3
 - [[vault/Sources/Toward Self-Improving Agents -- R001536|Toward Self-Improving Agents]] — 2026-07-23 · `social:hackernews` · 관련도 4.3
@@ -97,6 +98,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/openai openai-agents-python v0.19.2 -- R001658|openai/openai-agents-python v0.19.2]] — 2026-08-01 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-checkpoint-sqlite==3.1.1 -- R001589|langchain-ai/langgraph langgraph-checkpoint-sqlite==3.1.1]] — 2026-07-30 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-checkpoint-postgres==3.1.1 -- R001590|langchain-ai/langgraph langgraph-checkpoint-postgres==3.1.1]] — 2026-07-30 · `github-release` · 관련도 2.5
 - [[vault/Sources/Stacked sessions and pull requests in the GitHub Copilot app -- R001585|Stacked sessions and pull requests in the GitHub Copilot app]] — 2026-07-30 · `rss:GitHub AI and ML` · 관련도 2.5

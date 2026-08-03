@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 385
+source_count: 388
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **385개**
+연결된 자료: **388개**
 
 ## 자료
 
@@ -50,6 +50,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing -- R001368|A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing]] — 2026-04-22 · `arxiv` · 관련도 4.8
 - [[vault/Sources/Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM) Architecture, Tr -- R000883|Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration]] — 2025-07-01 · `arxiv` · 관련도 4.8
 - [[vault/Sources/HASFL Heterogeneity-aware Split Federated Learning over Edge Computing Systems -- R000900|HASFL: Heterogeneity-aware Split Federated Learning over Edge Computing Systems]] — 2025-06-10 · `arxiv` · 관련도 4.8
+- [[vault/Sources/Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machi -- R001642|Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machine Learning for Edge Intelligence in 5G/6G Networks]] — 2026-08-01 · `openalex` · 관련도 4.7
 - [[vault/Sources/Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT -- R000103|Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT]] — 2026-07-27 · `openalex` · 관련도 4.7
 - [[vault/Sources/A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Moni -- R001153|A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Monitoring and Orchestration]] — 2026-06-07 · `arxiv` · 관련도 4.7
 - [[vault/Sources/Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems -- R000085|Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems]] — 2026-07-25 · `arxiv` · 관련도 4.6
@@ -275,6 +276,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260802.1 -- R001659|cloudflare/workerd v1.20260802.1]] — 2026-08-02 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260801.1 -- R001660|cloudflare/workerd v1.20260801.1]] — 2026-08-01 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260731.1 -- R001615|cloudflare/workerd v1.20260731.1]] — 2026-07-31 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260730.1 -- R000163|cloudflare/workerd v1.20260730.1]] — 2026-07-30 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260729.1 -- R000164|cloudflare/workerd v1.20260729.1]] — 2026-07-29 · `github-release` · 관련도 2.5

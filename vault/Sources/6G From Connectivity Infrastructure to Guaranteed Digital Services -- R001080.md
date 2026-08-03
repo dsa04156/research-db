@@ -12,6 +12,7 @@ generated_by: codex-research-db
 aliases:
   - "6G: From Connectivity Infrastructure to Guaranteed Digital Services"
 topics:
+  - "kubernetes"
   - "ai-agents"
 ---
 
@@ -21,7 +22,7 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/AI agents]]
+- 주제: [[vault/Topics/Kubernetes]], [[vault/Topics/AI agents]]
 - 최초 수집: [[vault/Daily/2026-07-30|2026-07-30]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
