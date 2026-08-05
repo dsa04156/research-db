@@ -21,6 +21,7 @@ from research_harvester.digest import write_digest
 from research_harvester.obsidian import export_obsidian_graph
 from research_harvester.sources import collect_all
 from research_harvester.social import items_from_last30days_agent
+from research_harvester.social_plan import build_social_plan
 from research_harvester.zotero import (
     ZoteroClient,
     ZoteroError,
@@ -187,6 +188,13 @@ def command_ingest_social_report(args: argparse.Namespace) -> int:
     summary["converted"] = len(items)
     summary["input_results"] = sum(len(report.get("results") or []) for report in reports)
     print(json.dumps(summary, ensure_ascii=False, indent=2))
+    return 0
+
+
+def command_social_plan(args: argparse.Namespace) -> int:
+    config = load_runtime_config(args.config)
+    plan = build_social_plan(config, args.platform)
+    print(json.dumps(plan, ensure_ascii=False, indent=2))
     return 0
 
 
@@ -398,6 +406,17 @@ def build_parser() -> argparse.ArgumentParser:
         help="Comma-separated configured topic ids used by the social query.",
     )
     social_parser.set_defaults(handler=command_ingest_social_report)
+
+    social_plan_parser = subparsers.add_parser(
+        "social-plan",
+        help="Print deterministic platform-specific social search queries.",
+    )
+    social_plan_parser.add_argument(
+        "--platform",
+        required=True,
+        help="Configured social platform id, for example threads.",
+    )
+    social_plan_parser.set_defaults(handler=command_social_plan)
 
     digest_parser = subparsers.add_parser("digest", help="Write a daily Markdown digest.")
     digest_parser.add_argument("--date", help="Local date in YYYY-MM-DD.")

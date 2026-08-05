@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`N6T6CGVU`)
 - 발행일: 2026-07-31
 - 저자: Umamaheswara Rao Kukkala
 - 식별자: `doi:10.38124/ijisrt/26jul1110`

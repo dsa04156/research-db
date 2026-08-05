@@ -71,17 +71,36 @@
     "queries": [
       {
         "name": "Self-evolving agent harnesses",
-        "query": "self improving AI agent harness context engineering",
+        "query": "agent harness self improving context engineering",
+        "platform_queries": {
+          "threads": [
+            "agent harness",
+            "harness engineering",
+            "self-improving agent"
+          ]
+        },
         "topic_hints": ["self-evolving-harness", "ai-agents"]
       },
       {
         "name": "Agentic Kubernetes and AI infrastructure",
         "query": "Kubernetes AI agents inference infrastructure GPU scheduling",
+        "platform_queries": {
+          "threads": [
+            "kubernetes ai",
+            "gpu scheduling"
+          ]
+        },
         "topic_hints": ["kubernetes", "cloud-infrastructure", "ai-agents"]
       },
       {
         "name": "Cloud-edge agent systems",
         "query": "edge AI agents distributed inference cloud edge orchestration",
+        "platform_queries": {
+          "threads": [
+            "edge ai",
+            "distributed inference"
+          ]
+        },
         "topic_hints": ["edge-computing", "cloud-infrastructure", "ai-agents"]
       }
     ],
@@ -243,7 +262,11 @@
         "orchestration"
       ],
       "exclude_keywords": [
-        "microsoft edge browser"
+        "microsoft edge browser",
+        "forex",
+        "stop loss",
+        "take profit",
+        "quantum edge ai"
       ]
     }
   ],

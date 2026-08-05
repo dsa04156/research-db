@@ -57,6 +57,19 @@ SNS는 Threads, LinkedIn, Reddit, Hacker News, YouTube, TikTok, Instagram까지 
 
 `last30days`의 stable agent JSON 결과는 다음처럼 병합합니다.
 
+Threads처럼 짧은 검색어만 안정적으로 처리하는 플랫폼에는 긴 공통 질의를
+그대로 넘기지 않습니다. `config/research.json`의 `platform_queries`에 핵심
+검색어를 여러 개 정의하고 다음 명령으로 결정적인 실행 계획을 만듭니다.
+
+```powershell
+python scripts\research_db.py social-plan --platform threads
+```
+
+출력되는 각 검색어는 Threads의 2단어 제한에 맞으며 원래 질의, 축약 여부,
+주제 힌트를 함께 보존합니다. 특정 공개 계정을 계속 관찰할 때는
+`social_research.watch_queries`에 `platform`, `query`, `topic_hints`를 추가하면
+같은 계획에 포함됩니다.
+
 ```powershell
 python scripts\research_db.py ingest-social-report `
   --input tmp\social-agent-harness.json `

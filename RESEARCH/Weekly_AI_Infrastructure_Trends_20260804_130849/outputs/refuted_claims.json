@@ -1,0 +1,18 @@
+[
+  {
+    "claim_id": "clm_009",
+    "text": "edge가 cloud를 완전히 대체한다.",
+    "risk": "normal",
+    "claim_type": "trend-claim",
+    "source_ids": [
+      "src_013",
+      "src_014"
+    ],
+    "counter_search": "공식 학습 자료와 GSMA 분석 모두 workload별 local/cloud 조합을 전제로 하므로 완전 대체 주장은 지지되지 않는다.",
+    "counter_refuted": true,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "refuted",
+    "status_reason": "counter-search로 반박됨"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "claim_id": "clm_002",
+    "text": "양대 최신 자기개선 실험의 외삽 가능성 확정",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_002",
+      "src_003"
+    ],
+    "counter_search": "두 결과의 독립 재현, production trace, 동일 비용 조건 비교를 검색했으나 찾지 못했고 Weco의 ignition 효율도 통계적으로 유의하지 않다고 원문이 밝힌다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "high-risk인데 primary_source=false"
+  },
+  {
+    "claim_id": "clm_008",
+    "text": "사회망 반응량이 현장 보급 확산을 수량적으로 증명한다.",
+    "risk": "normal",
+    "claim_type": "trend-signal",
+    "source_ids": [
+      "src_016",
+      "src_017",
+      "src_018"
+    ],
+    "counter_search": "공개 게시물의 외부 원문과 실제 배포 지표를 확인했으나 학습 자료·소형 데모·질문형 논의가 중심이고 대표 표본도 아니다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  },
+  {
+    "claim_id": "clm_010",
+    "text": "격리·분할 자원 기법의 광범위 상용 정착 완료",
+    "risk": "high",
+    "claim_type": "adoption",
+    "source_ids": [
+      "src_007",
+      "src_009",
+      "src_011"
+    ],
+    "counter_search": "공식 구현과 재현 가능한 가이드는 확인했지만 독립 조직의 장기 production 규모, 장애율, 비용 지표는 확인되지 않았다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  }
+]

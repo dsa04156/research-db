@@ -1,0 +1,12 @@
+{
+  "topic": "AI agent harness와 cloud-native/edge infrastructure의 2026-07-29~2026-08-04 변화",
+  "subtopics": [
+    {"name": "self-evolving harness", "questions": ["어떤 상태를 영속화하는가?", "개선 gate는 무엇인가?"], "priority": 1},
+    {"name": "AI agent validation", "questions": ["왜 trajectory 단위 검증이 필요한가?", "자원 제약을 어떻게 평가에 포함하는가?"], "priority": 1},
+    {"name": "Kubernetes AI infrastructure", "questions": ["DRA·MIG가 multitenancy에 주는 변화는?", "Gateway API v1.6의 운영 영향은?"], "priority": 1},
+    {"name": "cloud agent serving", "questions": ["token 지표 밖의 병목은 무엇인가?", "sandbox lifecycle을 어떻게 다뤄야 하는가?"], "priority": 2},
+    {"name": "edge AI", "questions": ["이번 주 검증된 구조 변화가 있는가?", "SNS 신호가 가리키는 원문은 무엇인가?"], "priority": 3}
+  ],
+  "source_policy": "A-E rubric, primary-source-first, two independent domains, X excluded",
+  "synthesis_policy": "outputs/verified_claims.json only"
+}

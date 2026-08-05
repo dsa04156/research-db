@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`NE3NV44N`)
 - 발행일: 2026-07-28
 - 저자: Matteo Cenzato, Dario d'Abate, Arianna Dragoni, Giacomo Orsenigo, Luca Tosetti, Alessandro Margara
 - 식별자: `arxiv:2607.25493`

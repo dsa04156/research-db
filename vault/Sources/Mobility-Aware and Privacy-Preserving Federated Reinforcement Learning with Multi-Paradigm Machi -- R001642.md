@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`GSZNPKJ8`)
 - 발행일: 2026-08-01
 - 저자: Nabil Abdulwahab Abdulrazaq Baban
 - 식별자: `doi:10.31026/j.eng.2026.08.08`

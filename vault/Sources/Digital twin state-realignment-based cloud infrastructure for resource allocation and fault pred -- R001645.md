@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`XJ3IAXRA`)
 - 발행일: 2026-07-31
 - 저자: Malatthi Sivasundaram, N. Saranya, A. Rajesh, Linesh Raja
 - 식별자: `doi:10.1038/s41598-026-62639-4`

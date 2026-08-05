@@ -1,0 +1,1 @@
+# No fatal URL failures. Red Hat and Kubernetes pages were verified through collected feed content when direct web opening was unavailable.

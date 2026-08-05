@@ -16,6 +16,7 @@ from research_harvester.core import (
 from research_harvester.digest import write_digest
 from research_harvester.obsidian import export_obsidian_graph
 from research_harvester.social import items_from_last30days_agent
+from research_harvester.social_plan import build_social_plan
 
 
 CONFIG = {
@@ -330,6 +331,113 @@ class SocialImportTests(unittest.TestCase):
             "https://www.threads.net/@researcher/post/thread-1",
         )
         self.assertEqual(items[0]["metadata"]["engagement"]["likes"], 120)
+
+
+class SocialPlanTests(unittest.TestCase):
+    def test_threads_uses_multiple_short_platform_queries(self):
+        config = {
+            **CONFIG,
+            "social_research": {
+                "excluded_platforms": ["x"],
+                "platforms": [{"id": "threads"}, {"id": "x"}],
+                "queries": [
+                    {
+                        "name": "Harnesses",
+                        "query": "self improving AI agent harness context engineering",
+                        "platform_queries": {
+                            "threads": [
+                                "agent harness",
+                                "harness engineering",
+                                "self-improving agent",
+                            ]
+                        },
+                        "topic_hints": ["harness"],
+                    }
+                ],
+            },
+        }
+
+        plan = build_social_plan(config, "threads")
+
+        self.assertFalse(plan["excluded"])
+        self.assertEqual(
+            [entry["query"] for entry in plan["queries"]],
+            ["agent harness", "harness engineering", "self-improving agent"],
+        )
+        self.assertTrue(
+            all(len(entry["query"].split()) <= 2 for entry in plan["queries"])
+        )
+
+    def test_threads_compaction_is_explicit_and_watch_queries_are_included(self):
+        config = {
+            **CONFIG,
+            "social_research": {
+                "platforms": [{"id": "threads"}],
+                "queries": [
+                    {
+                        "name": "Harnesses",
+                        "query": "agent harness evaluation",
+                        "topic_hints": ["harness"],
+                    }
+                ],
+                "watch_queries": [
+                    {
+                        "name": "Researcher watch",
+                        "platform": "threads",
+                        "query": "researcher handle",
+                        "topic_hints": ["harness"],
+                    }
+                ],
+            },
+        }
+
+        plan = build_social_plan(config, "threads")
+
+        self.assertEqual(len(plan["queries"]), 2)
+        self.assertEqual(plan["queries"][0]["query"], "agent harness")
+        self.assertEqual(plan["queries"][0]["raw_query"], "agent harness evaluation")
+        self.assertTrue(plan["queries"][0]["compacted"])
+        self.assertEqual(plan["queries"][1]["query_kind"], "watch")
+
+    def test_excluded_platform_produces_no_runs(self):
+        config = {
+            **CONFIG,
+            "social_research": {
+                "platforms": [{"id": "x"}],
+                "excluded_platforms": ["x"],
+                "queries": [{"query": "agent harness", "topic_hints": ["harness"]}],
+            },
+        }
+
+        plan = build_social_plan(config, "x")
+
+        self.assertTrue(plan["excluded"])
+        self.assertEqual(plan["queries"], [])
+
+    def test_duplicate_queries_merge_topics_to_save_api_calls(self):
+        config = {
+            **CONFIG,
+            "social_research": {
+                "platforms": [{"id": "threads"}],
+                "queries": [
+                    {
+                        "name": "Harnesses",
+                        "query": "agent harness",
+                        "topic_hints": ["harness"],
+                    },
+                    {
+                        "name": "Agents",
+                        "query": "agent harness",
+                        "topic_hints": ["agents"],
+                    },
+                ],
+            },
+        }
+
+        plan = build_social_plan(config, "threads")
+
+        self.assertEqual(len(plan["queries"]), 1)
+        self.assertEqual(plan["queries"][0]["topic_hints"], ["harness", "agents"])
 
 
 if __name__ == "__main__":

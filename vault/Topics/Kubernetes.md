@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 445
+source_count: 459
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **445개**
+연결된 자료: **459개**
 
 ## 자료
 
@@ -61,6 +61,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/The Invisible Rewrite Modernizing the Kubernetes Image Promoter -- R001440|The Invisible Rewrite: Modernizing the Kubernetes Image Promoter]] — 2026-03-17 · `rss:Kubernetes Blog` · 관련도 6.1
 - [[vault/Sources/Ingress NGINX Statement from the Kubernetes Steering and Security Response Committees -- R001446|Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees]] — 2026-01-29 · `rss:Kubernetes Blog` · 관련도 6.1
 - [[vault/Sources/Mitigating Temporal Blindness in Kubernetes Autoscaling An Attention-Double-LSTM Framework -- R001192|Mitigating Temporal Blindness in Kubernetes Autoscaling: An Attention-Double-LSTM Framework]] — 2026-03-21 · `arxiv` · 관련도 6.0
+- [[vault/Sources/Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More -- R001689|Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More]] — 2026-08-01 · `arxiv` · 관련도 5.9
 - [[vault/Sources/Adaptive CI CD Automation Framework for Containerized Enterprise Applications Using Jenkins and -- R000081|Adaptive CI/CD Automation Framework for Containerized Enterprise Applications Using Jenkins and Kubernetes]] — 2026-07-16 · `openalex` · 관련도 5.9
 - [[vault/Sources/Security Hardening and Compliance Assessment of Kubernetes Control Plane and Workloads -- R000758|Security Hardening and Compliance Assessment of Kubernetes Control Plane and Workloads]] — 2025-06-04 · `openalex` · 관련도 5.9
 - [[vault/Sources/Visualizing Cloud-native Applications with KubeDiagrams -- R000697|Visualizing Cloud-native Applications with KubeDiagrams]] — 2025-05-28 · `arxiv` · 관련도 5.9
@@ -89,6 +90,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 5.4
 - [[vault/Sources/Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN -- R000306|Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN]] — 2024-05-24 · `arxiv` · 관련도 5.4
 - [[vault/Sources/PerfTune360 Self-Optimizing AI Framework for Cloud-Native Microservices -- R000367|PerfTune360: Self-Optimizing AI Framework for Cloud-Native Microservices]] — 2024-01-01 · `openalex` · 관련도 5.4
+- [[vault/Sources/Multitenant AI inference with dynamic resource allocation on OpenShift -- R001700|Multitenant AI inference with dynamic resource allocation on OpenShift]] — 2026-08-03 · `rss:Red Hat Developer Blog` · 관련도 5.3
 - [[vault/Sources/Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth -- R001654|Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth]] — 2026-07-31 · `rss:CNCF Blog` · 관련도 5.3
 - [[vault/Sources/Kubernetes has quietly become the default substrate for agentic AI. CNCF's 2026 annual survey pu -- R001593|Kubernetes has quietly become the default substrate for agentic AI. CNCF's 2026 annual survey puts it at 66% of organizations hosting genera]] — 2026-07-30 · `social:linkedin` · 관련도 5.3
 - [[vault/Sources/Your Kubernetes health checks are accidentally waking your services. Here’s the fix -- R000117|Your Kubernetes health checks are accidentally waking your services. Here’s the fix.]] — 2026-07-29 · `rss:CNCF Blog` · 관련도 5.3
@@ -150,8 +152,10 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Mutiny! How does Kubernetes fail, and what can we do about it -- R000313|Mutiny! How does Kubernetes fail, and what can we do about it?]] — 2024-04-17 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Performance Evaluation of Kubernetes Networking Approaches across Constraint Edge Environments -- R000321|Performance Evaluation of Kubernetes Networking Approaches across Constraint Edge Environments]] — 2024-01-15 · `arxiv` · 관련도 5.1
 - [[vault/Sources/ClusterLess Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters -- R001172|ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters]] — 2026-05-05 · `arxiv` · 관련도 5.0
+- [[vault/Sources/Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-N -- R001690|Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-Native Systems and services]] — 2026-08-02 · `openalex` · 관련도 4.9
 - [[vault/Sources/Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite P -- R000069|Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms]] — 2026-07-16 · `openalex` · 관련도 4.9
 - [[vault/Sources/Carbon-Aware Kubernetes Scheduling Using Deep Reinforcement Learning for Mixed Batch and Latency -- R000348|Carbon-Aware Kubernetes Scheduling Using Deep Reinforcement Learning for Mixed Batch and Latency-Sensitive Workloads]] — 2024-06-10 · `openalex` · 관련도 4.9
+- [[vault/Sources/SAFE-HealCloud Safety-Aware, Agentic Self-Healing for Cloud Infrastructure -- R001691|SAFE-HealCloud: Safety-Aware, Agentic Self-Healing for Cloud Infrastructure]] — 2026-08-01 · `openalex` · 관련도 4.8
 - [[vault/Sources/Spotlight on SIG Storage -- R001412|Spotlight on SIG Storage]] — 2026-06-15 · `rss:Kubernetes Blog` · 관련도 4.7
 - [[vault/Sources/Cold-Start Model Delivery in Kubernetes Inference Serving An Empirical Study of OCI-Based Distri -- R000052|Cold-Start Model Delivery in Kubernetes Inference Serving: An Empirical Study of OCI-Based Distribution and Its Integrity]] — 2026-07-18 · `arxiv` · 관련도 4.6
 - [[vault/Sources/SQUIRO A Framework for Security-Aware Quantum-Classical Scheduling on Kubernetes -- R000067|SQUIRO: A Framework for Security-Aware Quantum-Classical Scheduling on Kubernetes]] — 2026-07-17 · `openalex` · 관련도 4.6
@@ -176,11 +180,16 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/From Cloud-Native to Trust-Native A Protocol for Verifiable Multi-Agent Systems -- R000604|From Cloud-Native to Trust-Native: A Protocol for Verifiable Multi-Agent Systems]] — 2025-07-25 · `arxiv` · 관련도 4.5
 - [[vault/Sources/A Review of Generative AI and DevOps Pipelines CI CD, Agentic Automation, MLOps Integration, and -- R000748|A Review of Generative AI and DevOps Pipelines: CI/CD, Agentic Automation, MLOps Integration, and LLMs]] — 2025-07-01 · `openalex` · 관련도 4.5
 - [[vault/Sources/A Review of Generative AI and DevOps Pipelines CI CD, Agentic Automation, MLOps Integration, and -- R000755|A Review of Generative AI and DevOps Pipelines: CI/CD, Agentic Automation, MLOps Integration, and Large Language Models]] — 2025-06-12 · `openalex` · 관련도 4.5
+- [[vault/Sources/Gateway API v1.6 TCPRoute and UDPRoute Graduate to Standard -- R001694|Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard]] — 2026-08-03 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Inspect Volcano workloads faster with Headlamp -- R001409|Inspect Volcano workloads faster with Headlamp]] — 2026-06-25 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Gateway API v1.5 Moving features to Stable -- R001435|Gateway API v1.5: Moving features to Stable]] — 2026-04-21 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Announcing Ingress2Gateway 1.0 Your Path to Gateway API -- R001437|Announcing Ingress2Gateway 1.0: Your Path to Gateway API]] — 2026-03-20 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Experimenting with Gateway API using kind -- R001447|Experimenting with Gateway API using kind]] — 2026-01-28 · `rss:Kubernetes Blog` · 관련도 4.4
+- [[vault/Sources/You can’t debug what you can’t see — Observability for AI Agents -- R001753|You can’t debug what you can’t see — Observability for AI Agents]] — 2026-08-04 · `rss:CNCF Blog` · 관련도 4.3
+- [[vault/Sources/How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure -- R001697|How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure]] — 2026-08-03 · `rss:NVIDIA Technical Blog` · 관련도 4.3
+- [[vault/Sources/HashiCorp Ships Public Beta of Vault Kubernetes Key Management -- R001703|HashiCorp Ships Public Beta of Vault Kubernetes Key Management]] — 2026-08-03 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/Kubernetes upgrades don’t have to break things How EKS is making cluster lifecycle management si -- R001656|Kubernetes upgrades don’t have to break things: How EKS is making cluster lifecycle management simpler and safer]] — 2026-08-01 · `rss:The New Stack` · 관련도 4.3
+- [[vault/Sources/scaling Large Language Model inference within a Kubernetes environment -- R001710|scaling Large Language Model inference within a Kubernetes environment.]] — 2026-07-31 · `social:instagram` · 관련도 4.3
 - [[vault/Sources/Triton Control - Open-source control plane for NVIDIA Triton on Kubernetes -- R001636|Triton Control - Open-source control plane for NVIDIA Triton on Kubernetes]] — 2026-07-29 · `web:GitHub` · 관련도 4.3
 - [[vault/Sources/Kyverno Policies to Secure Your Kubernetes Cluster -- R001635|Kyverno Policies to Secure Your Kubernetes Cluster]] — 2026-07-29 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/CNCF Announces Schedule for Debut Observability Summit Europe -- R000123|CNCF Announces Schedule for Debut Observability Summit Europe]] — 2026-07-28 · `rss:CNCF Blog` · 관련도 4.3
@@ -275,6 +284,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Cloud-Native Multi-Factor Authentication Framework for Digital Banking Systems An AI-Driven Adap -- R001304|Cloud-Native Multi-Factor Authentication Framework for Digital Banking Systems: An AI-Driven Adaptive Security Architecture]] — 2026-07-02 · `openalex` · 관련도 3.5
 - [[vault/Sources/NVIDIA Dynamo Snapshot Fast Startup for Inference Workloads on Kubernetes -- R001475|NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes]] — 2026-05-27 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/AntBatchInfer Elastic Batch Inference in the Kubernetes Cluster -- R000314|AntBatchInfer: Elastic Batch Inference in the Kubernetes Cluster]] — 2024-04-15 · `arxiv` · 관련도 3.5
+- [[vault/Sources/Agent Sandbox -- R001709|Agent Sandbox]] — 2026-07-31 · `web:Kubernetes SIGs` · 관련도 3.4
 - [[vault/Sources/Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS -- R000159|Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS]] — 2026-07-29 · `rss:InfoQ` · 관련도 3.4
 - [[vault/Sources/Towards an Agent Operating System - Lessons from Classical and Cloud OS -- R000047|Towards an Agent Operating System - Lessons from Classical and Cloud OS]] — 2026-07-27 · `arxiv` · 관련도 3.4
 - [[vault/Sources/6G From Connectivity Infrastructure to Guaranteed Digital Services -- R001080|6G: From Connectivity Infrastructure to Guaranteed Digital Services]] — 2026-07-27 · `arxiv` · 관련도 3.4
@@ -359,7 +369,9 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Optimizing Callback Service Architecture for High-Throughput Applications -- R000756|Optimizing Callback Service Architecture for High-Throughput Applications]] — 2025-06-07 · `openalex` · 관련도 2.9
 - [[vault/Sources/Reinforcement Learning-based Task Scheduling for Heterogeneous Computing in End-Edge-Cloud Envir -- R000344|Reinforcement Learning-based Task Scheduling for Heterogeneous Computing in End-Edge-Cloud Environment]] — 2024-07-01 · `openalex` · 관련도 2.9
 - [[vault/Sources/EdgeTimer Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement L -- R000303|EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning]] — 2024-06-11 · `arxiv` · 관련도 2.9
+- [[vault/Sources/Stop patching and build a better WordPress stack with Red Hat Hardened Images -- R001699|Stop patching and build a better WordPress stack with Red Hat Hardened Images]] — 2026-08-03 · `rss:Red Hat Developer Blog` · 관련도 2.6
 - [[vault/Sources/Inference-time scaling on Red Hat AI Improving model reliability -- R001655|Inference-time scaling on Red Hat AI: Improving model reliability]] — 2026-07-31 · `rss:Red Hat Developer Blog` · 관련도 2.6
+- [[vault/Sources/MLOps & AI Infrastructure ai learning mlops aiinfrastructure -- R001711|MLOps & AI Infrastructure #ai #learning #mlops #aiinfrastructure]] — 2026-07-29 · `social:youtube` · 관련도 2.6
 - [[vault/Sources/Building AIchor InstaDeep's Internal ML Platform From Training to Inference at Scale -- R001631|Building AIchor: InstaDeep's Internal ML Platform: From Training to Inference at Scale]] — 2026-07-29 · `social:youtube` · 관련도 2.6
 - [[vault/Sources/Adaptive Canary Deployments Using Real-Time Performance Analytics A Systematic Literature Review -- R001233|Adaptive Canary Deployments Using Real-Time Performance Analytics: A Systematic Literature Review]] — 2026-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/Spandana Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations -- R001235|Spandana: Reconciling Strict SLOs with Low Cost under Fine-Grained Load Fluctuations]] — 2026-06-29 · `openalex` · 관련도 2.6
@@ -388,6 +400,8 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/AI-Powered Anomaly Detection in Cloud-Based Applications -- R000375|AI-Powered Anomaly Detection in Cloud-Based Applications]] — 2024-01-01 · `openalex` · 관련도 2.6
 - [[vault/Sources/Incremental DRL-Based Resource Management for Dynamic Network Slicing in an Urban-Wide Testbed -- R000328|Incremental DRL-Based Resource Management for Dynamic Network Slicing in an Urban-Wide Testbed]] — 2023-10-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Modern Software Development for JUNO offline software -- R000330|Modern Software Development for JUNO offline software]] — 2023-09-25 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Kubeflow SDK evolution- One million downloads and counting -- R001695|Kubeflow SDK evolution- One million downloads and counting]] — 2026-08-03 · `rss:CNCF Blog` · 관련도 2.5
+- [[vault/Sources/Cortex completes OSTIF security audit -- R001696|Cortex completes OSTIF security audit]] — 2026-08-03 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Lima v2.2 Windows guests and TPM 2.0 emulation -- R000143|Lima v2.2: Windows guests and TPM 2.0 emulation]] — 2026-07-29 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Design and Implementation of an AI ML-Enabled Azure Orchestration Framework for Regulated Enterp -- R001644|Design and Implementation of an AI/ML-Enabled Azure Orchestration Framework for Regulated Enterprise Workflows]] — 2026-07-31 · `openalex` · 관련도 2.3
 - [[vault/Sources/This Policy Blocked an Image With 415 CVEs. How do you stop a vulnerable container image from ev -- R001632|This Policy Blocked an Image With 415 CVEs. How do you stop a vulnerable container image from ever reaching production? With a security poli]] — 2026-07-31 · `social:tiktok` · 관련도 2.3

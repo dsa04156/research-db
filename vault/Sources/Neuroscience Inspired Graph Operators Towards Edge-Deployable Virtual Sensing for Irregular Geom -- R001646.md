@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`NSGKJF5R`)
 - 발행일: 2026-08-04
 - 저자: William Howes, Farid Ahmed, Kazuma Kobayashi, Souvik Chakraborty, Syed Bahauddin Alam
 - 식별자: `doi:10.1145/3822454.3822494`

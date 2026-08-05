@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-03|2026-08-03]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`8488AE63`)
 - 발행일: 2026-07-29
 - 저자: Xiaoxiao Jiang, Suyi Li, Sheng Yao, Tianyu Feng, Lingyun Yang, D.X. Nie, Haoran Yang, Wei Wang
 - 식별자: `arxiv:2607.26566`

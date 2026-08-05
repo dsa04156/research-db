@@ -1,0 +1,108 @@
+{
+  "session_id": "Weekly_AI_Infrastructure_Trends_20260804_130849",
+  "topic": "Weekly AI Infrastructure Trends 2026-08-04",
+  "created_at": "2026-08-04T13:08:49+09:00",
+  "updated_at": "2026-08-04T13:13:30+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "focus": [
+      "self-evolving harness와 harness engineering",
+      "AI agent 평가·권한·sandbox",
+      "Kubernetes와 cloud-native AI infrastructure",
+      "cloud·serverless·distributed agent serving",
+      "edge computing과 edge AI"
+    ],
+    "output_format": "Korean weekly synthesis and evidence-backed report",
+    "scope": {
+      "primary_window": "2026-07-29/2026-08-04",
+      "timezone": "Asia/Seoul",
+      "exclusions": [
+        "X/Twitter",
+        "lead-only social claims as conclusions",
+        "unreplicated performance numbers as facts"
+      ]
+    },
+    "sources": {
+      "required_types": [
+        "primary research",
+        "official documentation",
+        "official repositories and releases",
+        "industry research",
+        "non-X social discovery"
+      ],
+      "minimum_quality": "two independent domains per verified claim"
+    },
+    "audience": "individual technical researcher",
+    "special_requirements": [
+      "Korean synthesis",
+      "A-E grading",
+      "counter-search",
+      "verified-only synthesis",
+      "Obsidian graph links"
+    ]
+  },
+  "plan": {
+    "subtopics": [
+      "self-evolving harness",
+      "AI agent validation and governance",
+      "Kubernetes AI runtime and networking",
+      "cloud agent-serving systems",
+      "edge-cloud placement"
+    ],
+    "search_queries": {
+      "harness": [
+        "Living-Harness",
+        "AIDE2 recursive self-improvement",
+        "harness evaluation"
+      ],
+      "agents": [
+        "trajectory validation",
+        "resource-aware agent benchmark",
+        "agent sandbox"
+      ],
+      "kubernetes": [
+        "Gateway API v1.6",
+        "DRA MIG multitenant inference",
+        "isolated tenant GPU clusters"
+      ],
+      "cloud": [
+        "Aries agentic serving systems",
+        "sandbox resource management"
+      ],
+      "edge": [
+        "edge AI agents",
+        "hybrid edge cloud placement"
+      ]
+    },
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 18,
+  "artifacts": {
+    "research_plan.json": "artifacts/research_plan.json",
+    "claim_ledger.jsonl": "artifacts/claim_ledger.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_weekly_research_report.md",
+    "eval_report": "outputs/eval_report.json",
+    "weekly_synthesis": "../../vault/Synthesis/2026-W32.md"
+  },
+  "errors": [],
+  "verification": {
+    "passed": true,
+    "signature": "0fe0af7eeffe9ce8602aac590c958637a10bd5d1f9a3214fdab4afacb7624264",
+    "verified_count": 6,
+    "unresolved_count": 3,
+    "refuted_count": 1,
+    "checked_at": "2026-08-04T04:13:30.167265+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

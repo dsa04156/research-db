@@ -1,0 +1,109 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "self-evolving harness의 실질적 개선은 완료 trajectory를 지속 상태로 바꾸고 held-out 평가나 고정 예산 gate로 변경을 선별하는 외부 loop에서 나온다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_003"
+    ],
+    "counter_search": "prompt 재작성만으로 self-evolution을 설명하는 반대 사례를 찾았으나, 최근 연구와 독립 기술 정리는 persistent state와 evaluator-gated update를 공통 요소로 둔다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "agent 시스템 검증은 단일 출력 정확도보다 trajectory, 시간에 따른 상태 변화, tool·memory 상호작용, 자원 사용을 함께 보는 lifecycle 평가로 이동해야 한다.",
+    "risk": "normal",
+    "claim_type": "prescriptive",
+    "source_ids": [
+      "src_001",
+      "src_004",
+      "src_005",
+      "src_006"
+    ],
+    "counter_search": "component 또는 one-shot accuracy만으로 production agent를 충분히 검증할 수 있다는 근거를 검색했으나, 독립 자료들은 장기 trajectory와 runtime evidence의 공백을 공통으로 지적한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "agent serving infrastructure는 token throughput만이 아니라 sandbox의 burst-idle 패턴, state 복구 비용, 격리와 attack surface를 별도 운영 지표와 control boundary로 다뤄야 한다.",
+    "risk": "normal",
+    "claim_type": "prescriptive",
+    "source_ids": [
+      "src_005",
+      "src_006",
+      "src_010",
+      "src_011"
+    ],
+    "counter_search": "일반 LLM serving 지표와 stateless container만으로 agent workload를 충분히 설명한다는 근거를 찾았으나, agent trajectory 연구와 공식 sandbox 구현은 stateful execution과 격리 경계를 별도로 요구한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "Kubernetes GPU multitenancy의 현재 실무 패턴은 scheduler가 device topology와 claim을 보게 하고 hardware partition과 tenant boundary를 함께 적용하는 방향이다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_007",
+      "src_009"
+    ],
+    "counter_search": "단순 nvidia.com/gpu 정수 할당만으로 세분화된 공유와 tenant 격리를 해결한다는 반대 근거를 확인했으나, Red Hat과 NVIDIA의 독립 운영 가이드는 DRA·MIG·격리 계층을 함께 사용한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_006",
+    "text": "지난 7일의 cloud-native AI 운영 변화는 새로운 단일 AI abstraction보다 표준 networking, resource claims, sandbox, 통합 SDK 같은 외부 control-plane primitive를 강화하는 흐름으로 모인다.",
+    "risk": "normal",
+    "claim_type": "synthesis",
+    "source_ids": [
+      "src_005",
+      "src_007",
+      "src_008",
+      "src_009",
+      "src_010",
+      "src_011",
+      "src_012"
+    ],
+    "counter_search": "모델 API 하나로 network·GPU·sandbox·pipeline 운영을 통합할 수 있다는 근거를 검색했으나, 공식 릴리스와 운영 자료는 각 경계의 명시적 API와 정책 집행을 강화한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "edge AI는 cloud를 없애는 구조가 아니라 latency, privacy, connectivity, device capacity에 맞춰 inference와 orchestration을 나누는 workload-placement 문제다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_013",
+      "src_014",
+      "src_015"
+    ],
+    "counter_search": "모든 agent workload를 device에 완전히 이동하는 근거를 검색했으나, 공식 학습 구현과 산업 분석은 local inference와 cloud coordination을 함께 다룬다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]
