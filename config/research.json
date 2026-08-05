@@ -116,6 +116,20 @@
       "zotero_sync_lead_only": false
     }
   },
+  "trend_research": {
+    "enabled": true,
+    "domain": "AI agents agent harness Kubernetes cloud-native AI infrastructure distributed systems edge AI",
+    "daily_window_days": 1,
+    "weekly_window_days": 7,
+    "baseline_days": 14,
+    "daily_mode": "discover_shallow",
+    "excluded_sources": ["x"],
+    "max_daily_candidates": 3,
+    "max_weekly_candidates": 7,
+    "minimum_independent_platforms": 2,
+    "allow_primary_plus_community": true,
+    "briefing_section": "트렌드 레이더"
+  },
   "topics": [
     {
       "id": "self-evolving-harness",
