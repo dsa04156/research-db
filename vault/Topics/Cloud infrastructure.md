@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 359
+source_count: 385
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **359개**
+연결된 자료: **385개**
 
 ## 자료
 
@@ -41,6 +41,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network -- R000394|Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network]] — 2023-08-22 · `arxiv` · 관련도 5.4
 - [[vault/Sources/A Deep Reinforcement Learning based Algorithm for Time and Cost Optimized Scaling of Serverless -- R000395|A Deep Reinforcement Learning based Algorithm for Time and Cost Optimized Scaling of Serverless Applications]] — 2023-08-22 · `arxiv` · 관련도 5.4
 - [[vault/Sources/On-demand Cold Start Frequency Reduction with Off-Policy Reinforcement Learning in Serverless Co -- R000396|On-demand Cold Start Frequency Reduction with Off-Policy Reinforcement Learning in Serverless Computing]] — 2023-08-15 · `arxiv` · 관련도 5.4
+- [[vault/Sources/Intelligent VM Scheduling in Cloud Computing Survey of Existing Methods and Proposal of a New Hy -- R001805|Intelligent VM Scheduling in Cloud Computing: Survey of Existing Methods and Proposal of a New Hybrid Heuristic-ML Framework]] — 2026-08-03 · `openalex` · 관련도 5.3
 - [[vault/Sources/AI-Based Dynamic Task Scheduling in Cloud Computing Using Deep Reinforcement Learning -- R001297|AI-Based Dynamic Task Scheduling in Cloud Computing Using Deep Reinforcement Learning]] — 2026-07-12 · `openalex` · 관련도 5.3
 - [[vault/Sources/Responsibility Attribution in Autonomous AI Agents Deployed on Cloud Infrastructure -- R000827|Responsibility Attribution in Autonomous AI Agents Deployed on Cloud Infrastructure]] — 2025-07-16 · `openalex` · 관련도 5.3
 - [[vault/Sources/The Future of DevOps Converging AI Engineering, Platform Engineering, and Observability for Hype -- R000853|The Future of DevOps: Converging AI Engineering, Platform Engineering, and Observability for Hyper-Automated Delivery]] — 2025-06-30 · `openalex` · 관련도 5.3
@@ -78,6 +79,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Kubernetes v1.36 ハル (Haru) -- R001434|Kubernetes v1.36: ハル (Haru)]] — 2026-04-22 · `rss:Kubernetes Blog` · 관련도 4.8
 - [[vault/Sources/Mitigating Temporal Blindness in Kubernetes Autoscaling An Attention-Double-LSTM Framework -- R001192|Mitigating Temporal Blindness in Kubernetes Autoscaling: An Attention-Double-LSTM Framework]] — 2026-03-21 · `arxiv` · 관련도 4.7
 - [[vault/Sources/Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games Edge-Cloud Architectures, Sche -- R000353|Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games: Edge-Cloud Architectures, Scheduling Policies, and Observability Frameworks Aravind Chinnaraju]] — 2024-04-30 · `openalex` · 관련도 4.7
+- [[vault/Sources/Security challenges in serverless architectures Vulnerabilities and penetration testing approach -- R001803|Security challenges in serverless architectures: Vulnerabilities and penetration testing approaches for AWS Lambda and Google Cloud Functions]] — 2026-08-04 · `openalex` · 관련도 4.6
 - [[vault/Sources/🚀 Belajar Cloud Computing GRATIS + Kesempatan Dapat Merchandise & Bonus Poin! ☁️🎮 Ikuti Google C -- R001633|🚀 Belajar Cloud Computing GRATIS + Kesempatan Dapat Merchandise & Bonus Poin! ☁️🎮 Ikuti Google Cloud Skills Arcade Facilitator 2026 dan ting]] — 2026-07-30 · `social:tiktok` · 관련도 4.6
 - [[vault/Sources/Serverless &amp; Disaggregated Database Architectures A Systematic review -- R001648|Serverless &amp; Disaggregated Database Architectures: A Systematic review]] — 2026-07-29 · `openalex` · 관련도 4.6
 - [[vault/Sources/An auto-scaling approach for serverless environments based on a multi-expert consensus mechanism -- R001318|An auto-scaling approach for serverless environments based on a multi-expert consensus mechanism]] — 2026-06-23 · `openalex` · 관련도 4.6
@@ -98,6 +100,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Announcing the AI Gateway Working Group -- R001441|Announcing the AI Gateway Working Group]] — 2026-03-09 · `rss:Kubernetes Blog` · 관련도 4.5
 - [[vault/Sources/Dynamic Resource Scheduling Approaches in Server Less Computing -- R000766|Dynamic Resource Scheduling Approaches in Server Less Computing]] — 2025-05-13 · `openalex` · 관련도 4.5
 - [[vault/Sources/Greenness-Driven Scheduling in Far Edge Kubernetes A CODECO Evaluation -- R001151|Greenness-Driven Scheduling in Far Edge Kubernetes: A CODECO Evaluation]] — 2026-06-10 · `arxiv` · 관련도 4.4
+- [[vault/Sources/Platform Engineering ROI What it costs to build your own platform -- R001822|Platform Engineering ROI: What it costs to build your own platform]] — 2026-08-09 · `rss:The New Stack` · 관련도 4.3
 - [[vault/Sources/Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success -- R001757|Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success]] — 2026-08-04 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/You can’t debug what you can’t see — Observability for AI Agents -- R001753|You can’t debug what you can’t see — Observability for AI Agents]] — 2026-08-04 · `rss:CNCF Blog` · 관련도 4.3
 - [[vault/Sources/WASP A Configurable Framework for Portable Stateful Serverless Applications -- R001650|WASP: A Configurable Framework for Portable Stateful Serverless Applications]] — 2026-07-28 · `openalex` · 관련도 4.3
@@ -145,6 +148,9 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Digital twin state-realignment-based cloud infrastructure for resource allocation and fault pred -- R001645|Digital twin state-realignment-based cloud infrastructure for resource allocation and fault prediction using HCPF and LST-TICaLUM]] — 2026-07-31 · `openalex` · 관련도 4.1
 - [[vault/Sources/Token-Aware API Design Patterns for Model Context Protocol Integration in Enterprise Distributed -- R001298|Token-Aware API Design Patterns for Model Context Protocol Integration in Enterprise Distributed Systems]] — 2026-07-12 · `openalex` · 관련도 4.1
 - [[vault/Sources/Dirigent Lightweight Serverless Orchestration -- R000312|Dirigent: Lightweight Serverless Orchestration]] — 2024-04-25 · `arxiv` · 관련도 4.1
+- [[vault/Sources/The AI layer of observability Making telemetry human-readable -- R001820|The AI layer of observability: Making telemetry human-readable]] — 2026-08-06 · `rss:Red Hat Developer Blog` · 관련도 4.0
+- [[vault/Sources/OpenCost 1.121.0 First-of-a-kind Kubernetes inference cost tracking -- R001817|OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking]] — 2026-08-05 · `rss:CNCF Blog` · 관련도 4.0
+- [[vault/Sources/The Agent Operating System (AOS) A Reference Operating Architecture for Distributed Agentic Syst -- R001796|The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems]] — 2026-08-04 · `openalex` · 관련도 4.0
 - [[vault/Sources/H2-LBM A Hierarchical Hybrid Deep Reinforcement Learning Framework for L7 Load Balancing and Glo -- R001237|H2-LBM: A Hierarchical Hybrid Deep Reinforcement Learning Framework for L7 Load Balancing and Global Traffic Scheduling in Multi-Cloud LLM Serving]] — 2026-06-25 · `openalex` · 관련도 4.0
 - [[vault/Sources/ray-project ray Ray-2.55.0 -- R001524|ray-project/ray Ray-2.55.0]] — 2026-04-15 · `github-release` · 관련도 4.0
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 4.0
@@ -174,6 +180,9 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Agyn An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition a -- R001160|Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access]] — 2026-05-26 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods -- R001214|A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods]] — 2026-01-20 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 3.6
+- [[vault/Sources/Does Kubernetes DRA Replace HAMi -- R001813|Does Kubernetes DRA Replace HAMi?]] — 2026-08-07 · `rss:CNCF Blog` · 관련도 3.5
+- [[vault/Sources/Shadow AI in CI CD Threat-modeling the path from developer laptop to Kubernetes -- R001814|Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes]] — 2026-08-07 · `rss:CNCF Blog` · 관련도 3.5
+- [[vault/Sources/kubernetes kubernetes v1.37.0-rc.0 -- R001835|kubernetes/kubernetes v1.37.0-rc.0]] — 2026-08-06 · `github-release` · 관련도 3.5
 - [[vault/Sources/Kubernetes v1.37 Sneak Peek -- R001652|Kubernetes v1.37 Sneak Peek]] — 2026-07-31 · `rss:Kubernetes Blog` · 관련도 3.5
 - [[vault/Sources/Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth -- R001654|Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth]] — 2026-07-31 · `rss:CNCF Blog` · 관련도 3.5
 - [[vault/Sources/NVIDIA Exemplar Cloud Lessons for Unlocking Full Performance on AI Infrastructure -- R001584|NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure]] — 2026-07-30 · `rss:NVIDIA Technical Blog` · 관련도 3.5
@@ -216,6 +225,8 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Definition and implementation of the Cloud Infrastructure for the integration of the Human Digit -- R000411|Definition and implementation of the Cloud Infrastructure for the integration of the Human Digital Twin in the Social Internet of Things]] — 2024-07-08 · `openalex` · 관련도 3.5
 - [[vault/Sources/Cloud Infrastructure to Perform Distributed Multiuser Platform for Self-organizing UAV Swarms -- R000432|Cloud Infrastructure to Perform Distributed Multiuser Platform for Self-organizing UAV Swarms]] — 2024-06-26 · `openalex` · 관련도 3.5
 - [[vault/Sources/Gradio-Lite Serverless Gradio Running Entirely in Your Browser -- R000542|Gradio-Lite: Serverless Gradio Running Entirely in Your Browser]] — 2023-10-19 · `rss:Hugging Face Blog` · 관련도 3.5
+- [[vault/Sources/Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents -- R001828|Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents]] — 2026-08-07 · `rss:InfoQ` · 관련도 3.4
+- [[vault/Sources/Principles of building observability systems in cloud-based applications using OpenTelemetry -- R001798|Principles of building observability systems in cloud-based applications using OpenTelemetry]] — 2026-08-03 · `openalex` · 관련도 3.4
 - [[vault/Sources/Welcome to Agents Week -- R001653|Welcome to Agents Week]] — 2026-08-02 · `rss:Cloudflare Blog` · 관련도 3.4
 - [[vault/Sources/Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-N -- R001690|Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-Native Systems and services]] — 2026-08-02 · `openalex` · 관련도 3.4
 - [[vault/Sources/A literature review of recent advances in software design and architecture -- R000073|A literature review of recent advances in software design and architecture]] — 2026-07-28 · `arxiv` · 관련도 3.4
@@ -269,15 +280,18 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledg -- R000385|Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning]] — 2024-01-22 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Randomized Polar Codes for Anytime Distributed Machine Learning -- R000393|Randomized Polar Codes for Anytime Distributed Machine Learning]] — 2023-09-01 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Proposing a Dynamic Executive Microservices Architecture Model for AI Systems -- R000397|Proposing a Dynamic Executive Microservices Architecture Model for AI Systems]] — 2023-08-10 · `arxiv` · 관련도 3.1
+- [[vault/Sources/Upgrade OpenShift AI faster using an AI coding assistant -- R001819|Upgrade OpenShift AI faster using an AI coding assistant]] — 2026-08-07 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/How we designed customizable dashboards in OpenShift -- R000152|How we designed customizable dashboards in OpenShift]] — 2026-07-27 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/Why Centralized AI Will Fail at Scale Dr. Robert Blumofe, Akamai -- R001626|Why Centralized AI Will Fail at Scale   Dr. Robert Blumofe, Akamai]] — 2026-07-07 · `social:youtube` · 관련도 2.9
 - [[vault/Sources/Anomaly detection and root-cause identification in microservices a survey -- R001250|Anomaly detection and root-cause identification in microservices: a survey]] — 2026-06-01 · `openalex` · 관련도 2.9
 - [[vault/Sources/AI-Augmented Cyber Resilience Frameworks for Predictive Threat Modeling Across Software-Defined -- R000744|AI-Augmented Cyber Resilience Frameworks for Predictive Threat Modeling Across Software-Defined Network Layers and Cloud-Native Infrastructures]] — 2025-07-07 · `openalex` · 관련도 2.9
+- [[vault/Sources/K8gb becomes a CNCF incubating project -- R001816|K8gb becomes a CNCF incubating project]] — 2026-08-05 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/Runtime Supply Chain Verification using the Node Resource Interface (NRI) -- R001582|Runtime Supply Chain Verification using the Node Resource Interface (NRI)]] — 2026-07-30 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API -- R000109|How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server]] — 2026-07-29 · `rss:Kubernetes Blog` · 관련도 2.8
 - [[vault/Sources/How Japan’s 250% Training Surge is Shaping Global AI Talent -- R000121|How Japan’s 250% Training Surge is Shaping Global AI Talent]] — 2026-07-28 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/GitHub Copilot app for Beginners Getting started -- R000146|GitHub Copilot app for Beginners: Getting started]] — 2026-07-27 · `rss:GitHub AI and ML` · 관련도 2.8
 - [[vault/Sources/OpenTelemetry has graduated... Now what -- R000125|OpenTelemetry has graduated… Now what?]] — 2026-07-24 · `rss:CNCF Blog` · 관련도 2.8
+- [[vault/Sources/Introducing Managed Workspaces for Mastra Platform -- R001847|Introducing Managed Workspaces for Mastra Platform]] — 2026-07-22 · `web:Mastra` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.56.1 -- R001521|ray-project/ray Ray-2.56.1]] — 2026-07-17 · `github-release` · 관련도 2.8
 - [[vault/Sources/Better tools made Copilot code review worse. Here’s how we actually improved it -- R001480|Better tools made Copilot code review worse. Here’s how we actually improved it.]] — 2026-07-10 · `rss:GitHub AI and ML` · 관련도 2.8
 - [[vault/Sources/Introducing the Cluster API plugin for Headlamp -- R001408|Introducing the Cluster API plugin for Headlamp]] — 2026-06-25 · `rss:Kubernetes Blog` · 관련도 2.8
@@ -288,6 +302,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/New Conversion from cgroup v1 CPU Shares to v2 CPU Weight -- R001445|New Conversion from cgroup v1 CPU Shares to v2 CPU Weight]] — 2026-01-30 · `rss:Kubernetes Blog` · 관련도 2.8
 - [[vault/Sources/Cluster API v1.12 Introducing In-place Updates and Chained Upgrades -- R001448|Cluster API v1.12: Introducing In-place Updates and Chained Upgrades]] — 2026-01-27 · `rss:Kubernetes Blog` · 관련도 2.8
 - [[vault/Sources/Uniform API server access using clientcmd -- R001451|Uniform API server access using clientcmd]] — 2026-01-19 · `rss:Kubernetes Blog` · 관련도 2.8
+- [[vault/Sources/Practical Engineering Approaches to Scalable Cloud Architecture and Computational Resource Optim -- R001799|Practical Engineering Approaches to Scalable Cloud Architecture and Computational Resource Optimization]] — 2026-08-08 · `openalex` · 관련도 2.6
 - [[vault/Sources/Presentation Microservices Platforms When Team Topologies Meets Microservices Patterns -- R001758|Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns]] — 2026-08-04 · `rss:InfoQ` · 관련도 2.6
 - [[vault/Sources/Enrich OpenShift compliance results with custom metadata -- R000151|Enrich OpenShift compliance results with custom metadata]] — 2026-07-28 · `rss:Red Hat Developer Blog` · 관련도 2.6
 - [[vault/Sources/Enabling Real-Time Transaction Processing in Distributed Cloud Systems Architectural, Operationa -- R000072|Enabling Real-Time Transaction Processing in Distributed Cloud Systems: Architectural, Operational, and Societal Dimensions]] — 2026-07-10 · `openalex` · 관련도 2.6
@@ -297,6 +312,14 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260809.1 -- R001836|cloudflare/workerd v1.20260809.1]] — 2026-08-09 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260808.1 -- R001837|cloudflare/workerd v1.20260808.1]] — 2026-08-08 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260807.2 -- R001838|cloudflare/workerd v1.20260807.2]] — 2026-08-07 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260807.1 -- R001839|cloudflare/workerd v1.20260807.1]] — 2026-08-07 · `github-release` · 관련도 2.5
+- [[vault/Sources/A guide to slash commands in the GitHub Copilot app -- R001818|A guide to slash commands in the GitHub Copilot app]] — 2026-08-06 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/LitmusChaos Q1-Q2 2026 update community, contributions, and project progress -- R001815|LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress]] — 2026-08-06 · `rss:CNCF Blog` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260806.1 -- R001840|cloudflare/workerd v1.20260806.1]] — 2026-08-06 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260805.1 -- R001841|cloudflare/workerd v1.20260805.1]] — 2026-08-05 · `github-release` · 관련도 2.5
 - [[vault/Sources/How the GitHub legal team used Copilot CLI to streamline their workflows -- R001754|How the GitHub legal team used Copilot CLI to streamline their workflows]] — 2026-08-04 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260804.1 -- R001705|cloudflare/workerd v1.20260804.1]] — 2026-08-04 · `github-release` · 관련도 2.5
 - [[vault/Sources/Kubeflow SDK evolution- One million downloads and counting -- R001695|Kubeflow SDK evolution- One million downloads and counting]] — 2026-08-03 · `rss:CNCF Blog` · 관련도 2.5
@@ -328,6 +351,9 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/ray-project ray Ray-2.55.1 -- R001523|ray-project/ray Ray-2.55.1]] — 2026-04-22 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
+- [[vault/Sources/Adaptive runtime framework for energy-efficient fault tolerance in large-scale distributed and h -- R001800|Adaptive runtime framework for energy-efficient fault tolerance in large-scale distributed and high-performance computing systems]] — 2026-08-06 · `openalex` · 관련도 2.3
+- [[vault/Sources/A federated digital twin framework leveraging AI and MLOps for The IoT cloud continuum -- R001806|A federated digital twin framework leveraging AI and MLOps for The IoT cloud continuum]] — 2026-08-03 · `openalex` · 관련도 2.3
+- [[vault/Sources/Annotix An Integrated Desktop Platform for Multi-Modal Data Annotation, Collaborative Labeling, -- R001804|Annotix: An Integrated Desktop Platform for Multi-Modal Data Annotation, Collaborative Labeling, and End-to-End Machine Learning Training]] — 2026-08-03 · `openalex` · 관련도 2.3
 - [[vault/Sources/📱As AI adoption accelerates, smartphones are increasingly becoming more than just access devices -- R001564|📱As AI adoption accelerates, smartphones are increasingly becoming more than just access devices. They are emerging as a distributed computi]] — 2026-07-27 · `social:instagram` · 관련도 2.3
 - [[vault/Sources/Building High-Performance Wealth Management Platforms with GraphQL -- R000074|Building High-Performance Wealth Management Platforms with GraphQL]] — 2026-07-24 · `openalex` · 관련도 2.3
 - [[vault/Sources/A Scalable Distributed and Fault-Tolerant Architecture for Cloud-Based Machine Learning and Data -- R000076|A Scalable Distributed and Fault-Tolerant Architecture for Cloud-Based Machine Learning and Data Analysis]] — 2026-07-23 · `openalex` · 관련도 2.3

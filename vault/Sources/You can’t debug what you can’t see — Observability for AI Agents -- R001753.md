@@ -33,7 +33,7 @@ topics:
 
 ## 요약·초록
 
-Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...
+This article reflects practical experience building and operating production AI agent systems. Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents...
 
 ## 내 메모
 

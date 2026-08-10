@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 202
+source_count: 217
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **202개**
+연결된 자료: **217개**
 
 ## 자료
 
@@ -28,6 +28,8 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/New research from Meta. Agent harnesses are still mostly authored by hand. This makes it hard to -- R001843|New research from Meta. Agent harnesses are still mostly authored by hand. This makes it hard to tune robust agent harnesses for long-hori]] — 2026-08-09 · `social:threads` · 관련도 4.3
+- [[vault/Sources/Yeah I've had Prime Agent harness + GPT 5.6 Sol (High reasoning) running for about 6-7 hours -- R001842|Yeah I've had Prime Agent harness + GPT 5.6 Sol (High reasoning) running for about 6-7 hours... only consumed 1% weekly usage You can walk]] — 2026-08-09 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Picking the right agent harness is now a crucial skill for any AI engineer. Imagine using the sa -- R001762|Picking the right agent harness is now a crucial skill for any AI engineer. Imagine using the same model, same task, and same prompt. Now]] — 2026-08-04 · `social:threads` · 관련도 4.3
 - [[vault/Sources/RoMeRL Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via -- R001734|RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States]] — 2026-08-03 · `arxiv` · 관련도 4.3
 - [[vault/Sources/ACE-GraphRAG Agentic Context Engineering for Hierarchical GraphRAG -- R001730|ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG]] — 2026-08-02 · `arxiv` · 관련도 4.3
@@ -84,6 +86,11 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Loop Engineering explained in 8min -- R001570|Loop Engineering explained in 8min..]] — 2026-07-03 · `social:youtube` · 관련도 3.1
 - [[vault/Sources/The Harness Effect How Orchestration Design Sets the Token Economics of Enterprise Agentic AI -- R001006|The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI]] — 2026-07-08 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters -- R000570|Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters]] — 2024-08-06 · `arxiv` · 관련도 2.9
+- [[vault/Sources/OctoLong Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling -- R001764|OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling]] — 2026-08-05 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Skill-Use Can LLMs Actually Use Skills in Agentic Harnesses -- R001765|Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses?]] — 2026-08-05 · `arxiv` · 관련도 2.6
+- [[vault/Sources/InsightEmb Learning Action-Intent Embeddings for Agentic Insight Retrieval -- R001766|InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval]] — 2026-08-05 · `arxiv` · 관련도 2.6
+- [[vault/Sources/DataSpace Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces -- R001767|DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces]] — 2026-08-04 · `arxiv` · 관련도 2.6
+- [[vault/Sources/EduClaw-Bench A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners -- R001768|EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners]] — 2026-08-04 · `arxiv` · 관련도 2.6
 - [[vault/Sources/SKT Skill-Use Training at Scale via Verified Synthetic Data Generation -- R001722|SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation]] — 2026-08-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/GABench A Comprehensive Benchmark for Evaluating LLM Agents on Graph Analysis Tasks -- R001727|GABench: A Comprehensive Benchmark for Evaluating LLM Agents on Graph Analysis Tasks]] — 2026-08-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/MemSecBench Tracking Agent Memory Poisoning from Persistence to Consequence and Repair -- R000003|MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair]] — 2026-07-29 · `arxiv` · 관련도 2.6
@@ -110,9 +117,16 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Ante Terminal-Bench 2.1 Results DeepSeek V4 Flash 0731 -- R001846|Ante Terminal-Bench 2.1 Results: DeepSeek V4 Flash 0731]] — 2026-08-09 · `web:Antigma` · 관련도 2.5
+- [[vault/Sources/langchain-ai langgraph langgraph-checkpoint-postgres==3.1.2 -- R001833|langchain-ai/langgraph langgraph-checkpoint-postgres==3.1.2]] — 2026-08-07 · `github-release` · 관련도 2.5
+- [[vault/Sources/langchain-ai langgraph langgraph-checkpoint==4.2.0 -- R001834|langchain-ai/langgraph langgraph-checkpoint==4.2.0]] — 2026-08-07 · `github-release` · 관련도 2.5
+- [[vault/Sources/A guide to slash commands in the GitHub Copilot app -- R001818|A guide to slash commands in the GitHub Copilot app]] — 2026-08-06 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/EvoHarness-RL Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents -- R001844|EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents]] — 2026-08-05 · `web:arXiv` · 관련도 2.5
+- [[vault/Sources/openai openai-agents-python v0.19.4 -- R001832|openai/openai-agents-python v0.19.4]] — 2026-08-05 · `github-release` · 관련도 2.5
 - [[vault/Sources/How the GitHub legal team used Copilot CLI to streamline their workflows -- R001754|How the GitHub legal team used Copilot CLI to streamline their workflows]] — 2026-08-04 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.19.3 -- R001760|openai/openai-agents-python v0.19.3]] — 2026-08-04 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.19.2 -- R001658|openai/openai-agents-python v0.19.2]] — 2026-08-01 · `github-release` · 관련도 2.5
+- [[vault/Sources/DeepSeek-V4-Flash Update -- R001845|DeepSeek-V4-Flash Update]] — 2026-07-31 · `web:DeepSeek` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-checkpoint-sqlite==3.1.1 -- R001589|langchain-ai/langgraph langgraph-checkpoint-sqlite==3.1.1]] — 2026-07-30 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-checkpoint-postgres==3.1.1 -- R001590|langchain-ai/langgraph langgraph-checkpoint-postgres==3.1.1]] — 2026-07-30 · `github-release` · 관련도 2.5
 - [[vault/Sources/Stacked sessions and pull requests in the GitHub Copilot app -- R001585|Stacked sessions and pull requests in the GitHub Copilot app]] — 2026-07-30 · `rss:GitHub AI and ML` · 관련도 2.5
@@ -195,6 +209,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Transferable Self-Evolving Playbooks for Agentic Security Auditing -- R001042|Transferable Self-Evolving Playbooks for Agentic Security Auditing]] — 2026-06-15 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Open-SWE-Traces Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents -- R001043|Open-SWE-Traces: Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents]] — 2026-06-14 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems -- R001044|Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems]] — 2026-06-14 · `arxiv` · 관련도 2.3
+- [[vault/Sources/From Siloed Algorithms to Compliance‐First Agentic Platforms A Multi‐Layered Architecture for Ho -- R001248|From Siloed Algorithms to Compliance‑First Agentic Platforms: A Multi‑Layered Architecture for Hospital AI Systems]] — 2026-06-02 · `openalex` · 관련도 2.3
 - [[vault/Sources/Test-Time-Matching Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing -- R000545|Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent]] — 2025-07-22 · `arxiv` · 관련도 2.3
 - [[vault/Sources/SurgX Neuron-Concept Association for Explainable Surgical Phase Recognition -- R000546|SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition]] — 2025-07-21 · `arxiv` · 관련도 2.3
 - [[vault/Sources/WebSynthesis World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis -- R000548|WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis]] — 2025-07-06 · `arxiv` · 관련도 2.3
