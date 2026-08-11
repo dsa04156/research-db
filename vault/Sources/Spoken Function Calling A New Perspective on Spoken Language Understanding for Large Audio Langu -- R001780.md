@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`ADUCR3CR`)
 - 발행일: 2026-08-05T17:50:31Z
 - 저자: Yuezhang Peng, Yuxin Liu, Changfeng Gao, Zhifu Gao, Xiangang Li, Xie Chen
 - 식별자: `arxiv:2608.05126`

@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `rss:GitHub AI and ML`
 - 검토 상태: `pending`
+- Zotero: created (`QNI549X5`)
 - 발행일: 2026-08-06T19:49:34+00:00
 - 식별자: `url:1441b6270a33709513b41e535651cb1907aa5922af8fcaeb79f3394147edf14c`
 

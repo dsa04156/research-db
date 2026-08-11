@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`ERRGQVVE`)
 - 발행일: 2026-08-03
 - 저자: Nicolás Baier Quezada, Vanessa Uribe Hernández, Haydeé Barrientos Toledo, Cristina Vargas Bustamante, Martin Arrigo Figueroa, Aaron Mancilla Leiva, Felipe Brana Peña, Fernanda López‐Moncada
 - 식별자: `doi:10.3390/computers15080496`

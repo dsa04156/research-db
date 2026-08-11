@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KNZKVHMT`)
 - 발행일: 2026-08-05T13:29:16Z
 - 저자: Jinyi Han, Yuanjian Xu, Ying Liao, Xinyi Wang, Zishang Jiang, Zixiang Di, Fanyang Lu, Zhichao Hu, Yanghua Xiao
 - 식별자: `arxiv:2608.04828`

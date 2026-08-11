@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`NGPUI6J8`)
 - 발행일: 2026-08-10
 - 저자: F. I. Odia, B. B. Bakel, V. E Kwaji
 - 식별자: `doi:10.2118/234922-ms`

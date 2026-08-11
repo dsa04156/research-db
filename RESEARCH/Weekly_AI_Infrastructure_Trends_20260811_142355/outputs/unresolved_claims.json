@@ -1,0 +1,49 @@
+[
+  {
+    "claim_id": "clm_006",
+    "text": "두 커뮤니티 원천의 반응 합계를 시장 점유율 상승치로 환산해 특정 두 프로젝트의 대체율을 산정할 수 있다.",
+    "risk": "normal",
+    "claim_type": "adoption",
+    "source_ids": [
+      "src_017",
+      "src_018"
+    ],
+    "counter_search": "공개 반응과 저장소 활동은 확인했지만 조직별 실제 배포량과 장기 유지율은 공개되지 않았다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "텍사스 AI 인프라 약속이 전력망과 물 사용 부담을 이미 줄였다는 결과가 입증되었다.",
+    "risk": "high",
+    "claim_type": "policy-outcome",
+    "source_ids": [
+      "src_016"
+    ],
+    "counter_search": "주정부·전력망·수자원 기관의 독립 결과 자료를 검색했으나 약속 발표 시점에 성과 데이터는 확인되지 않았다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_008",
+    "text": "Muse Glimmer와 h3-metal의 공개 성능 수치는 다양한 소비자 장치에서 독립 재현되어 일반화할 수 있다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_005",
+      "src_007"
+    ],
+    "counter_search": "독립 재현, 동일 품질 기준, 다양한 하드웨어 비교를 검색했으나 출시 직후라 충분한 검증 자료가 없었다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  }
+]

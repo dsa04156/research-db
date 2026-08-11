@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`T2FDSA98`)
 - 발행일: 2026-08-05T17:58:15Z
 - 저자: Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych
 - 식별자: `arxiv:2608.05141`

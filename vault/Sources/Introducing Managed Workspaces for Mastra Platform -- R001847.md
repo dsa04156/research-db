@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `web:Mastra`
 - 검토 상태: `pending`
+- Zotero: created (`8JHK9TWA`)
 - 발행일: 2026-07-22
 - 저자: Joel Smith
 - 식별자: `url:1f9cd58034c3621809572c208db9cd678f8e60db19f466ee564bb62ec7f571ad`

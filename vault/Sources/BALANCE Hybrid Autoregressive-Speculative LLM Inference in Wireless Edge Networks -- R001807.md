@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`I8SD44V2`)
 - 발행일: 2026-08-06T11:57:36Z
 - 저자: Guanqiao Qu, Shuo Chen, Qian Chen, Kin K. Leung, Xianhao Chen
 - 식별자: `arxiv:2608.05926`

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `web:DeepSeek`
 - 검토 상태: `pending`
+- Zotero: created (`6BXUM7T9`)
 - 발행일: 2026-07-31
 - 저자: DeepSeek
 - 식별자: `url:8f8555b73e1b42928d848ea235e5e3afb63b225e9cbdb6565e0a9ea68a9f976c`

@@ -1,0 +1,13 @@
+{
+  "topic": "AI agent harness 및 cloud-native/edge infrastructure 주간 변화",
+  "period": {"start": "2026-08-05", "end": "2026-08-11", "timezone": "Asia/Seoul"},
+  "subtopics": [
+    {"name": "self-evolving harness", "questions": ["지속 상태와 평가 피드백이 실제 구현으로 이어지는가?", "자기개선 주장의 검증 경계는 무엇인가?"]},
+    {"name": "AI agents", "questions": ["실행 격리와 도구 보안이 어떻게 바뀌는가?", "로컬 에이전트가 실용 단계에 접근하는가?"]},
+    {"name": "Kubernetes/cloud-native AI infrastructure", "questions": ["에이전트 실행 단위와 샌드박스가 어떤 control plane을 요구하는가?"]},
+    {"name": "cloud/serverless/distributed systems", "questions": ["상태·권한·워크플로를 어디서 관리하는가?"]},
+    {"name": "edge computing/edge AI", "questions": ["온디바이스 모델과 로컬 실행의 확인된 변화는 무엇인가?"]}
+  ],
+  "source_policy": "A-E rubric, primary-first, two independent domains per verified claim, X excluded",
+  "synthesis_policy": "verified-only"
+}

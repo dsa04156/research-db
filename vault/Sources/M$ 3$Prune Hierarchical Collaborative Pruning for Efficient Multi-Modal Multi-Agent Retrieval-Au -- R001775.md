@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`AW6V8WHR`)
 - 발행일: 2026-08-06T12:44:35Z
 - 저자: Taolin Zhang, Weizi shao, Zijie Zhou, Chen Chen, Daiyang Yu, Tingyuan Hu, Chengyu Wang, Xiaofeng He
 - 식별자: `arxiv:2608.05967`

@@ -1,0 +1,87 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "자기진화형 하네스는 모델 자체를 즉시 바꾸는 것보다 실행 기록을 구조화된 지속 상태로 남기고 평가 피드백으로 다음 행동과 규칙을 갱신하는 방향으로 구현되고 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_003",
+      "src_004"
+    ],
+    "counter_search": "단순 프롬프트 재시작이나 일회성 메모리를 자기진화로 부르는 반례를 찾았으며, 선택한 자료에서는 지속 상태와 평가·수정 루프가 공통 요소였다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "에이전트 실행 인프라는 단순 컨테이너 배치에서 격리된 실행 환경, 지속 상태, 세분화된 권한과 관찰 가능한 정책을 함께 관리하는 제어면으로 확장되고 있다.",
+    "risk": "normal",
+    "claim_type": "synthesis",
+    "source_ids": [
+      "src_008",
+      "src_010",
+      "src_012",
+      "src_013"
+    ],
+    "counter_search": "일반 컨테이너와 장기 API 키만으로 충분하다는 반례를 검토했지만 공식 구현들은 실행 격리와 권한 중개를 별도 계층으로 둔다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "로컬·엣지 에이전트는 온디바이스용 공개 가중치 모델, 로컬 학습 연구, 네이티브 추론 구현이 동시에 등장하면서 실험 가능한 선택지가 넓어지고 있다.",
+    "risk": "normal",
+    "claim_type": "trend-synthesis",
+    "source_ids": [
+      "src_005",
+      "src_006",
+      "src_007"
+    ],
+    "counter_search": "클라우드 의존이 완전히 사라졌다는 근거는 찾지 못했으며, 이번 변화는 선택지 확대이지 전면 대체가 아니다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "에이전트 보안 평가는 모델 단독 점검을 넘어 실제 도구 응답, 지속 메모리, 실행 하네스 전체에 공격을 주입하고 보안성과 작업 유용성을 함께 측정하는 방향으로 이동하고 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_013",
+      "src_014"
+    ],
+    "counter_search": "모델 jailbreak 점수만으로 도구 사용 에이전트의 안전성을 대표할 수 있는지 반증 검색했으나 두 자료 모두 시스템 수준 검증 공백을 지적한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "클라우드 네이티브 생태계에서 에이전트 실행과 AI 추론은 별도 실험을 넘어 공식 프로젝트와 전용 프로그램 트랙으로 다뤄지는 운영 주제가 되었다.",
+    "risk": "normal",
+    "claim_type": "ecosystem-trend",
+    "source_ids": [
+      "src_012",
+      "src_015"
+    ],
+    "counter_search": "행사 트랙만으로 운영 성숙도를 과장하지 않도록 실제 Kubernetes 런타임 프로젝트와 함께 확인했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 413
+source_count: 420
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **413개**
+연결된 자료: **420개**
 
 ## 자료
 
@@ -53,6 +53,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machi -- R001642|Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machine Learning for Edge Intelligence in 5G/6G Networks]] — 2026-08-01 · `openalex` · 관련도 4.7
 - [[vault/Sources/Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT -- R000103|Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT]] — 2026-07-27 · `openalex` · 관련도 4.7
 - [[vault/Sources/A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Moni -- R001153|A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Monitoring and Orchestration]] — 2026-06-07 · `arxiv` · 관련도 4.7
+- [[vault/Sources/From Passive Mirrors to Active Agents Holonic Digital Twins for Physical AI over Networks -- R001886|From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks]] — 2026-08-06 · `openalex` · 관련도 4.6
 - [[vault/Sources/Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems -- R000085|Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems]] — 2026-07-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/EdgeFaaS A Function-based Framework for Edge Computing -- R000090|EdgeFaaS: A Function-based Framework for Edge Computing]] — 2026-07-16 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Active Beyond-Diagonal RIS Empowered Heterogeneous Edge Computing A Distributional Reinforcement -- R000091|Active Beyond-Diagonal RIS Empowered Heterogeneous Edge Computing: A Distributional Reinforcement Learning Approach]] — 2026-07-14 · `arxiv` · 관련도 4.6
@@ -218,6 +219,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/High-Efficiency Split Computing for Cooperative Edge Systems A Novel Compressed Sensing Bottlene -- R000946|High-Efficiency Split Computing for Cooperative Edge Systems: A Novel Compressed Sensing Bottleneck]] — 2025-04-15 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Data Sharing at the Edge of the Network A Disturbance Resilient Multi-modal ITS -- R000486|Data Sharing at the Edge of the Network: A Disturbance Resilient Multi-modal ITS]] — 2024-05-21 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Distributed Threat Intelligence at the Edge Devices A Large Language Model-Driven Approach -- R000490|Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach]] — 2024-05-14 · `arxiv` · 관련도 2.9
+- [[vault/Sources/ray-project ray Ray-2.57.0 -- R001899|ray-project/ray Ray-2.57.0]] — 2026-08-11 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.55.0 -- R001524|ray-project/ray Ray-2.55.0]] — 2026-04-15 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.54.0 -- R001526|ray-project/ray Ray-2.54.0]] — 2026-02-18 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 2.8
@@ -290,12 +292,16 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260811.1 -- R001900|cloudflare/workerd v1.20260811.1]] — 2026-08-11 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260810.1 -- R001901|cloudflare/workerd v1.20260810.1]] — 2026-08-10 · `github-release` · 관련도 2.5
+- [[vault/Sources/Introducing Muse Glimmer An Open Agentic Model That Runs on Your Device -- R001936|Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device]] — 2026-08-10 · `web:Meta AI` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260809.1 -- R001836|cloudflare/workerd v1.20260809.1]] — 2026-08-09 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260808.1 -- R001837|cloudflare/workerd v1.20260808.1]] — 2026-08-08 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260807.2 -- R001838|cloudflare/workerd v1.20260807.2]] — 2026-08-07 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260807.1 -- R001839|cloudflare/workerd v1.20260807.1]] — 2026-08-07 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260806.1 -- R001840|cloudflare/workerd v1.20260806.1]] — 2026-08-06 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260805.1 -- R001841|cloudflare/workerd v1.20260805.1]] — 2026-08-05 · `github-release` · 관련도 2.5
+- [[vault/Sources/Cloudflare OS an open platform for agents, apps, and work -- R001938|Cloudflare OS: an open platform for agents, apps, and work]] — 2026-08-05 · `web:Cloudflare` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260804.1 -- R001705|cloudflare/workerd v1.20260804.1]] — 2026-08-04 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260803.1 -- R001706|cloudflare/workerd v1.20260803.1]] — 2026-08-03 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260802.1 -- R001659|cloudflare/workerd v1.20260802.1]] — 2026-08-02 · `github-release` · 관련도 2.5
@@ -317,6 +323,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 2.5
+- [[vault/Sources/A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM -- R001885|A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM]] — 2026-08-10 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Naija-Petro AI Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain -- R001791|Naija-Petro AI: Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain-Specific Fine-Tuning]] — 2026-08-10 · `crossref` · 관련도 2.3
 - [[vault/Sources/AutoRAG Optimizing RAG for small models -- R001755|AutoRAG: Optimizing RAG for small models]] — 2026-08-04 · `rss:Red Hat Developer Blog` · 관련도 2.3
 - [[vault/Sources/Podcast WebAssembly on the JVM Feature Evolution, Performance, and the Transition to Endive -- R001702|Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive]] — 2026-08-03 · `rss:InfoQ` · 관련도 2.3

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`QG94CC4S`)
 - 발행일: 2026-08-03
 - 저자: Chaimae Bahij, Mohamed El Ghmary, Hassan Echoukairi
 - 식별자: `doi:10.1051/epjconf/202638002004/pdf`

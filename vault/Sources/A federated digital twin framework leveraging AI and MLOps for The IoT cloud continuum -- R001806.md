@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`JTGVUGSX`)
 - 발행일: 2026-08-03
 - 저자: Muhammad Azaz Farooq
 - 식별자: `doi:10.48676/unibo/amsdottorato/12740`

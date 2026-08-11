@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`2MRU8FAI`)
 - 발행일: 2026-08-05T09:32:35Z
 - 저자: Liehuang Zhu, Yuhang Li, Tianxing Wang, Zhihao Chen, Ke Li, Hongyi Liu, Yajie Wang, Lei Xu, Peng Jiang, Zijian Zhang
 - 식별자: `arxiv:2608.04626`

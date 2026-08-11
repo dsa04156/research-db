@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`T9PQETS2`)
 - 발행일: 2026-08-06
 - 저자: Daesik Jang, Morgan Heisler, Linzi Xing, Yifei Li, Edward Wang, Ying Xiong, Yong Zhang, Zhenan Fan
 - 식별자: `doi:10.1145/3770855.3817525`

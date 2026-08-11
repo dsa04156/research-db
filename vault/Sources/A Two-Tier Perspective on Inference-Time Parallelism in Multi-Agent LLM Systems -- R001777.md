@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DGFNPXBB`)
 - 발행일: 2026-08-06T09:26:24Z
 - 저자: Zihan Xu, Haolin Tian, Hai Jiang
 - 식별자: `arxiv:2608.05791`

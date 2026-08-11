@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`99I7HS8D`)
 - 발행일: 2026-08-05T09:27:12Z
 - 저자: Haotian Yang, Zhile Yang, Huiyu Zhou, Xin Sun
 - 식별자: `arxiv:2608.04622`

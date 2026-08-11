@@ -1,0 +1,18 @@
+[
+  {
+    "claim_id": "clm_009",
+    "text": "마이크로VM이나 샌드박스를 사용하면 에이전트의 파일·자격증명·외부 전송 위험이 자동으로 모두 해결된다.",
+    "risk": "normal",
+    "claim_type": "security-absolute",
+    "source_ids": [
+      "src_008",
+      "src_011"
+    ],
+    "counter_search": "Docker의 기본 작업공간 쓰기 권한과 Cloudflare의 별도 capability·egress 정책 요구가 절대 주장을 반박한다.",
+    "counter_refuted": true,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "refuted",
+    "status_reason": "counter-search로 반박됨"
+  }
+]

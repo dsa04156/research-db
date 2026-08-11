@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`RK9WNU2T`)
 - 발행일: 2026-08-07
 - 저자: Min Du, Anbang Xu, Jasmine Jaksic, Xinyun Chen, Yufan Guo, Tao Yu, May Wang
 - 식별자: `doi:10.1145/3770855.3818266`

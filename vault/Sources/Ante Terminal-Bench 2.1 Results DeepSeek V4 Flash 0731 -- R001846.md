@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `web:Antigma`
 - 검토 상태: `pending`
+- Zotero: created (`F6S525SX`)
 - 발행일: 2026-08-09
 - 저자: Antigma Labs
 - 식별자: `url:3b02ae45e6270e1cdd5494f97c1568f09be3b020686ed41995a54189b9ebd006`

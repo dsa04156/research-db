@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `rss:Red Hat Developer Blog`
 - 검토 상태: `pending`
+- Zotero: created (`BGIGBBV9`)
 - 발행일: 2026-08-07T14:56:00+00:00
 - 식별자: `url:0cc82d9c4d33ef05ea072e8e177767c178947e7f46e4e0c74ffff32a5fb28378`
 

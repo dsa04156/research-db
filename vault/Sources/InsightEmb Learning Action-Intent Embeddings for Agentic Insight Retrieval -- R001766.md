@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`UQDMXDC7`)
 - 발행일: 2026-08-05T12:28:00Z
 - 저자: Tsz Ting Chung, Jiangnan Li, Jie Zhou, Mo Yu
 - 식별자: `arxiv:2608.04761`

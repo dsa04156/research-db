@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`QNQSQCNS`)
 - 발행일: 2026-08-04
 - 저자: Norsyazwani Mohd Puad, Paiwand Hadi Hama Saeed, Braw Araz Mohammed, Mohamad Fadli Zolkipli
 - 식별자: `doi:10.67131/jacoit.v1i2.27`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`3BW39RMP`)
 - 발행일: 2026-08-10
 - 저자: Oshose Omokhoa, Mboya Awor, Simon-Jude Nwachuchuw
 - 식별자: `doi:10.2118/235168-ms`

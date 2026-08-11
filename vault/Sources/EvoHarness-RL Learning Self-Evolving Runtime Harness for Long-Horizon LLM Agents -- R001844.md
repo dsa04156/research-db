@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `web:arXiv`
 - 검토 상태: `pending`
+- Zotero: created (`TI9D6VBQ`)
 - 발행일: 2026-08-05T22:29:20Z
 - 저자: Xuying Ning, Dongqi Fu, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He
 - 식별자: `arxiv:2608.05446`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`35FJEQV4`)
 - 발행일: 2026-08-10
 - 저자: T. M. Busoye, Q. A. Jokomba, O. M. Busoye, A. O. Joledo
 - 식별자: `doi:10.2118/235027-ms`

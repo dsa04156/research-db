@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`G9TMANW3`)
 - 발행일: 2026-08-05
 - 저자: Jirong Yang, Peizhe Liu, Chaojie Zhang, Jovan Stojkovic
 - 식별자: `arxiv:2608.04458`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`CUM6EP49`)
 - 발행일: 2026-08-04
 - 저자: Ankur Sharma, Deep Shah
 - 식별자: `arxiv:2608.03214`

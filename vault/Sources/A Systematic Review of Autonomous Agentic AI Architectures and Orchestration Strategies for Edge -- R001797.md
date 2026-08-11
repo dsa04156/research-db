@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`MK9ISSPJ`)
 - 발행일: 2026-08-03
 - 저자: Md Ariful Islam, Md. Maksudur Rahman, Md Mahfuz Hasan Chowdhury
 - 식별자: `doi:10.59324/stss.2026.3(8).04`

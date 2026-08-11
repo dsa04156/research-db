@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`WTH96EEE`)
 - 발행일: 2026-08-08
 - 저자: Antonov Sergey Viktorovich
 - 식별자: `doi:10.54536/ajiri.v5i3.8120`

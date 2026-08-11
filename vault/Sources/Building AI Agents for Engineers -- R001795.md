@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-10|2026-08-10]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`U8MI4K9X`)
 - 발행일: 2026-08-10
 - 저자: Tobias Wigand, Ram Dhiwakar Seetharaman, Michael Finocchiaro, Felix Klutzny, Ryan McClelland, Patrick Schmidt, Eric Stähle
 - 식별자: `doi:10.3139/9781569909690`
