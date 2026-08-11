@@ -124,7 +124,7 @@
     "baseline_days": 14,
     "daily_mode": "discover_shallow",
     "excluded_sources": ["x"],
-    "max_daily_candidates": 3,
+    "max_daily_candidates": 5,
     "max_weekly_candidates": 7,
     "minimum_independent_platforms": 2,
     "allow_primary_plus_community": true,
