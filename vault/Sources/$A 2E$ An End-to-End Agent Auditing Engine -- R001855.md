@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`H4F42HB3`)
 - 발행일: 2026-08-07T15:44:12Z
 - 저자: Haoning Wang, Mingxun Zhang, Chenyue Yu, Yingjun Shang, Xia Hu, Guanchu Wang, Na Zou
 - 식별자: `arxiv:2608.07346`

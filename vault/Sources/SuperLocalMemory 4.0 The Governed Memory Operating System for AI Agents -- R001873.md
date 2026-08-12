@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`ZHPF7A5E`)
 - 발행일: 2026-08-08T17:26:58Z
 - 저자: Varun Pratap Bhardwaj, Garima Singh, Arun Pratap Bhardwaj
 - 식별자: `arxiv:2608.08253`

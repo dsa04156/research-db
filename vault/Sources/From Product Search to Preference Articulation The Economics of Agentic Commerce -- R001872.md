@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`52IQBE96`)
 - 발행일: 2026-08-09T01:09:24Z
 - 저자: Lingxiu Dong, Kaiwen Luo, Fasheng Xu
 - 식별자: `arxiv:2608.08395`

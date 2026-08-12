@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`J3HH2BG2`)
 - 발행일: 2026-08-10T06:01:03Z
 - 저자: Yikai Zhao, Pradeep Kumar Misra, Saurabh Pandey
 - 식별자: `arxiv:2608.09153`

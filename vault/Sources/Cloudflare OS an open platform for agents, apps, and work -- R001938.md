@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `web:Cloudflare`
 - 검토 상태: `pending`
+- Zotero: created (`DZ3AJRWW`)
 - 발행일: 2026-08-05
 - 저자: Cloudflare
 - 식별자: `url:6fd49dfa949117ea383fd0ed8e19fbdadddd178c9a4fc42500531da4f8ae18ad`

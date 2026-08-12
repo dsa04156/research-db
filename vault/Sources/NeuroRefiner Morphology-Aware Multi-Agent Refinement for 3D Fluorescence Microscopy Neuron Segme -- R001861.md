@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`F352UCS4`)
 - 발행일: 2026-08-10T14:14:47Z
 - 저자: Haiyang Yan, Jinyue Guo, Yanchao Zhang, Bingqing Wang, Zhenchen Li, Jing Liu, Jiazheng Liu, Linlin Li, Hua Han
 - 식별자: `arxiv:2608.09636`

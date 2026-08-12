@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 249
+source_count: 252
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **249개**
+연결된 자료: **252개**
 
 ## 자료
 
@@ -32,6 +32,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/Time to pivot and build an agent harness In fact, I universally recommend that we, as an industr -- R001962|Time to pivot and build an agent harness In fact, I universally recommend that we, as an industry, stop building anything besides agent har]] — 2026-08-11 · `social:threads` · 관련도 4.3
 - [[vault/Sources/TRACE TRajectory Attribution for Automated Context Engineering -- R001850|TRACE: TRajectory Attribution for Automated Context Engineering]] — 2026-08-10 · `arxiv` · 관련도 4.3
 - [[vault/Sources/We just open-sourced Long Horizon Agent Harness build on Google ADK and Agent Platform. Cross-se -- R001929|We just open-sourced Long Horizon Agent Harness build on Google ADK and Agent Platform. Cross-session memory, per-user sandbox, sub-agents,]] — 2026-08-10 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Show HN SynapsCLI – lightweight agent runtime in Rust, control an agent swarm -- R001905|Show HN: SynapsCLI – lightweight agent runtime in Rust, control an agent swarm]] — 2026-08-10 · `social:hackernews` · 관련도 4.3
@@ -68,7 +69,6 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Development and prospective validation of a prostate cancer detection, grading, and workflow opt -- R000566|Development and prospective validation of a prostate cancer detection, grading, and workflow optimization system at an academic medical center]] — 2024-10-31 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Couler Unified Machine Learning Workflow Optimization in Cloud -- R000180|Couler: Unified Machine Learning Workflow Optimization in Cloud]] — 2024-03-12 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1 -- R001008|Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1]] — 2026-07-07 · `arxiv` · 관련도 4.1
-- [[vault/Sources/MiDojo Improve AI agent security with real-world red-teaming -- R001893|MiDojo: Improve AI agent security with real-world red-teaming]] — 2026-08-10 · `rss:Red Hat Developer Blog` · 관련도 3.9
 - [[vault/Sources/Evo-Bench Can Language Models Improve Agent Harness -- R001851|Evo-Bench: Can Language Models Improve Agent Harness?]] — 2026-08-10 · `arxiv` · 관련도 3.8
 - [[vault/Sources/FMRP-LEAN A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflo -- R000019|FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization]] — 2026-07-22 · `arxiv` · 관련도 3.8
 - [[vault/Sources/AIDE2 The First Evidence of Recursive Self-Improvement -- R001719|AIDE²: The First Evidence of Recursive Self-Improvement]] — 2026-07-14 · `web:Weco AI` · 관련도 3.8
@@ -104,6 +104,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Living-Harness Is an Interactive-Agent Evolver -- R000006|Living-Harness Is an Interactive-Agent Evolver]] — 2026-07-29 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Falsifiable Release Gates for Self-Improving Systems Standing Invariants at Scale -- R000997|Falsifiable Release Gates for Self-Improving Systems: Standing Invariants at Scale]] — 2026-07-11 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Loop Engineering explained in 8min -- R001570|Loop Engineering explained in 8min..]] — 2026-07-03 · `social:youtube` · 관련도 3.1
+- [[vault/Sources/MiDojo Improve AI agent security with real-world red-teaming -- R001893|MiDojo: Improve AI agent security with real-world red-teaming]] — 2026-08-10 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/The Harness Effect How Orchestration Design Sets the Token Economics of Enterprise Agentic AI -- R001006|The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI]] — 2026-07-08 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters -- R000570|Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters]] — 2024-08-06 · `arxiv` · 관련도 2.9
 - [[vault/Sources/$A 2E$ An End-to-End Agent Auditing Engine -- R001855|$A^2E$ : An End-to-End Agent Auditing Engine]] — 2026-08-07 · `arxiv` · 관련도 2.6
@@ -139,6 +140,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/langchain-ai langgraph langgraph==1.2.11 -- R001957|langchain-ai/langgraph langgraph==1.2.11]] — 2026-08-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.20.0 -- R001898|openai/openai-agents-python v0.20.0]] — 2026-08-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/Using the GitHub Copilot SDK for Java -- R001891|Using the GitHub Copilot SDK for Java]] — 2026-08-10 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/Ante Terminal-Bench 2.1 Results DeepSeek V4 Flash 0731 -- R001846|Ante Terminal-Bench 2.1 Results: DeepSeek V4 Flash 0731]] — 2026-08-09 · `web:Antigma` · 관련도 2.5
@@ -185,6 +187,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.17.5 -- R001502|openai/openai-agents-python v0.17.5]] — 2026-06-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-cli==0.4.28 -- R001511|langchain-ai/langgraph langgraph-cli==0.4.28]] — 2026-06-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Prime Agent A self-improving RLM agent for coding workflows -- R001937|Prime Agent: A self-improving RLM agent for coding workflows]] — 2026-05-08 · `web:Prime Intellect GitHub` · 관련도 2.5
+- [[vault/Sources/The reason AI agents can do more than generate text is not just the model. It is the harness bui -- R001964|The reason AI agents can do more than generate text is not just the model. It is the harness built around it. Here is what harness engineeri]] — 2026-08-11 · `social:tiktok` · 관련도 2.3
 - [[vault/Sources/SHE Trajectory-driven Safety Harness Evolution for LLM Agents -- R001848|SHE: Trajectory-driven Safety Harness Evolution for LLM Agents]] — 2026-08-10 · `arxiv` · 관련도 2.3
 - [[vault/Sources/ActBench Self-Evolving Benchmark of Behavioral Safety in Cowork Agents -- R001849|ActBench: Self-Evolving Benchmark of Behavioral Safety in Cowork Agents]] — 2026-08-10 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Comment PRIME to get the PRIME Agent repo. One harness took Claude Opus 5 from 30 percent to 95 -- R001906|Comment "PRIME" to get the PRIME Agent repo. One harness took Claude Opus 5 from 30 percent to 95 percent on ARC-AGI-3. Same model. Same wei]] — 2026-08-10 · `social:tiktok` · 관련도 2.3

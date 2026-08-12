@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`BIJIXVXH`)
 - 발행일: 2026-08-08T14:46:08Z
 - 저자: Ronghua Xu, Kepha Barasa, Manoj Kumal, Xinyun Liu, Weihua Zhou, Xin Qian
 - 식별자: `arxiv:2608.08163`

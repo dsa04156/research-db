@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`VIP2FFUC`)
 - 발행일: 2026-08-10T13:07:40Z
 - 저자: Jiajun Xu, Yanghao Zhou, Jingyun Liao, Yu Bai, Jinxing Zhou, Chengliang Liu, Changsen Yuan, Bo Wang, Qian Liu
 - 식별자: `arxiv:2608.09573`

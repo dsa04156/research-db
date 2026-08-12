@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`QMBZ93NX`)
 - 발행일: 2026-08-09
 - 저자: Joachim-Christian Backes
 - 식별자: `doi:10.5281/zenodo.21861420`

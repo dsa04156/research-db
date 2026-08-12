@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 420
+source_count: 425
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **420개**
+연결된 자료: **425개**
 
 ## 자료
 
@@ -195,6 +195,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Latency Minimization for IRS-enhanced Wideband MEC Networks with Practical Reflection Model -- R000453|Latency Minimization for IRS-enhanced Wideband MEC Networks with Practical Reflection Model]] — 2024-07-15 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Graph Neural Networks and Reinforcement Learning for Proactive Application Image Placement -- R000506|Graph Neural Networks and Reinforcement Learning for Proactive Application Image Placement]] — 2024-04-23 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Efficient Anchor Point Deployment for Low Latency Connectivity in MEC-Assisted C-V2X Scenarios -- R000524|Efficient Anchor Point Deployment for Low Latency Connectivity in MEC-Assisted C-V2X Scenarios]] — 2024-03-28 · `arxiv` · 관련도 3.4
+- [[vault/Sources/A Multi-Modal Cloud Architectures for Healthcare and Predictive Clinical Analytics -- R001948|A Multi-Modal Cloud Architectures for Healthcare and Predictive Clinical Analytics]] — 2026-08-08 · `openalex` · 관련도 3.2
 - [[vault/Sources/AI-Based Autonomous Security for Cyber–Physical Systems 2.0 in IoT Ecosystems—A Narrative Review -- R001581|AI-Based Autonomous Security for Cyber–Physical Systems 2.0 in IoT Ecosystems—A Narrative Review]] — 2026-07-28 · `openalex` · 관련도 3.2
 - [[vault/Sources/Performance Evaluation and Deployment Strategies of Deep Learning-Based IDS -- R000964|Performance Evaluation and Deployment Strategies of Deep Learning-Based IDS]] — 2025-07-21 · `openalex` · 관련도 3.2
 - [[vault/Sources/A Survey on Video Big Data Analytics Architecture, Technologies, and Open Research Challenges -- R000962|A Survey on Video Big Data Analytics: Architecture, Technologies, and Open Research Challenges]] — 2025-07-21 · `openalex` · 관련도 3.2
@@ -292,9 +293,11 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260812.1 -- R001959|cloudflare/workerd v1.20260812.1]] — 2026-08-12 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260811.1 -- R001900|cloudflare/workerd v1.20260811.1]] — 2026-08-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260810.1 -- R001901|cloudflare/workerd v1.20260810.1]] — 2026-08-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Introducing Muse Glimmer An Open Agentic Model That Runs on Your Device -- R001936|Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device]] — 2026-08-10 · `web:Meta AI` · 관련도 2.5
+- [[vault/Sources/h3-metal Native MiniMax-H3 inference for Apple Silicon -- R001963|h3-metal: Native MiniMax-H3 inference for Apple Silicon]] — 2026-08-09 · `web:GitHub` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260809.1 -- R001836|cloudflare/workerd v1.20260809.1]] — 2026-08-09 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260808.1 -- R001837|cloudflare/workerd v1.20260808.1]] — 2026-08-08 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260807.2 -- R001838|cloudflare/workerd v1.20260807.2]] — 2026-08-07 · `github-release` · 관련도 2.5
@@ -325,6 +328,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 2.5
 - [[vault/Sources/A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM -- R001885|A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM]] — 2026-08-10 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Naija-Petro AI Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain -- R001791|Naija-Petro AI: Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain-Specific Fine-Tuning]] — 2026-08-10 · `crossref` · 관련도 2.3
+- [[vault/Sources/An Anomaly-Based Deep Learning Model for Detecting Known and Zero-Day Attacks in Network Traffic -- R001947|An Anomaly-Based Deep Learning Model for Detecting Known and Zero-Day Attacks in Network Traffic]] — 2026-08-08 · `openalex` · 관련도 2.3
+- [[vault/Sources/Predictive Maintenance Using Artificial Intelligence for Enhancing Operational Efficiency in Ind -- R001946|Predictive Maintenance Using Artificial Intelligence for Enhancing Operational Efficiency in Industry 4.0]] — 2026-08-08 · `openalex` · 관련도 2.3
 - [[vault/Sources/AutoRAG Optimizing RAG for small models -- R001755|AutoRAG: Optimizing RAG for small models]] — 2026-08-04 · `rss:Red Hat Developer Blog` · 관련도 2.3
 - [[vault/Sources/Podcast WebAssembly on the JVM Feature Evolution, Performance, and the Transition to Endive -- R001702|Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive]] — 2026-08-03 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/📱As AI adoption accelerates, smartphones are increasingly becoming more than just access devices -- R001564|📱As AI adoption accelerates, smartphones are increasingly becoming more than just access devices. They are emerging as a distributed computi]] — 2026-07-27 · `social:instagram` · 관련도 2.3

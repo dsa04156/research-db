@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `web:Docker Docs`
 - 검토 상태: `pending`
+- Zotero: created (`3AJZBNB9`)
 - 발행일: 2026-08-06
 - 저자: Docker
 - 식별자: `url:78e0fc6feb1e82be24d6a2d5ae834e3b0b43a8f24b5e5b420c61950ea73516b7`

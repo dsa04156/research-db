@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`MBJ4J77T`)
 - 발행일: 2026-08-06
 - 저자: Bo Deng, Kang Zhou, Lifan Guo, Chongyang Tao, Xuanren Chen, Chenggang Xie, Renzhao Liang, Feng Chen, Chi Zhang
 - 식별자: `arxiv:2608.06144`

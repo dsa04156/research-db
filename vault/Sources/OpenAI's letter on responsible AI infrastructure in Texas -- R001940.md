@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `web:OpenAI`
 - 검토 상태: `pending`
+- Zotero: created (`R3QKQKN5`)
 - 발행일: 2026-08-10
 - 저자: OpenAI
 - 식별자: `url:3d196224ab27a2df369cbcf0994d8b85125e1e44f774a26b897579f4f210801c`

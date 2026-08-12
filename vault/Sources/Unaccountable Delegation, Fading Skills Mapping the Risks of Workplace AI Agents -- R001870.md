@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`4T649E6U`)
 - 발행일: 2026-08-09T09:28:51Z
 - 저자: Gabriele La Malfa, Lakmal Meegahapola, Edyta Bogucka, Jie M. Zhang, Michael Luck, Elizabeth Black, Daniele Quercia
 - 식별자: `arxiv:2608.08601`

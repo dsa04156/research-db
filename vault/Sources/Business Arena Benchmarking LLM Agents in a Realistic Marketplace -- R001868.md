@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`PR5CIKUI`)
 - 발행일: 2026-08-09T10:08:21Z
 - 저자: Yijun Pan, Yukun Lian, Kunyu Shi, Junbo Li, Hongwei Xue, Sicong Xie, Guannan Zhang, Xiaoying Xing
 - 식별자: `arxiv:2608.08621`

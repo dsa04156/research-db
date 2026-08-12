@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`IVEEIMTQ`)
 - 발행일: 2026-08-10T16:47:01Z
 - 저자: Abdullah X
 - 식별자: `arxiv:2608.09828`

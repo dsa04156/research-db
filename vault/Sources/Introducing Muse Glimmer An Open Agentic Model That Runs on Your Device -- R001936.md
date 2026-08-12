@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `web:Meta AI`
 - 검토 상태: `pending`
+- Zotero: created (`4SA5CAKF`)
 - 발행일: 2026-08-10
 - 저자: Meta AI
 - 식별자: `url:7c4c5b27f76a03627b7f0a4db4744223f304f829fbbe49c569f14938228ab144`

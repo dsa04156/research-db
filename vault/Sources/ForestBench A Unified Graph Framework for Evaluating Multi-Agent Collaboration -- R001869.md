@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`REX3KI7R`)
 - 발행일: 2026-08-09T09:38:52Z
 - 저자: Guo Chen, Ziwen Li, Reed Li, Yu Lu, Haibo Shi, Bingbing Xu, Junjie Huang
 - 식별자: `arxiv:2608.08605`

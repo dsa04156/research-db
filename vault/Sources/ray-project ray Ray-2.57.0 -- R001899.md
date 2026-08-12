@@ -28,6 +28,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `github-release`
 - 검토 상태: `pending`
+- Zotero: created (`C6ZB9KDG`)
 - 발행일: 2026-08-11T01:15:44Z
 - 저자: sai-miduthuri
 - 식별자: `url:70a7529723cd76975057ffbe7f9448861ed62d97b02711e6de88ab47fa09f0fb`

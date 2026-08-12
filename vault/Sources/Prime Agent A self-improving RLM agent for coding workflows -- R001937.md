@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `web:Prime Intellect GitHub`
 - 검토 상태: `pending`
+- Zotero: created (`2RA65NQN`)
 - 발행일: 2026-05-08
 - 저자: Prime Intellect
 - 식별자: `url:06b6387dd3484f1cd9b0c36b78157d8757ff9ac34db8c50e46e31450c916ddef`

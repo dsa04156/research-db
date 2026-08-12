@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`EQ2P3IWW`)
 - 발행일: 2026-08-11
 - 저자: Ningkai Ma, Yaru Zhang
 - 식별자: `doi:10.1007/s11518-026-5745-5`

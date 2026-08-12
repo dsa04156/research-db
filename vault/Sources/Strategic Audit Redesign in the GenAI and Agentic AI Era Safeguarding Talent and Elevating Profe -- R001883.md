@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`M47EM3QP`)
 - 발행일: 2026-08-11
 - 저자: Cory Ng, Amanda Acevedo
 - 식별자: `doi:10.66241/pdxpn`

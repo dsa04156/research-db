@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DJ3BSSFT`)
 - 발행일: 2026-08-08T17:07:39Z
 - 저자: Jobst Heitzig, Ram Potham
 - 식별자: `arxiv:2608.08240`

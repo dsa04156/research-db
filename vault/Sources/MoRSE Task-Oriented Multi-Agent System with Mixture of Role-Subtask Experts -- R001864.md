@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`66P9HZVQ`)
 - 발행일: 2026-08-10T08:11:24Z
 - 저자: Peiwen Li, Shiyang Zhang, Yangtian Zhang, Sizhuang He, David van Dijk, Rex Ying
 - 식별자: `arxiv:2608.09251`

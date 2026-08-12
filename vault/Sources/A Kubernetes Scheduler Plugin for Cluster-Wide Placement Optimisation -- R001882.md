@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`MUV5FE35`)
 - 발행일: 2026-08-07T09:05:43Z
 - 저자: Henrik Daniel Christensen, Saverio Giallorenzo, Jacopo Mauro
 - 식별자: `arxiv:2608.06987`

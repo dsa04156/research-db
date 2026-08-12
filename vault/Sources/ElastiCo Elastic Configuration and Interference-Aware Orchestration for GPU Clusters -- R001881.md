@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DUE33FVI`)
 - 발행일: 2026-08-08T07:09:38Z
 - 저자: Jinghao Wang, Yihang Zhou, Xiaoyang Sun, Chunming Hu, Tianyu Wo, Xu Wang, Albert Y. Zomaya, Renyu Yang
 - 식별자: `arxiv:2608.07971`

@@ -13,7 +13,6 @@ aliases:
   - "MiDojo: Improve AI agent security with real-world red-teaming"
 topics:
   - "ai-agents"
-  - "kubernetes"
   - "self-evolving-harness"
 ---
 
@@ -23,10 +22,11 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/AI agents]], [[vault/Topics/Kubernetes]], [[vault/Topics/Self-evolving harness]]
+- 주제: [[vault/Topics/AI agents]], [[vault/Topics/Self-evolving harness]]
 - 최초 수집: [[vault/Daily/2026-08-11|2026-08-11]]
 - 수집 채널: `rss:Red Hat Developer Blog`
 - 검토 상태: `pending`
+- Zotero: created (`CZET2VTX`)
 - 발행일: 2026-08-10T07:01:20+00:00
 - 저자: Red Hat
 - 식별자: `url:39c96d63344583e9a784234d28f14dd153fa85ea589778dcc5a471dc5467f5ab`
