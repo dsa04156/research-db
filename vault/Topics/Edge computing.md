@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 425
+source_count: 427
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **425개**
+연결된 자료: **427개**
 
 ## 자료
 
@@ -293,7 +293,9 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260813.1 -- R001976|cloudflare/workerd v1.20260813.1]] — 2026-08-13 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260812.1 -- R001959|cloudflare/workerd v1.20260812.1]] — 2026-08-12 · `github-release` · 관련도 2.5
+- [[vault/Sources/hax A minimalist terminal-native coding agent written in C -- R001982|hax: A minimalist terminal-native coding agent written in C]] — 2026-08-12 · `web:Hax` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260811.1 -- R001900|cloudflare/workerd v1.20260811.1]] — 2026-08-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260810.1 -- R001901|cloudflare/workerd v1.20260810.1]] — 2026-08-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Introducing Muse Glimmer An Open Agentic Model That Runs on Your Device -- R001936|Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device]] — 2026-08-10 · `web:Meta AI` · 관련도 2.5
