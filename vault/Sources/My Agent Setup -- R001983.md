@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-13|2026-08-13]]
 - 수집 채널: `web:Chad McElligott`
 - 검토 상태: `pending`
+- Zotero: created (`9M35C5QA`)
 - 발행일: 2026-08-11
 - 저자: Chad McElligott
 - 식별자: `url:eb7be454b2fa3b50ae8ec86e7aa8a38d740fabb488d4236385a52fe3855cc520`

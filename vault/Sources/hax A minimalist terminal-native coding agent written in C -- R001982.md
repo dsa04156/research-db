@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-13|2026-08-13]]
 - 수집 채널: `web:Hax`
 - 검토 상태: `pending`
+- Zotero: created (`UERU5E2W`)
 - 발행일: 2026-08-12
 - 저자: Oleksandr Chekhovskyi
 - 식별자: `url:60f54f0139465aa1ce2ef2575792b2ed03161a0a9e86144aced06e64ea1923ca`

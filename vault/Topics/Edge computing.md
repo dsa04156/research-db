@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 427
+source_count: 432
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **427개**
+연결된 자료: **432개**
 
 ## 자료
 
@@ -174,6 +174,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Gradient-Congruity Guided Federated Sparse Training -- R000497|Gradient-Congruity Guided Federated Sparse Training]] — 2024-05-02 · `arxiv` · 관련도 3.6
 - [[vault/Sources/AdaptSFL Adaptive Split Federated Learning in Resource-constrained Edge Networks -- R000532|AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks]] — 2024-03-19 · `arxiv` · 관련도 3.6
 - [[vault/Sources/Intelligent Resource Orchestration for 5G Edge Infrastructures -- R000357|Intelligent Resource Orchestration for 5G Edge Infrastructures]] — 2024-03-19 · `openalex` · 관련도 3.6
+- [[vault/Sources/Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing -- R001991|Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing]] — 2026-08-15 · `crossref` · 관련도 3.5
+- [[vault/Sources/Diffusion Language Models for Mobile Edge Agentic AI Foundations, Applications, and Challenges -- R001993|Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges]] — 2026-08-11 · `openalex` · 관련도 3.5
 - [[vault/Sources/Edge AI in Agriculture A Multi-modal Approach Analysis for Scalable and Transparent Plant Diseas -- R001129|Edge AI in Agriculture: A Multi-modal Approach Analysis for Scalable and Transparent Plant Disease Detection]] — 2026-07-30 · `crossref` · 관련도 3.5
 - [[vault/Sources/Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins -- R001466|Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins]] — 2026-06-16 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/Heterogeneous SoC Integrating an Open-Source Recurrent SNN Accelerator for Neuromorphic Edge Com -- R001350|Heterogeneous SoC Integrating an Open-Source Recurrent SNN Accelerator for Neuromorphic Edge Computing on FPGA]] — 2026-05-12 · `arxiv` · 관련도 3.5
@@ -199,6 +201,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/AI-Based Autonomous Security for Cyber–Physical Systems 2.0 in IoT Ecosystems—A Narrative Review -- R001581|AI-Based Autonomous Security for Cyber–Physical Systems 2.0 in IoT Ecosystems—A Narrative Review]] — 2026-07-28 · `openalex` · 관련도 3.2
 - [[vault/Sources/Performance Evaluation and Deployment Strategies of Deep Learning-Based IDS -- R000964|Performance Evaluation and Deployment Strategies of Deep Learning-Based IDS]] — 2025-07-21 · `openalex` · 관련도 3.2
 - [[vault/Sources/A Survey on Video Big Data Analytics Architecture, Technologies, and Open Research Challenges -- R000962|A Survey on Video Big Data Analytics: Architecture, Technologies, and Open Research Challenges]] — 2025-07-21 · `openalex` · 관련도 3.2
+- [[vault/Sources/Machine learning optimized drone based investigation of multiphysics transport phenomena on func -- R001992|Machine learning optimized drone based investigation of multiphysics transport phenomena on functional surfaces for thermal imaging digital twins and quality management in Industry 4.0]] — 2026-08-11 · `openalex` · 관련도 3.1
 - [[vault/Sources/Optimized Embedded Implementation of Hyperspectral-Multispectral Image Fusion on Raspberry Pi -- R000086|Optimized Embedded Implementation of Hyperspectral-Multispectral Image Fusion on Raspberry Pi]] — 2026-07-25 · `arxiv` · 관련도 3.1
 - [[vault/Sources/MIND-CAVs Multi-Intelligence Negotiation and Decision System for CAVs based on Intent-Driven Aut -- R000089|MIND-CAVs: Multi-Intelligence Negotiation and Decision System for CAVs based on Intent-Driven Autonomy]] — 2026-07-16 · `arxiv` · 관련도 3.1
 - [[vault/Sources/ray-project ray Ray-2.56.0 -- R001522|ray-project/ray Ray-2.56.0]] — 2026-06-29 · `github-release` · 관련도 3.1
@@ -206,6 +209,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extractio -- R000953|Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extraction]] — 2025-07-26 · `openalex` · 관련도 3.1
 - [[vault/Sources/CHAMP A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks -- R000862|CHAMP: A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks]] — 2025-07-23 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Computing Looking Back and Moving Forward -- R000448|Computing: Looking Back and Moving Forward]] — 2024-07-17 · `arxiv` · 관련도 3.1
+- [[vault/Sources/A Hybrid Genetic-Reinforcement Learning Framework for Edge-Enabled Social IoT -- R001994|A Hybrid Genetic-Reinforcement Learning Framework for Edge-Enabled Social IoT]] — 2026-08-11 · `openalex` · 관련도 2.9
 - [[vault/Sources/A GenAI-Driven Adaptive Cybersecurity Mesh for Real-Time Threat Detection in Intelligent Communi -- R000102|A GenAI-Driven Adaptive Cybersecurity Mesh for Real-Time Threat Detection in Intelligent Communication Systems]] — 2026-07-27 · `openalex` · 관련도 2.9
 - [[vault/Sources/SOURCE-LEVEL ARCHITECTURAL CORRESPONDENCE ANALYSIS The LiteRT-LM On-Device Runtime and the Compr -- R001400|SOURCE-LEVEL ARCHITECTURAL CORRESPONDENCE ANALYSIS The LiteRT-LM On-Device Runtime and the Compressed Memory Manifold Specification Author: Nicholas Wray Cordova, Principal and Inventor of Record Institution: Green Recursive Utility Service LLC, Weatherford, Texas, United States Identifiers: Texas SOS Entity 806584578 · Ringgold 851161 · ISNI 0000 0005 3033 4084 Date: July 2026 Document type: Technical analysis — public source review Related instruments: USPTO 19/700,381 · USPTO 19/710,080 · PUCT Control No. 59976-1 · FERC CID C013240]] — 2026-07-22 · `openalex` · 관련도 2.9
 - [[vault/Sources/A Comparative Analysis of Machine Learning Models for Intrusion Detection in Intelligent Transpo -- R001358|A Comparative Analysis of Machine Learning Models for Intrusion Detection in Intelligent Transport Systems]] — 2026-04-30 · `arxiv` · 관련도 2.9
@@ -293,6 +297,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260814.1 -- R001999|cloudflare/workerd v1.20260814.1]] — 2026-08-14 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260813.1 -- R001976|cloudflare/workerd v1.20260813.1]] — 2026-08-13 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260812.1 -- R001959|cloudflare/workerd v1.20260812.1]] — 2026-08-12 · `github-release` · 관련도 2.5
 - [[vault/Sources/hax A minimalist terminal-native coding agent written in C -- R001982|hax: A minimalist terminal-native coding agent written in C]] — 2026-08-12 · `web:Hax` · 관련도 2.5

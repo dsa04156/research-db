@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-13|2026-08-13]]
 - 수집 채널: `web:Discovered Materials`
 - 검토 상태: `pending`
+- Zotero: created (`STJ98GK3`)
 - 발행일: 2026-08-12
 - 저자: Discovered Materials
 - 식별자: `url:8c9036c9e0f0cff78118ce90ea3f16d8b3be66ca20712fadb922a35b9f8722d3`

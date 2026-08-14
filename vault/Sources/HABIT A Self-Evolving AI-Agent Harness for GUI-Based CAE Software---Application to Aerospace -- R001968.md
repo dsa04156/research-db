@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-13|2026-08-13]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`HWIFB394`)
 - 발행일: 2026-08-11
 - 저자: Shaoqi Wu, Jingyi Li, Jiayi Yao, Xingyuan JU
 - 식별자: `doi:10.21203/rs.3.rs-10648340/v1`
