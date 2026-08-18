@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 512
+source_count: 522
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **512개**
+연결된 자료: **522개**
 
 ## 자료
 
@@ -29,6 +29,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Kubernetes v1.36 Server-Side Sharded List and Watch -- R001423|Kubernetes v1.36: Server-Side Sharded List and Watch]] — 2026-05-06 · `rss:Kubernetes Blog` · 관련도 6.9
 - [[vault/Sources/Kubernetes v1.36 Admission Policies That Can't Be Deleted -- R001425|Kubernetes v1.36: Admission Policies That Can't Be Deleted]] — 2026-05-04 · `rss:Kubernetes Blog` · 관련도 6.9
 - [[vault/Sources/Securing Production Debugging in Kubernetes -- R001439|Securing Production Debugging in Kubernetes]] — 2026-03-18 · `rss:Kubernetes Blog` · 관련도 6.9
+- [[vault/Sources/AI workloads change the cost and operations profile of a Kubernetes platform. GPU-backed node gr -- R002065|AI workloads change the cost and operations profile of a Kubernetes platform. GPU-backed node groups, tighter autoscaling for high-cost com]] — 2026-08-11 · `social:linkedin` · 관련도 6.7
 - [[vault/Sources/Kubernetes v1.36 Advancing Workload-Aware Scheduling -- R001419|Kubernetes v1.36: Advancing Workload-Aware Scheduling]] — 2026-05-13 · `rss:Kubernetes Blog` · 관련도 6.7
 - [[vault/Sources/Kubernetes v1.36 Fine-Grained Kubelet API Authorization Graduates to GA -- R001431|Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA]] — 2026-04-24 · `rss:Kubernetes Blog` · 관련도 6.7
 - [[vault/Sources/Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing Performance and -- R000712|Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing: Performance and Resource Efficiency]] — 2025-03-04 · `arxiv` · 관련도 6.7
@@ -52,6 +53,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Container-level Energy Observability in Kubernetes Clusters -- R000704|Container-level Energy Observability in Kubernetes Clusters]] — 2025-04-14 · `arxiv` · 관련도 6.2
 - [[vault/Sources/HeteroPod XPU-Accelerated Infrastructure Offloading for Commodity Cloud-Native Applications -- R000707|HeteroPod: XPU-Accelerated Infrastructure Offloading for Commodity Cloud-Native Applications]] — 2025-03-31 · `arxiv` · 관련도 6.2
 - [[vault/Sources/The Flux Operator -- R000329|The Flux Operator]] — 2023-09-29 · `arxiv` · 관련도 6.2
+- [[vault/Sources/CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations -- R002026|CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations]] — 2026-08-17 · `rss:CNCF Blog` · 관련도 6.1
 - [[vault/Sources/How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To -- R001949|How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To]] — 2026-08-11 · `rss:Kubernetes Blog` · 관련도 6.1
 - [[vault/Sources/Kubernetes v1.37 Sneak Peek -- R001652|Kubernetes v1.37 Sneak Peek]] — 2026-07-31 · `rss:Kubernetes Blog` · 관련도 6.1
 - [[vault/Sources/Operating AI ML Workloads on Kubernetes A Headlamp Plugin for Kubeflow -- R000111|Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow]] — 2026-07-13 · `rss:Kubernetes Blog` · 관련도 6.1
@@ -96,6 +98,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 5.4
 - [[vault/Sources/Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN -- R000306|Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN]] — 2024-05-24 · `arxiv` · 관련도 5.4
 - [[vault/Sources/PerfTune360 Self-Optimizing AI Framework for Cloud-Native Microservices -- R000367|PerfTune360: Self-Optimizing AI Framework for Cloud-Native Microservices]] — 2024-01-01 · `openalex` · 관련도 5.4
+- [[vault/Sources/Eleven minutes, zero humans Building a self-healing Kubernetes upgrade pipeline on Kairos -- R002027|Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos]] — 2026-08-14 · `rss:CNCF Blog` · 관련도 5.3
 - [[vault/Sources/Kubernetes on Oxide How Customer Needs Shaped Our Integrations -- R002008|Kubernetes on Oxide: How Customer Needs Shaped Our Integrations]] — 2026-08-13 · `web:Oxide` · 관련도 5.3
 - [[vault/Sources/CNCF Announces Graduation of Cloud Native Buildpacks, Advancing the Standard for Container Build -- R001950|CNCF Announces Graduation of Cloud Native Buildpacks, Advancing the Standard for Container Builds]] — 2026-08-11 · `rss:CNCF Blog` · 관련도 5.3
 - [[vault/Sources/Does Kubernetes DRA Replace HAMi -- R001813|Does Kubernetes DRA Replace HAMi?]] — 2026-08-07 · `rss:CNCF Blog` · 관련도 5.3
@@ -174,6 +177,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Shadow AI in CI CD Threat-modeling the path from developer laptop to Kubernetes -- R001814|Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes]] — 2026-08-07 · `rss:CNCF Blog` · 관련도 4.8
 - [[vault/Sources/SAFE-HealCloud Safety-Aware, Agentic Self-Healing for Cloud Infrastructure -- R001691|SAFE-HealCloud: Safety-Aware, Agentic Self-Healing for Cloud Infrastructure]] — 2026-08-01 · `openalex` · 관련도 4.8
 - [[vault/Sources/Spotlight on SIG Storage -- R001412|Spotlight on SIG Storage]] — 2026-06-15 · `rss:Kubernetes Blog` · 관련도 4.7
+- [[vault/Sources/AI is changing what Kubernetes has to do. For years, Kubernetes was primarily about running appl -- R002066|#AI is changing what #Kubernetes has to do. For years, Kubernetes was primarily about running applications at scale. Now it's increasingly]] — 2026-08-11 · `social:linkedin` · 관련도 4.6
 - [[vault/Sources/Kubernetes doesn’t schedule your container directly—it schedules a Pod. ☸️ Containers run the pr -- R001918|Kubernetes doesn’t schedule your container directly—it schedules a Pod. ☸️ Containers run the processes. Pods provide the shared execution b]] — 2026-08-11 · `social:tiktok` · 관련도 4.6
 - [[vault/Sources/Cold-Start Model Delivery in Kubernetes Inference Serving An Empirical Study of OCI-Based Distri -- R000052|Cold-Start Model Delivery in Kubernetes Inference Serving: An Empirical Study of OCI-Based Distribution and Its Integrity]] — 2026-07-18 · `arxiv` · 관련도 4.6
 - [[vault/Sources/SQUIRO A Framework for Security-Aware Quantum-Classical Scheduling on Kubernetes -- R000067|SQUIRO: A Framework for Security-Aware Quantum-Classical Scheduling on Kubernetes]] — 2026-07-17 · `openalex` · 관련도 4.6
@@ -206,6 +210,10 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Gateway API v1.5 Moving features to Stable -- R001435|Gateway API v1.5: Moving features to Stable]] — 2026-04-21 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Announcing Ingress2Gateway 1.0 Your Path to Gateway API -- R001437|Announcing Ingress2Gateway 1.0: Your Path to Gateway API]] — 2026-03-20 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/Experimenting with Gateway API using kind -- R001447|Experimenting with Gateway API using kind]] — 2026-01-28 · `rss:Kubernetes Blog` · 관련도 4.4
+- [[vault/Sources/Show HN KubeSentry – Self-hosted runtime threat detection for Kubernetes -- R002068|Show HN: KubeSentry – Self-hosted runtime threat detection for Kubernetes]] — 2026-08-17 · `social:hackernews` · 관련도 4.3
+- [[vault/Sources/Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 video -- R002067|Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 [video ]] — 2026-08-16 · `social:hackernews` · 관련도 4.3
+- [[vault/Sources/Kubernetes was built for applications. AI infrastructure needs Kubernetes to think about GPUs, t -- R002064|Kubernetes was built for applications. AI infrastructure needs Kubernetes to think about GPUs, topology, memory, networking, storage and inf]] — 2026-08-16 · `social:linkedin` · 관련도 4.3
+- [[vault/Sources/For the love of god stop using CPU limits in Kubernetes -- R002070|For the love of god stop using CPU limits in Kubernetes]] — 2026-08-14 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution -- R001975|Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution]] — 2026-08-12 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/Sydney Kubernetes Meetup Running AI Agents & Building Platforms on Kubernetes -- R001961|Sydney Kubernetes Meetup: Running AI Agents & Building Platforms on Kubernetes]] — 2026-08-11 · `social:reddit` · 관련도 4.3
 - [[vault/Sources/Show HN OpsCart – Read-only Kubernetes triage with incident history -- R001923|Show HN: OpsCart – Read-only Kubernetes triage with incident history]] — 2026-08-09 · `social:hackernews` · 관련도 4.3
@@ -365,6 +373,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Autonomous GenAI Agents for Legacy-to-Cloud ETL Modernization -- R000363|Autonomous GenAI Agents for Legacy-to-Cloud ETL Modernization]] — 2024-01-22 · `openalex` · 관련도 3.4
 - [[vault/Sources/Agents, LLMs, and Salesforce with Multi-Cloud Provider (MCP) -- R000373|Agents, LLMs, and Salesforce with Multi-Cloud Provider (MCP)]] — 2024-01-01 · `openalex` · 관련도 3.4
 - [[vault/Sources/Comparison of Autoscaling Frameworks for Containerised Machine-Learning-Applications in a Local -- R000325|Comparison of Autoscaling Frameworks for Containerised Machine-Learning-Applications in a Local and Cloud Environment]] — 2023-11-30 · `arxiv` · 관련도 3.4
+- [[vault/Sources/Welcome Falkey the Falco and Ky the Kyverno Pyrenees -- R002025|Welcome Falkey the Falco and Ky the Kyverno Pyrenees]] — 2026-08-17 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/A practical guide to solving when zero+zero=two in mesh observability -- R001951|A practical guide to solving when zero+zero=two in mesh observability]] — 2026-08-11 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/LitmusChaos Q1-Q2 2026 update community, contributions, and project progress -- R001815|LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress]] — 2026-08-06 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/Runtime Supply Chain Verification using the Node Resource Interface (NRI) -- R001582|Runtime Supply Chain Verification using the Node Resource Interface (NRI)]] — 2026-07-30 · `rss:CNCF Blog` · 관련도 3.3
@@ -448,6 +457,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Cortex completes OSTIF security audit -- R001696|Cortex completes OSTIF security audit]] — 2026-08-03 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Lima v2.2 Windows guests and TPM 2.0 emulation -- R000143|Lima v2.2: Windows guests and TPM 2.0 emulation]] — 2026-07-29 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Just-in-time access to HashiCorp Vault using the Red&nbsp;Hat&nbsp;Ansible Automation Platform O -- R001892|Just-in-time access to HashiCorp Vault using the Red&nbsp;Hat&nbsp;Ansible Automation Platform OIDC provider]] — 2026-08-11 · `rss:Red Hat Developer Blog` · 관련도 2.3
+- [[vault/Sources/Benchmarking LLM-Guided Control-Plane Policies for Backend Fault Isolation in HAProxy -- R002015|Benchmarking LLM-Guided Control-Plane Policies for Backend Fault Isolation in HAProxy]] — 2026-08-11 · `openalex` · 관련도 2.3
 - [[vault/Sources/Harden local container base images in Podman Desktop -- R001894|Harden local container base images in Podman Desktop]] — 2026-08-10 · `rss:Red Hat Developer Blog` · 관련도 2.3
 - [[vault/Sources/Buildpacks Move the Container Hardening Control Point Away From the Dockerfile -- R001896|Buildpacks Move the Container Hardening Control Point Away From the Dockerfile]] — 2026-08-10 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/Beyond Consensus The Fragmentation of AI Policy Across the Linux Ecosystem -- R001897|Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem]] — 2026-08-10 · `rss:InfoQ` · 관련도 2.3

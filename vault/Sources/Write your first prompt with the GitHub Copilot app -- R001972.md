@@ -33,7 +33,7 @@ topics:
 
 ## 요약·초록
 
-Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .
+Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog .
 
 ## 내 메모
 

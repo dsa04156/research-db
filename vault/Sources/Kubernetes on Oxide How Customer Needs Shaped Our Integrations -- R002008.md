@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `web:Oxide`
 - 검토 상태: `pending`
+- Zotero: created (`396CGK7T`)
 - 발행일: 2026-08-13
 - 저자: Oxide Computer Company
 - 식별자: `url:2971c3367e62209584ed27bf52ac38e8b7155e75a87b5fba715861ee49378b84`

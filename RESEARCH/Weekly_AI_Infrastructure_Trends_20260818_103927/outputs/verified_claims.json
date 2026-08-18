@@ -1,0 +1,84 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "에이전트 경쟁의 초점이 모델 단독 성능에서 교체 가능한 하네스와 실행 계층으로 이동하고 있다. DeepSeek는 모든 구성요소를 플러그인화한 하네스를 공개했고, OpenAI Agents SDK는 같은 주에 실행 제어 기능을 연속 강화했다.",
+    "risk": "normal",
+    "claim_type": "trend-synthesis",
+    "source_ids": [
+      "src_001",
+      "src_004"
+    ],
+    "counter_search": "단순 마케팅 재포장인지 확인하기 위해 실제 공개 저장소, 실행 방법, 릴리스 변경점을 대조했다. 두 프로젝트 모두 실행 가능한 코드와 구체적 런타임 변경을 제공하지만 DeepSeek는 개발자 프리뷰라고 명시한다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "프로덕션 에이전트의 핵심 운영 기능으로 결정론적 테스트, 타임아웃, 네트워크 격리, 승인 정확성, 버전된 평가 루프가 함께 부상하고 있다.",
+    "risk": "normal",
+    "claim_type": "synthesis",
+    "source_ids": [
+      "src_004",
+      "src_005",
+      "src_006"
+    ],
+    "counter_search": "기능 목록이 단순 편의 기능인지 반증 검색했으나 릴리스는 실패 정리, 민감 오류 삭제, 샌드박스 네트워크 차단과 상태 격리를 포함하고 InfoQ 분석은 버전된 평가 루프를 별도 운영 패턴으로 다룬다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "Kubernetes 기반 AI 운영은 개별 실험 도구에서 수명주기와 거버넌스를 갖춘 표준 플랫폼 단계로 이동하고 있다. Kubeflow의 CNCF 졸업이 이번 주 이를 보여주는 직접 신호다.",
+    "risk": "normal",
+    "claim_type": "ecosystem-trend",
+    "source_ids": [
+      "src_007",
+      "src_008"
+    ],
+    "counter_search": "CNCF 발표만의 과장인지 확인하기 위해 독립된 공식 저장소의 구성과 프로젝트 지속성을 대조했다. 졸업은 성능 우위를 뜻하지 않으며 운영 성숙도와 거버넌스 이정표로만 해석했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "Kubernetes의 GPU 운영 방향은 정적 device plugin 중심에서 DRA 기반 동적 할당, 장치 분할, 건강 상태와 workload-aware scheduling으로 확장되고 있다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_009",
+      "src_010"
+    ],
+    "counter_search": "DRA가 모든 GPU 기능에서 즉시 운영 준비됐다는 반대 가정을 확인했다. 공식 문서는 일부 기능이 alpha/beta이고 NVIDIA GPU 플러그인의 일부 기능은 기본 비활성이라고 명시하므로 단계적 도입이 필요하다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "Cloud·Edge 런타임의 최근 변화는 새 모델 기능보다 누수 제거, 실행 수명주기, 실패 복구와 자동 업그레이드 같은 신뢰성 공학에 집중되어 있다.",
+    "risk": "normal",
+    "claim_type": "trend-synthesis",
+    "source_ids": [
+      "src_011",
+      "src_012",
+      "src_004"
+    ],
+    "counter_search": "단일 릴리스의 우연인지 확인하기 위해 Cloudflare workerd, CNCF Kubernetes 운영 사례, OpenAI 에이전트 런타임 릴리스를 비교했다. 서로 다른 프로젝트에서 GC 누수, 실패 정리, 샌드박스와 자가복구가 반복된다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

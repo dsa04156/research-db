@@ -1,0 +1,34 @@
+[
+  {
+    "claim_id": "clm_006",
+    "text": "커뮤니티에서 회자된 특정 하네스 비교 수치는 통제된 독립 재현 자료를 찾지 못해 채택 판단 근거로 사용할 수 없다.",
+    "risk": "high",
+    "claim_type": "performance",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_003"
+    ],
+    "counter_search": "공식 벤치마크와 독립 재현을 검색했지만 개발자 프리뷰 구조와 커뮤니티 반응만 확인됐고 동일 조건 재현 자료는 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "출처 간 충돌 미해소"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "에이전트 API 비용 압력이 업계 전반의 수익성 악화로 이어졌다는 주장은 커뮤니티 신호는 강하지만 공개된 독립 재무·사용량 자료가 부족하다.",
+    "risk": "high",
+    "claim_type": "economic-outcome",
+    "source_ids": [
+      "src_003"
+    ],
+    "counter_search": "공급자별 사용량·원가·고객 수익성 자료를 찾았으나 비교 가능한 공개 데이터가 없어 일반화하지 않았다.",
+    "counter_refuted": false,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  }
+]

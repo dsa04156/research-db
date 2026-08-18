@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`4P59TB8C`)
 - 발행일: 2026-08-11
 - 저자: K. M. Kirthan, K. S. Rekha, Bhat Geetalaxmi Jairam
 - 식별자: `doi:10.48084/etasr.19120`

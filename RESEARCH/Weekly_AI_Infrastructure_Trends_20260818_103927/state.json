@@ -1,0 +1,55 @@
+{
+  "session_id": "Weekly_AI_Infrastructure_Trends_20260818_103927",
+  "topic": "Weekly AI Infrastructure Trends 2026-08-18",
+  "created_at": "2026-08-18T10:39:27+09:00",
+  "updated_at": "2026-08-18T11:08:00+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "primary_window": "2026-08-11/2026-08-18",
+    "timezone": "Asia/Seoul",
+    "exclusions": [
+      "X/Twitter",
+      "lead-only social claims as conclusions",
+      "unreplicated performance numbers as facts"
+    ],
+    "minimum_quality": "two independent domains per verified claim",
+    "output": "Korean weekly synthesis and evidence-backed report"
+  },
+  "plan": {
+    "research_plan": "artifacts/research_plan.json",
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 15,
+  "artifacts": {
+    "research_plan": "artifacts/research_plan.json",
+    "claim_ledger": "artifacts/claim_ledger.jsonl",
+    "sources": "sources/sources.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_weekly_research_report.md",
+    "eval_report": "outputs/eval_report.json",
+    "weekly_synthesis": "../../vault/Synthesis/2026-W34.md"
+  },
+  "errors": [
+    "arXiv structured collection returned HTTP 429/timeouts; existing indexed records and official sources used",
+    "Instagram returned no usable results; not interpreted as zero activity"
+  ],
+  "verification": {
+    "passed": true,
+    "signature": "a27c0a2dc7b1a4a94e8d4c7789b1588846de8d89834f0d5cc8dc9f3df24f2241",
+    "verified_count": 5,
+    "unresolved_count": 2,
+    "refuted_count": 1,
+    "checked_at": "2026-08-18T01:45:08.463761+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

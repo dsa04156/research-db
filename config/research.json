@@ -15,6 +15,68 @@
   "zotero": {
     "collection_name": "Codex Research Inbox"
   },
+  "kurate": {
+    "enabled": true,
+    "api_base_url": "https://kurate.org",
+    "categories": ["cs.AI", "cs.LG", "cs.RO", "cs.DC"],
+    "sort_key": "score",
+    "max_results_per_query": 8,
+    "max_detail_fetches": 20,
+    "queries": [
+      {
+        "query": "agent harness",
+        "topic_hints": ["self-evolving-harness", "ai-agents"]
+      },
+      {
+        "query": "self-improving agent",
+        "topic_hints": ["self-evolving-harness", "ai-agents"]
+      },
+      {
+        "query": "context engineering",
+        "topic_hints": ["self-evolving-harness", "ai-agents"]
+      },
+      {
+        "query": "AI agent",
+        "topic_hints": ["ai-agents"]
+      },
+      {
+        "query": "multi-agent",
+        "topic_hints": ["ai-agents"]
+      },
+      {
+        "query": "Kubernetes",
+        "topic_hints": ["kubernetes", "cloud-infrastructure"]
+      },
+      {
+        "query": "GPU scheduling",
+        "topic_hints": ["kubernetes", "cloud-infrastructure"]
+      },
+      {
+        "query": "AI infrastructure",
+        "topic_hints": ["cloud-infrastructure", "kubernetes"]
+      },
+      {
+        "query": "serverless",
+        "topic_hints": ["cloud-infrastructure"]
+      },
+      {
+        "query": "distributed systems",
+        "topic_hints": ["cloud-infrastructure", "edge-computing"]
+      },
+      {
+        "query": "edge AI",
+        "topic_hints": ["edge-computing"]
+      },
+      {
+        "query": "distributed inference",
+        "topic_hints": ["edge-computing", "cloud-infrastructure"]
+      },
+      {
+        "query": "on-device AI",
+        "topic_hints": ["edge-computing"]
+      }
+    ]
+  },
   "social_research": {
     "enabled": true,
     "lookback_days": 30,

@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `web:DeepSeek`
 - 검토 상태: `pending`
+- Zotero: created (`D88VAKMG`)
 - 발행일: 2026-08-13
 - 저자: DeepSeek AI
 - 식별자: `url:890a56b0d2aff0c91c90bfee3adfd87e27a25d9e9e9f50e04c210ad01604188a`

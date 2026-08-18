@@ -3,7 +3,9 @@ from __future__ import annotations
 import json
 import tempfile
 import unittest
+from datetime import date
 from pathlib import Path
+from unittest.mock import patch
 
 from research_harvester.core import (
     ResearchStore,
@@ -17,6 +19,7 @@ from research_harvester.digest import write_digest
 from research_harvester.obsidian import export_obsidian_graph
 from research_harvester.social import items_from_last30days_agent
 from research_harvester.social_plan import build_social_plan
+from research_harvester.sources import collect_kurate
 
 
 CONFIG = {
@@ -220,6 +223,78 @@ class StoreTests(unittest.TestCase):
             trusted_topic_hints=True,
         )
         self.assertEqual(classify_item(release, CONFIG, release["topics"])[0]["topic_id"], "harness")
+
+
+class KurateCollectorTests(unittest.TestCase):
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.root = Path(self.temp.name)
+        self.store = ResearchStore(self.root / "research.db")
+        self.store.initialize()
+
+    def tearDown(self):
+        self.temp.cleanup()
+
+    @patch("research_harvester.sources._json_request")
+    def test_kurate_uses_arxiv_as_primary_and_keeps_ranking_as_sighting(self, request):
+        request.side_effect = [
+            {
+                "rows": [
+                    {
+                        "paper_id": "paper-1",
+                        "title": "Agent Harness Evaluation",
+                        "authors": ["Ada Researcher"],
+                        "published": "2026-08-13T10:00:00Z",
+                        "arxiv_id": "2608.12345v2",
+                        "categories": ["cs.AI", "cs.LG"],
+                        "ratings": {"score": 8.0, "novelty": 8.5},
+                    }
+                ]
+            },
+            {
+                "paper": {
+                    "id": "paper-1",
+                    "title": "Agent Harness Evaluation",
+                    "authors": ["Ada Researcher"],
+                    "abstract": "An agent harness with evaluation and persistent memory.",
+                    "published": "2026-08-13T10:00:00Z",
+                    "arxiv_id": "2608.12345v2",
+                    "arxiv_id_base": "2608.12345",
+                    "link": "http://arxiv.org/abs/2608.12345v2",
+                    "categories": ["cs.AI", "cs.LG"],
+                    "ratings_updated_at": "2026-08-14T01:00:00Z",
+                    "ai_ratings_by_model": {
+                        "claude": {
+                            "score": 8.0,
+                            "score_reason": "Strong and timely contribution.",
+                            "rigor": 7.5,
+                        }
+                    },
+                }
+            },
+        ]
+        kurate = {
+            "api_base_url": "https://kurate.org",
+            "categories": ["cs.AI", "cs.LG"],
+            "queries": [{"query": "agent harness", "topic_hints": ["harness"]}],
+            "max_results_per_query": 5,
+            "max_detail_fetches": 5,
+        }
+
+        items = collect_kurate(
+            kurate,
+            CONFIG,
+            date.fromisoformat("2026-08-07"),
+            date.fromisoformat("2026-08-15"),
+        )
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["arxiv_id"], "2608.12345")
+        self.assertEqual(items[0]["url"], "http://arxiv.org/abs/2608.12345v2")
+        self.assertEqual(items[0]["source_url"], "https://kurate.org/paper/paper-1")
+        self.assertEqual(items[0]["metadata"]["evidence_role"], "discovery_signal")
+        self.assertTrue(items[0]["metadata"]["assessment_is_not_peer_review"])
+        self.assertEqual(items[0]["topics"], ["harness"])
 
     def test_reclassify_quarantines_future_item(self):
         future = item(published_at="2099-01-01")

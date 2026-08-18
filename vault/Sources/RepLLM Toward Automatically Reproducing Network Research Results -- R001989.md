@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`QJ5KEI7T`)
 - 발행일: 2026-08-11
 - 저자: Yining Jiang, Yunxin Xu, Wei Xu, Yufan Zhu, X. Shirley Liu, Tangtang He, Haiying Huang, Letian Zhu, Qingyu Song, Qiang Su, Lizhao You, Lu Tang, Wanjian Feng, Yuchao Zhang, Linghe Kong, Qiao Xiang, Jiwu Shu
 - 식별자: `doi:10.1145/3789240.3829170`

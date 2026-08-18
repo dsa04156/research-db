@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `web:Bullet`
 - 검토 상태: `pending`
+- Zotero: created (`MKPMR66N`)
 - 발행일: 2026-08-13
 - 저자: Bullet
 - 식별자: `url:c9969cc9f5e6e12c10fa264e72a7d8a6fa90c9f90f736f7d06fe0e2e31e9b1f9`

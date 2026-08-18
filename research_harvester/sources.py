@@ -413,6 +413,168 @@ def collect_github_releases(
     return results
 
 
+def _kurate_date_range(days: int) -> str:
+    if days <= 7:
+        return "7d"
+    if days <= 30:
+        return "30d"
+    return "all"
+
+
+def _kurate_priority(row: dict[str, Any]) -> float:
+    ratings = row.get("ratings") or {}
+    weights = {
+        "score": 4.0,
+        "novelty": 1.5,
+        "rigor": 1.0,
+        "evidence_strength": 1.0,
+        "translational_potential": 1.0,
+        "reproducibility": 0.5,
+    }
+    total = 0.0
+    for key, weight in weights.items():
+        value = ratings.get(key)
+        if isinstance(value, (int, float)):
+            total += float(value) * weight
+    return total
+
+
+def _kurate_assessment(paper: dict[str, Any]) -> tuple[dict[str, Any], dict[str, str]]:
+    models = paper.get("ai_ratings_by_model") or {}
+    assessment = models.get("claude") or next(
+        (value for value in models.values() if isinstance(value, dict)),
+        {},
+    )
+    metrics: dict[str, Any] = {}
+    reasons: dict[str, str] = {}
+    selected = {
+        "score",
+        "significance",
+        "rigor",
+        "novelty",
+        "reproducibility",
+        "translational_potential",
+        "evidence_strength",
+    }
+    for key in selected:
+        value = assessment.get(key)
+        if isinstance(value, (int, float)):
+            metrics[key] = value
+        reason = normalize_space(assessment.get(f"{key}_reason"))
+        if reason:
+            reasons[key] = reason
+    return metrics, reasons
+
+
+def collect_kurate(
+    kurate: dict[str, Any],
+    config: dict[str, Any],
+    since: date,
+    until: date | None = None,
+) -> list[dict[str, Any]]:
+    """Collect interest-matched Kurate rankings as sightings of primary papers."""
+    base_url = kurate.get("api_base_url", "https://kurate.org").rstrip("/")
+    upper_bound = until or date.today() + timedelta(days=1)
+    days = max(1, (upper_bound - since).days)
+    limit = int(kurate.get("max_results_per_query", 8))
+    max_details = int(kurate.get("max_detail_fetches", 20))
+    categories = ",".join(kurate.get("categories") or [])
+
+    candidates: dict[str, dict[str, Any]] = {}
+    for query in kurate.get("queries", []):
+        params = {
+            "dataset": "live",
+            "limit": limit,
+            "offset": 0,
+            "sort_key": kurate.get("sort_key", "score"),
+            "sort_dir": "desc",
+            "include_categories": "false",
+            "include_histograms": "false",
+            "date_range": _kurate_date_range(days),
+            "search": query["query"],
+        }
+        if categories:
+            params["cats"] = categories
+        payload = _json_request(f"{base_url}/api/papers-list?{urlencode(params)}", config)
+        for row in payload.get("rows", []):
+            paper_id = normalize_space(row.get("paper_id"))
+            if not paper_id:
+                continue
+            published = row.get("published")
+            published_day = published[:10] if published else None
+            if not _within_window(published_day, since, upper_bound):
+                continue
+            stored = candidates.setdefault(
+                paper_id,
+                {"row": row, "topic_hints": set(), "queries": set()},
+            )
+            stored["topic_hints"].update(query.get("topic_hints", []))
+            stored["queries"].add(query["query"])
+            if _kurate_priority(row) > _kurate_priority(stored["row"]):
+                stored["row"] = row
+
+    ranked = sorted(
+        candidates.items(),
+        key=lambda entry: _kurate_priority(entry[1]["row"]),
+        reverse=True,
+    )[:max_details]
+    results: list[dict[str, Any]] = []
+    for paper_id, candidate in ranked:
+        row = candidate["row"]
+        try:
+            detail = _json_request(f"{base_url}/api/papers/{quote(paper_id)}", config)
+            paper = detail.get("paper") or row
+        except Exception:
+            # A detail-page failure should not discard an otherwise valid ranking sighting.
+            paper = row
+        published = paper.get("published") or row.get("published")
+        published_day = published[:10] if published else None
+        if not _within_window(published_day, since, upper_bound):
+            continue
+        raw_arxiv_id = paper.get("arxiv_id_base") or paper.get("arxiv_id") or row.get("arxiv_id")
+        arxiv_id = normalize_arxiv_id(raw_arxiv_id)
+        primary_url = paper.get("link") or (
+            f"https://arxiv.org/abs/{arxiv_id}" if arxiv_id else None
+        )
+        ratings, rating_reasons = _kurate_assessment(paper)
+        if not ratings:
+            ratings = {
+                key: value
+                for key, value in (row.get("ratings") or {}).items()
+                if isinstance(value, (int, float))
+            }
+        categories_for_paper = paper.get("categories") or row.get("categories") or []
+        results.append(
+            {
+                "source": "kurate",
+                "source_id": paper_id,
+                "arxiv_id": arxiv_id,
+                "title": normalize_space(paper.get("title") or row.get("title")),
+                "url": primary_url or f"{base_url}/paper/{paper_id}",
+                "source_url": f"{base_url}/paper/{paper_id}",
+                "abstract": normalize_space(paper.get("abstract")),
+                "authors": paper.get("authors") or row.get("authors") or [],
+                "published_at": published,
+                "updated_at": paper.get("ratings_updated_at") or paper.get("added_at") or published,
+                "subjects": categories_for_paper,
+                "container_title": "arXiv via Kurate",
+                "metadata": {
+                    "source_type": "paper",
+                    "quality_tier": "A" if arxiv_id else "C",
+                    "discovery_service": "Kurate",
+                    "evidence_role": "discovery_signal",
+                    "kurate_url": f"{base_url}/paper/{paper_id}",
+                    "kurate_metrics": ratings,
+                    "kurate_rating_reasons": rating_reasons,
+                    "kurate_queries": sorted(candidate["queries"]),
+                    "assessment_is_not_peer_review": True,
+                },
+                "topics": sorted(candidate["topic_hints"]),
+            }
+        )
+    return results
+
+
 def collect_all(
     config: dict[str, Any],
     days: int,
@@ -466,6 +628,19 @@ def collect_all(
                 {
                     "source": "github-release",
                     "target": repository["repo"],
+                    "error": f"{type(exc).__name__}: {exc}",
+                }
+            )
+
+    kurate = config.get("kurate") or {}
+    if kurate.get("enabled", False):
+        try:
+            results.extend(collect_kurate(kurate, config, since, until))
+        except Exception as exc:
+            errors.append(
+                {
+                    "source": "kurate",
+                    "target": "interest-ranked-papers",
                     "error": f"{type(exc).__name__}: {exc}",
                 }
             )

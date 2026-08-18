@@ -1,7 +1,7 @@
 ---
 type: research-graph-index
 generated_by: codex-research-db
-source_count: 1938
+source_count: 2010
 topic_count: 5
 ---
 
@@ -11,19 +11,21 @@ SQLite 연구 DB를 Obsidian 그래프로 탐색하기 위한 시작점입니다
 
 ## 관심 주제
 
-- [[vault/Topics/Self-evolving harness|Self-evolving harness]] — 265개
-- [[vault/Topics/AI agents|AI agents]] — 780개
-- [[vault/Topics/Kubernetes|Kubernetes]] — 512개
-- [[vault/Topics/Cloud infrastructure|Cloud infrastructure]] — 414개
-- [[vault/Topics/Edge computing|Edge computing]] — 432개
+- [[vault/Topics/Self-evolving harness|Self-evolving harness]] — 289개
+- [[vault/Topics/AI agents|AI agents]] — 806개
+- [[vault/Topics/Kubernetes|Kubernetes]] — 522개
+- [[vault/Topics/Cloud infrastructure|Cloud infrastructure]] — 432개
+- [[vault/Topics/Edge computing|Edge computing]] — 446개
 
 ## 주간 종합
 
+- [[vault/Synthesis/2026-W34|2026-W34]]
 - [[vault/Synthesis/2026-W33|2026-W33]]
 - [[vault/Synthesis/2026-W32|2026-W32]]
 
 ## 일일 브리핑
 
+- [[vault/Briefings/2026-08-18|2026-08-18]]
 - [[vault/Briefings/2026-08-14|2026-08-14]]
 - [[vault/Briefings/2026-08-13|2026-08-13]]
 - [[vault/Briefings/2026-08-12|2026-08-12]]

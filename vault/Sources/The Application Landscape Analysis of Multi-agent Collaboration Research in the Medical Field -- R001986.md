@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`734HBWTQ`)
 - 발행일: 2026-08-12
 - 저자: Guangneng Zhu, Ren Li, Zining Luo, Xinyu Xu, Hexian Zhang, Jiahui Guan, Shipeng Hu, Sukun Tian, Youwen Yang, Hussein ALMasri, Junwen Wang
 - 식별자: `doi:10.21203/rs.3.rs-10668337/v1`

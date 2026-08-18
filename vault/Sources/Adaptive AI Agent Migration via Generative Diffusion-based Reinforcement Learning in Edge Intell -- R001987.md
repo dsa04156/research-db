@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`2TFIVU9S`)
 - 발행일: 2026-08-12
 - 저자: Jie Gao, Xingdan Wang, Zhiqing Tang, Jiahui Chen, Zhi Yao, Jiong Lou, Jianxiong Guo, Weijia Jia
 - 식별자: `doi:10.26599/tst.2026.9010079`

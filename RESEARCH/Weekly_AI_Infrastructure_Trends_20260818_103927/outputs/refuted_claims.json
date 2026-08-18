@@ -1,0 +1,18 @@
+[
+  {
+    "claim_id": "clm_008",
+    "text": "개발자 프리뷰 단계의 배포물이 하위 호환성과 안정적 업그레이드 경로를 이미 보장한다는 절대 주장은 성립하지 않는다.",
+    "risk": "normal",
+    "claim_type": "compatibility-absolute",
+    "source_ids": [
+      "src_001",
+      "src_002"
+    ],
+    "counter_search": "공식 문서가 compatibility-breaking changes를 명시하므로 하위 호환 보장이라는 주장을 직접 반박한다.",
+    "counter_refuted": true,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "refuted",
+    "status_reason": "counter-search로 반박됨"
+  }
+]

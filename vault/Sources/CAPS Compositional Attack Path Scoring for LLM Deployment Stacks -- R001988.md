@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-14|2026-08-14]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`NR77WUBI`)
 - 발행일: 2026-08-12
 - 저자: Quang-Vinh Dang, Hoang-Viet Vu, Ngoc-Son-An Nguyen, Minh Ngoc Dinh, Dat Le
 - 식별자: `doi:10.47852/bonviewaia620210609`
