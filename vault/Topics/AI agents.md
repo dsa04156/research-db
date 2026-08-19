@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "ai-agents"
 generated_by: codex-research-db
-source_count: 806
+source_count: 836
 ---
 
 # AI agents
 
 Tool-using, long-horizon, multi-agent and autonomous AI systems.
 
-연결된 자료: **806개**
+연결된 자료: **836개**
 
 ## 자료
 
@@ -82,6 +82,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Agentic AI and Hallucinations -- R000603|Agentic AI and Hallucinations]] — 2025-07-25 · `arxiv` · 관련도 5.4
 - [[vault/Sources/REPRO-Bench Can Agentic AI Systems Assess the Reproducibility of Social Science Research -- R000606|REPRO-Bench: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?]] — 2025-07-25 · `arxiv` · 관련도 5.4
 - [[vault/Sources/HADA Human-AI Agent Decision Alignment Architecture -- R000695|HADA: Human-AI Agent Decision Alignment Architecture]] — 2025-06-01 · `arxiv` · 관련도 5.4
+- [[vault/Sources/Four Governance Invariants for Organisational Agent Memory A Specification -- R002088|Four Governance Invariants for Organisational Agent Memory: A Specification]] — 2026-08-16 · `openalex` · 관련도 5.3
 - [[vault/Sources/Findings of the First Teaching Monster Challenge A Benchmark of Pedagogical Content Knowledge in -- R001866|Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents]] — 2026-08-09 · `arxiv` · 관련도 5.3
 - [[vault/Sources/You can build an AI agent's memory layer with only Go's standard library -- R001908|You can build an AI agent's memory layer with only Go's standard library]] — 2026-08-08 · `social:hackernews` · 관련도 5.3
 - [[vault/Sources/Show HN Remembrane – agent memory in one SQLite file, zero dependencies -- R001913|Show HN: Remembrane – agent memory in one SQLite file, zero dependencies]] — 2026-08-07 · `social:hackernews` · 관련도 5.3
@@ -108,6 +109,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/🧠 Most people jump straight to building AI agents. The best AI engineers start one layer below -- R001567|🧠 Most people jump straight to building AI agents. The best AI engineers start one layer below. Think of every production AI system as 3 lay]] — 2026-07-29 · `social:tiktok` · 관련도 5.2
 - [[vault/Sources/LLM-Centric Agentic AI for UAV Swarms Architecture, Enabling Technologies, and Open Problems -- R000096|LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems]] — 2026-07-05 · `arxiv` · 관련도 5.2
 - [[vault/Sources/GoalfyMax A Protocol-Driven Multi-Agent System for Intelligent Experience Entities -- R000671|GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities]] — 2025-07-13 · `arxiv` · 관련도 5.2
+- [[vault/Sources/Physics of Agents Statistical Mechanics Predicts Collective Behavior of AI Agents -- R002091|Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents]] — 2026-08-17 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Multi-Agent AI Safety as an Institutional Design Problem -- R001860|Multi-Agent AI Safety as an Institutional Design Problem]] — 2026-08-10 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Not an A11y How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection -- R001865|Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection]] — 2026-08-09 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Agentic AI-driven Immersive Simulation A Knowledge-Aware Virtual Training Platform forHigh Dose -- R001877|Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform forHigh Dose Rate (HDR) Brachytherapy]] — 2026-08-08 · `arxiv` · 관련도 5.1
@@ -161,6 +163,8 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/AttriMem Attribution-Guided Process Feedback for Agent Memory Learning -- R001116|AttriMem: Attribution-Guided Process Feedback for Agent Memory Learning]] — 2026-07-23 · `arxiv` · 관련도 4.8
 - [[vault/Sources/Self-Aware Recursively Self-Improving Agents for Personal Singularity A Goal-, Scope-, Tool-, an -- R000991|Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture]] — 2026-07-14 · `arxiv` · 관련도 4.8
 - [[vault/Sources/BioKGBench A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science -- R000244|BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science]] — 2024-06-29 · `arxiv` · 관련도 4.8
+- [[vault/Sources/GraniKV Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix -- R002102|GraniKV: Asymmetric Granularity KV-Cache Paging for Multi-Agent Systems with Long Shared Prefix]] — 2026-08-16 · `arxiv` · 관련도 4.6
+- [[vault/Sources/ETHOS Towards a Modular Ethics Framework for Clinical Multi-Agent Systems -- R002104|ETHOS: Towards a Modular Ethics Framework for Clinical Multi-Agent Systems]] — 2026-08-15 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Vero Can AI Agents Build Formally Verified Software Repositories -- R002040|Vero: Can AI Agents Build Formally Verified Software Repositories?]] — 2026-08-13 · `kurate` · 관련도 4.6
 - [[vault/Sources/A multi-agent vision-language debate framework for zero-shot crop disease diagnosis -- R001966|A multi-agent vision-language debate framework for zero-shot crop disease diagnosis]] — 2026-08-11 · `openalex` · 관련도 4.6
 - [[vault/Sources/MoRSE Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts -- R001864|MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts]] — 2026-08-10 · `arxiv` · 관련도 4.6
@@ -226,6 +230,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Remember When It Matters Proactive Memory Agent for Long-Horizon Agents -- R001003|Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents]] — 2026-07-09 · `arxiv` · 관련도 4.5
 - [[vault/Sources/A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing -- R001368|A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing]] — 2026-04-22 · `arxiv` · 관련도 4.5
 - [[vault/Sources/SVAgent AI Agent for Hardware Security Verification Assertion -- R000624|SVAgent: AI Agent for Hardware Security Verification Assertion]] — 2025-07-22 · `arxiv` · 관련도 4.5
+- [[vault/Sources/Agentic AI has a latency problem that more compute won’t solve -- R002121|Agentic AI has a latency problem that more compute won’t solve]] — 2026-08-18 · `rss:The New Stack` · 관련도 4.3
 - [[vault/Sources/SpaceXAI Launches Grok Bot for Autonomous AI Agents -- R002030|SpaceXAI Launches Grok Bot for Autonomous AI Agents]] — 2026-08-17 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents -- R002031|Grab Cuts Mechanical Analytics Work From 44% to 30% with AI Agents]] — 2026-08-17 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/$15,000 Agentic AI Sales vs Agentic AI Marketing techtok claude automatedsystem automation claud -- R002076|$15,000 Agentic AI Sales vs Agentic AI Marketing #techtok #claude #automatedsystem #automation #claudeautomation #systemdesign #system #desi]] — 2026-08-17 · `social:tiktok` · 관련도 4.3
@@ -234,8 +239,10 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Mind Viruses Self-Propagating Ideas in Multi-Agent LLM Systems -- R002048|Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems]] — 2026-08-17 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/What if the model is only half of the AI agent DeepSeek Harness takes a different approach Agent -- R002079|What if the model is only half of the AI agent? DeepSeek Harness takes a different approach: Agent = Model + Harness. An open-source, plug]] — 2026-08-16 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Patterns and problems in emerging multi-agent systems -- R002046|Patterns and problems in emerging multi-agent systems]] — 2026-08-16 · `social:hackernews` · 관련도 4.3
+- [[vault/Sources/Consensusability of Continuous-Time Multi-Agent Systems With Unbounded Heterogeneous Constant De -- R002107|Consensusability of Continuous-Time Multi-Agent Systems With Unbounded Heterogeneous Constant Delays: A Signed Laplacian Perspective]] — 2026-08-15 · `arxiv` · 관련도 4.3
 - [[vault/Sources/DeepSeek just released a new AI harness, and it may change how we think about what actually make -- R002049|DeepSeek just released a new AI harness, and it may change how we think about what actually makes an AI agent good. The model is only half t]] — 2026-08-15 · `social:tiktok` · 관련도 4.3
 - [[vault/Sources/Harness, meta-harness, self-improving harness. The layer everyone is suddenly building for AI ag -- R002056|Harness, meta-harness, self-improving harness. The layer everyone is suddenly building for AI agents. Most people use these three as if the]] — 2026-08-14 · `social:linkedin` · 관련도 4.3
+- [[vault/Sources/Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics langua -- R002089|Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics language]] — 2026-08-13 · `openalex` · 관련도 4.3
 - [[vault/Sources/👉 TERMINOLOGY While Andrew Ng focuses on the term Agentic Workflows, the concept he is referring -- R002062|👉 TERMINOLOGY: While Andrew Ng focuses on the term "Agentic Workflows," the concept he is referring to is actually broader, ie, "AI Agent Ha]] — 2026-08-13 · `social:linkedin` · 관련도 4.3
 - [[vault/Sources/Banyak orang sibuk membangun AI Agent. Tapi yang membuat agent benar-benar bisa bekerja bukan cu -- R001978|Banyak orang sibuk membangun AI Agent. Tapi yang membuat agent benar-benar bisa bekerja bukan cuma modelnya. Ada lapisan penting bernama A]] — 2026-08-13 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Code that passes every test can still break the next AI agent that touches it -- R001974|Code that passes every test can still break the next AI agent that touches it]] — 2026-08-12 · `rss:The New Stack` · 관련도 4.3
@@ -440,7 +447,9 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/microsoft autogen python-v0.7.1 -- R000970|microsoft/autogen python-v0.7.1]] — 2025-07-28 · `github-release` · 관련도 3.6
 - [[vault/Sources/AriGraph Learning Knowledge Graph World Models with Episodic Memory for LLM Agents -- R000295|AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents]] — 2024-07-26 · `openalex` · 관련도 3.6
 - [[vault/Sources/miniCodeProps a Minimal Benchmark for Proving Code Properties -- R000274|miniCodeProps: a Minimal Benchmark for Proving Code Properties]] — 2024-06-16 · `arxiv` · 관련도 3.6
+- [[vault/Sources/Towards Risk-free AI Agent Deployment -- R002093|Towards Risk-free AI Agent Deployment]] — 2026-08-17 · `arxiv` · 관련도 3.5
 - [[vault/Sources/Podcast Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life A Conversation with Tracy -- R002033|Podcast: Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Conversation with Tracy Bannon]] — 2026-08-17 · `rss:InfoQ` · 관련도 3.5
+- [[vault/Sources/Topological collapse of higher-order interactions bottlenecks collective intelligence in AI agen -- R002103|Topological collapse of higher-order interactions bottlenecks collective intelligence in AI agent societies]] — 2026-08-16 · `arxiv` · 관련도 3.5
 - [[vault/Sources/What preferences can - and cannot - predict in multi-agent online learning -- R002041|What preferences can - and cannot - predict in multi-agent online learning]] — 2026-08-13 · `kurate` · 관련도 3.5
 - [[vault/Sources/How a $15,000 Agentic AI Marketing Department Actually Works techtok claude automatedsystem auto -- R002005|How a $15,000 Agentic AI Marketing Department Actually Works#techtok #claude #automatedsystem #automation #claudeautomation #systemdesign #s]] — 2026-08-13 · `social:tiktok` · 관련도 3.5
 - [[vault/Sources/The Application Landscape Analysis of Multi-agent Collaboration Research in the Medical Field -- R001986|The Application Landscape Analysis of Multi-agent Collaboration Research in the Medical Field]] — 2026-08-12 · `openalex` · 관련도 3.5
@@ -494,6 +503,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Design and Implementation of Collaborative Learning Algorithm for Vocational Education Based on -- R000183|Design and Implementation of Collaborative Learning Algorithm for Vocational Education Based on Multi Agent System]] — 2024-07-29 · `crossref` · 관련도 3.5
 - [[vault/Sources/On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models -- R000268|On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models]] — 2024-06-18 · `arxiv` · 관련도 3.5
 - [[vault/Sources/MASAI Modular Architecture for Software-engineering AI Agents -- R000272|MASAI: Modular Architecture for Software-engineering AI Agents]] — 2024-06-17 · `arxiv` · 관련도 3.5
+- [[vault/Sources/Cross-Domain Explainable AI for Customer Recommendations, Fraud Detection, and Network Intellige -- R002111|Cross-Domain Explainable AI for Customer Recommendations, Fraud Detection, and Network Intelligence]] — 2026-08-17 · `openalex` · 관련도 3.4
 - [[vault/Sources/STAIR Effective Incident Response Using an End-to-End Agentic Planning Framework -- R001863|STAIR: Effective Incident Response Using an End-to-End Agentic Planning Framework]] — 2026-08-10 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Business Arena Benchmarking LLM Agents in a Realistic Marketplace -- R001868|Business Arena: Benchmarking LLM Agents in a Realistic Marketplace]] — 2026-08-09 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints -- R001772|Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints]] — 2026-08-06 · `arxiv` · 관련도 3.4
@@ -519,6 +529,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Memorandum on Technical Exchange for AI Large-Scale Model Research Units -- R000043|Memorandum on Technical Exchange for AI Large-Scale Model Research Units]] — 2026-07-28 · `openalex` · 관련도 3.2
 - [[vault/Sources/NVIDIA-labs OO Agents Native Python Object-Oriented Agents -- R001047|NVIDIA-labs OO Agents: Native Python Object-Oriented Agents]] — 2026-07-22 · `openalex` · 관련도 3.2
 - [[vault/Sources/HACO Hedged Agent Computing for Reliable LLM Systems -- R001051|HACO: Hedged Agent Computing for Reliable LLM Systems]] — 2026-07-21 · `openalex` · 관련도 3.2
+- [[vault/Sources/The Authority Resolution Framework A Five-Domain Ontology for Governing Who and What Decides, at -- R002101|The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale]] — 2026-08-16 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Towards Trustworthy and Cost-Efficient Data Integration From Naïve RAG to Agentic RAG -- R001099|Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG]] — 2026-07-24 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Commitment To Cooperation With Self-Negotiated Contracts -- R001115|Commitment To Cooperation With Self-Negotiated Contracts]] — 2026-07-23 · `arxiv` · 관련도 3.1
 - [[vault/Sources/kagent-dev kagent v0.10.0-beta10 -- R000135|kagent-dev/kagent v0.10.0-beta10]] — 2026-07-22 · `github-release` · 관련도 3.1
@@ -529,6 +540,9 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Towards a Science Exocortex -- R000256|Towards a Science Exocortex]] — 2024-06-24 · `arxiv` · 관련도 3.1
 - [[vault/Sources/The Cost of Knowing A Resource-Aware Protocol for Benchmarking Hallucination Beyond Static Leade -- R001081|The Cost of Knowing: A Resource-Aware Protocol for Benchmarking Hallucination Beyond Static Leaderboards]] — 2026-07-27 · `arxiv` · 관련도 3.0
 - [[vault/Sources/Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2 -- R001472|Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2]] — 2026-06-02 · `rss:NVIDIA Technical Blog` · 관련도 3.0
+- [[vault/Sources/D2-ScaleAgent Dual-Dimensional Scaling for Long Document Understanding -- R002092|D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding]] — 2026-08-17 · `arxiv` · 관련도 2.9
+- [[vault/Sources/What Does Context Compression Cost an Agent Interaction Costs Unrevealed by Task-Completion Metr -- R002094|What Does Context Compression Cost an Agent? Interaction Costs Unrevealed by Task-Completion Metrics]] — 2026-08-17 · `arxiv` · 관련도 2.9
+- [[vault/Sources/FreeToken Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution -- R002099|FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution]] — 2026-08-17 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Exo Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley Google Research -- R002050|Exo: Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley / Google Research]] — 2026-08-15 · `social:youtube` · 관련도 2.9
 - [[vault/Sources/Agent Skills Can Be Harmful An Empirical Study of Skill-Induced Failures in LLM Agents -- R002010|Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents]] — 2026-08-12 · `openalex` · 관련도 2.9
 - [[vault/Sources/TRACE TRajectory Attribution for Automated Context Engineering -- R001850|TRACE: TRajectory Attribution for Automated Context Engineering]] — 2026-08-10 · `arxiv` · 관련도 2.9
@@ -563,6 +577,10 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/microsoft autogen python-v0.6.4 -- R000971|microsoft/autogen python-v0.6.4]] — 2025-07-09 · `github-release` · 관련도 2.8
 - [[vault/Sources/microsoft autogen python-v0.6.0 -- R000974|microsoft/autogen python-v0.6.0]] — 2025-06-05 · `github-release` · 관련도 2.8
 - [[vault/Sources/microsoft autogen python-v0.5.7 -- R000975|microsoft/autogen python-v0.5.7]] — 2025-05-14 · `github-release` · 관련도 2.8
+- [[vault/Sources/CompoSkill Compositional Skill Chain Attacks from Individually Scanner-Passing LLM Agent Skills -- R002097|CompoSkill: Compositional Skill Chain Attacks from Individually Scanner-Passing LLM Agent Skills]] — 2026-08-17 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Agent-Native Telemetry Verifiable State-Delta Evidence for Autonomous Operations -- R002098|Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations]] — 2026-08-17 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Deploying Frontier Agentic Technology in MOOSEnger, a Multiphysics-Capable AI Assistant -- R002100|Deploying Frontier Agentic Technology in MOOSEnger, a Multiphysics-Capable AI Assistant]] — 2026-08-16 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Handoff-H1 An Orchestrated Vision-Agent System for Material Quantity Takeoff from Construction B -- R002108|Handoff-H1: An Orchestrated Vision-Agent System for Material Quantity Takeoff from Construction Blueprints]] — 2026-08-15 · `arxiv` · 관련도 2.6
 - [[vault/Sources/CAPS Compositional Attack Path Scoring for LLM Deployment Stacks -- R001988|CAPS: Compositional Attack Path Scoring for LLM Deployment Stacks]] — 2026-08-12 · `openalex` · 관련도 2.6
 - [[vault/Sources/From Product Search to Preference Articulation The Economics of Agentic Commerce -- R001872|From Product Search to Preference Articulation: The Economics of Agentic Commerce]] — 2026-08-09 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents -- R001828|Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents]] — 2026-08-07 · `rss:InfoQ` · 관련도 2.6
@@ -604,10 +622,14 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Octo-planner On-device Language Model for Planner-Action Agents -- R000254|Octo-planner: On-device Language Model for Planner-Action Agents]] — 2024-06-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/STEVE Series Step-by-Step Construction of Agent Systems in Minecraft -- R000273|STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft]] — 2024-06-17 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AgileCoder Dynamic Collaborative Agents for Software Development based on Agile Methodology -- R000275|AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology]] — 2024-06-16 · `arxiv` · 관련도 2.6
+- [[vault/Sources/kagent-dev kagent v0.10.0-rc3 -- R002123|kagent-dev/kagent v0.10.0-rc3]] — 2026-08-18 · `github-release` · 관련도 2.5
+- [[vault/Sources/K7d Fork live Kubernetes clusters in about 100 ms -- R002126|K7d: Fork live Kubernetes clusters in about 100 ms]] — 2026-08-18 · `web:Katakate` · 관련도 2.5
+- [[vault/Sources/fx Tiny, open, embeddable, native coding agent -- R002125|fx: Tiny, open, embeddable, native coding agent]] — 2026-08-18 · `web:Vercel Labs` · 관련도 2.5
 - [[vault/Sources/How canvases make agentic workflows visible, steerable, and cost-efficient -- R002028|How canvases make agentic workflows visible, steerable, and cost-efficient]] — 2026-08-17 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.21.1 -- R002034|openai/openai-agents-python v0.21.1]] — 2026-08-16 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.21.0 -- R002035|openai/openai-agents-python v0.21.0]] — 2026-08-15 · `github-release` · 관련도 2.5
 - [[vault/Sources/How to bring your software delivery workflow into GitHub with agent apps -- R002029|How to bring your software delivery workflow into GitHub with agent apps]] — 2026-08-14 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/A Programming Paradigm for Spatiotemporal Composability -- R002127|A Programming Paradigm for Spatiotemporal Composability]] — 2026-08-13 · `web:Cordiverse` · 관련도 2.5
 - [[vault/Sources/Bullet Fast, by design -- R002009|Bullet: Fast, by design]] — 2026-08-13 · `web:Bullet` · 관련도 2.5
 - [[vault/Sources/DeepSeek Harness Everything is a Plugin -- R002007|DeepSeek Harness: Everything is a Plugin]] — 2026-08-13 · `web:DeepSeek` · 관련도 2.5
 - [[vault/Sources/Write your first prompt with the GitHub Copilot app -- R001972|Write your first prompt with the GitHub Copilot app]] — 2026-08-12 · `rss:GitHub AI and ML` · 관련도 2.5
@@ -669,8 +691,16 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/microsoft autogen python-v0.7.4 -- R001513|microsoft/autogen python-v0.7.4]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.7.3 -- R001514|microsoft/autogen python-v0.7.3]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.6.1 -- R000973|microsoft/autogen python-v0.6.1]] — 2025-06-05 · `github-release` · 관련도 2.5
+- [[vault/Sources/Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers -- R002122|Cloudflare WriteGuard Brings Fine-Grained Security Controls for MCP Servers]] — 2026-08-18 · `rss:InfoQ` · 관련도 2.3
+- [[vault/Sources/17,600 Actions Agent Security Is a Systems Problem -- R002120|17,600 Actions: Agent Security Is a Systems Problem]] — 2026-08-18 · `rss:Docker Blog` · 관련도 2.3
+- [[vault/Sources/Characterizing Agentic Flooding of Government Services -- R002090|Characterizing Agentic Flooding of Government Services]] — 2026-08-17 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Article Agentic Fitness Functions Extending Evolutionary Architecture Beyond Deterministic Rules -- R002032|Article: Agentic Fitness Functions: Extending Evolutionary Architecture Beyond Deterministic Rules]] — 2026-08-17 · `rss:InfoQ` · 관련도 2.3
+- [[vault/Sources/MELD A Protocol for Merging Knowledge Across Distributed Agentic Memories -- R002095|MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories]] — 2026-08-17 · `arxiv` · 관련도 2.3
+- [[vault/Sources/Comparing the Quality of Code Generated by Vibe Coding Tools -- R002096|Comparing the Quality of Code Generated by Vibe Coding Tools]] — 2026-08-17 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Trendy 1 — Harness Engineering The Code Around the Model -- R002047|Trendy #1 — Harness Engineering: The Code Around the Model]] — 2026-08-17 · `social:youtube` · 관련도 2.3
+- [[vault/Sources/Afterlife Delegation Protocol Speculative Design of Self-Sovereign Agents that Outlive Their Pri -- R002105|Afterlife Delegation Protocol: Speculative Design of Self-Sovereign Agents that Outlive Their Principals]] — 2026-08-15 · `arxiv` · 관련도 2.3
+- [[vault/Sources/Agent Inheritance Protocol Speculating on Feralized Agents After Principals Die -- R002106|Agent Inheritance Protocol: Speculating on Feralized Agents After Principals Die]] — 2026-08-15 · `arxiv` · 관련도 2.3
+- [[vault/Sources/SysEvolve An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system -- R002109|SysEvolve: An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system]] — 2026-08-15 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Мультиагентный интеллектуальный мониторинг и управление водоотведением с оперативным анализом оп -- R001967|Мультиагентный интеллектуальный мониторинг и управление водоотведением с оперативным анализом оптических характеристик водных растворов]] — 2026-08-14 · `crossref` · 관련도 2.3
 - [[vault/Sources/Vercel Launches v0 API for Headless App Building -- R001998|Vercel Launches v0 API for Headless App Building]] — 2026-08-13 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Runnin -- R001952|NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents]] — 2026-08-11 · `rss:NVIDIA Technical Blog` · 관련도 2.3

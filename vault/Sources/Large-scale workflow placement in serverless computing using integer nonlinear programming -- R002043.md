@@ -13,6 +13,7 @@ aliases:
   - "Large-scale workflow placement in serverless computing using integer nonlinear programming"
 topics:
   - "cloud-infrastructure"
+  - "edge-computing"
 ---
 
 # Large-scale workflow placement in serverless computing using integer nonlinear programming
@@ -21,7 +22,7 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/Cloud infrastructure]]
+- 주제: [[vault/Topics/Cloud infrastructure]], [[vault/Topics/Edge computing]]
 - 최초 수집: [[vault/Daily/2026-08-18|2026-08-18]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`

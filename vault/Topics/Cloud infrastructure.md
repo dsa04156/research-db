@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 432
+source_count: 436
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **432개**
+연결된 자료: **436개**
 
 ## 자료
 
@@ -193,6 +193,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Agyn An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition a -- R001160|Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access]] — 2026-05-26 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods -- R001214|A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods]] — 2026-01-20 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 3.6
+- [[vault/Sources/K7d Fork live Kubernetes clusters in about 100 ms -- R002126|K7d: Fork live Kubernetes clusters in about 100 ms]] — 2026-08-18 · `web:Katakate` · 관련도 3.5
 - [[vault/Sources/How canvases make agentic workflows visible, steerable, and cost-efficient -- R002028|How canvases make agentic workflows visible, steerable, and cost-efficient]] — 2026-08-17 · `rss:GitHub AI and ML` · 관련도 3.5
 - [[vault/Sources/How to bring your software delivery workflow into GitHub with agent apps -- R002029|How to bring your software delivery workflow into GitHub with agent apps]] — 2026-08-14 · `rss:GitHub AI and ML` · 관련도 3.5
 - [[vault/Sources/Eleven minutes, zero humans Building a self-healing Kubernetes upgrade pipeline on Kairos -- R002027|Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos]] — 2026-08-14 · `rss:CNCF Blog` · 관련도 3.5
@@ -268,6 +269,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Systematic Review of Decentralized and Collaborative Computing Models in Cloud Architectures for -- R000400|Systematic Review of Decentralized and Collaborative Computing Models in Cloud Architectures for Distributed Edge Computing]] — 2024-07-29 · `openalex` · 관련도 3.4
 - [[vault/Sources/How Clustering Affects the Convergence of Decentralized Optimization over Networks A Monte-Carlo -- R000378|How Clustering Affects the Convergence of Decentralized Optimization over Networks: A Monte-Carlo-based Approach]] — 2024-07-01 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Utilizing Python for Scalable Data Processing in Cloud Environments -- R000422|Utilizing Python for Scalable Data Processing in Cloud Environments]] — 2024-06-30 · `openalex` · 관련도 3.4
+- [[vault/Sources/fx Tiny, open, embeddable, native coding agent -- R002125|fx: Tiny, open, embeddable, native coding agent]] — 2026-08-18 · `web:Vercel Labs` · 관련도 3.3
 - [[vault/Sources/A practical guide to solving when zero+zero=two in mesh observability -- R001951|A practical guide to solving when zero+zero=two in mesh observability]] — 2026-08-11 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/My Agent Setup -- R001983|My Agent Setup]] — 2026-08-11 · `web:Chad McElligott` · 관련도 3.3
 - [[vault/Sources/h3-metal Native MiniMax-H3 inference for Apple Silicon -- R001963|h3-metal: Native MiniMax-H3 inference for Apple Silicon]] — 2026-08-09 · `web:GitHub` · 관련도 3.3
@@ -338,6 +340,8 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260819.1 -- R002124|cloudflare/workerd v1.20260819.1]] — 2026-08-19 · `github-release` · 관련도 2.5
+- [[vault/Sources/Cloud Native platform sovereignty through multi-plane architecture -- R002119|Cloud Native platform sovereignty through multi-plane architecture]] — 2026-08-18 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260818.1 -- R002036|cloudflare/workerd v1.20260818.1]] — 2026-08-18 · `github-release` · 관련도 2.5
 - [[vault/Sources/Welcome Falkey the Falco and Ky the Kyverno Pyrenees -- R002025|Welcome Falkey the Falco and Ky the Kyverno Pyrenees]] — 2026-08-17 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260817.1 -- R002037|cloudflare/workerd v1.20260817.1]] — 2026-08-17 · `github-release` · 관련도 2.5
