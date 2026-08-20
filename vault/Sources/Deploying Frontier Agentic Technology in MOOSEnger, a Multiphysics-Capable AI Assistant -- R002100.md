@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`IUZU8QNG`)
 - 발행일: 2026-08-16T18:07:08Z
 - 저자: Zaid Abulawi, Mengnan Li, Guillaume Giudicelli, Yang Liu, Cody Permann
 - 식별자: `arxiv:2608.15881`

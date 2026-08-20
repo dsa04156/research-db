@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`TPMQDICF`)
 - 발행일: 2026-08-17T08:20:44Z
 - 저자: Mingxiao Liu, Zhoumian Jiang, Jianan Ma, Jian Zhang, Jialuo Chen, Xinhao Deng, Zhen Wang
 - 식별자: `arxiv:2608.16246`

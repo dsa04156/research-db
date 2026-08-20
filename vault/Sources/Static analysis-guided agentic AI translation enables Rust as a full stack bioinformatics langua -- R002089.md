@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`AC6BDVWM`)
 - 발행일: 2026-08-13
 - 저자: Johan Henriksson
 - 식별자: `doi:10.48550/arxiv.2608.13029`

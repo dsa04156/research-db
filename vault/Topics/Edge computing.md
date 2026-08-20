@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 454
+source_count: 456
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **454개**
+연결된 자료: **456개**
 
 ## 자료
 
@@ -182,6 +182,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Gradient-Congruity Guided Federated Sparse Training -- R000497|Gradient-Congruity Guided Federated Sparse Training]] — 2024-05-02 · `arxiv` · 관련도 3.6
 - [[vault/Sources/AdaptSFL Adaptive Split Federated Learning in Resource-constrained Edge Networks -- R000532|AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks]] — 2024-03-19 · `arxiv` · 관련도 3.6
 - [[vault/Sources/Intelligent Resource Orchestration for 5G Edge Infrastructures -- R000357|Intelligent Resource Orchestration for 5G Edge Infrastructures]] — 2024-03-19 · `openalex` · 관련도 3.6
+- [[vault/Sources/Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control -- R002134|Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control]] — 2026-08-19 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing -- R001991|Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing]] — 2026-08-15 · `crossref` · 관련도 3.5
 - [[vault/Sources/Diffusion Language Models for Mobile Edge Agentic AI Foundations, Applications, and Challenges -- R001993|Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges]] — 2026-08-11 · `openalex` · 관련도 3.5
 - [[vault/Sources/Edge AI in Agriculture A Multi-modal Approach Analysis for Scalable and Transparent Plant Diseas -- R001129|Edge AI in Agriculture: A Multi-modal Approach Analysis for Scalable and Transparent Plant Disease Detection]] — 2026-07-30 · `crossref` · 관련도 3.5
@@ -314,6 +315,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260820.1 -- R002150|cloudflare/workerd v1.20260820.1]] — 2026-08-20 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260819.1 -- R002124|cloudflare/workerd v1.20260819.1]] — 2026-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260818.1 -- R002036|cloudflare/workerd v1.20260818.1]] — 2026-08-18 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260817.1 -- R002037|cloudflare/workerd v1.20260817.1]] — 2026-08-17 · `github-release` · 관련도 2.5

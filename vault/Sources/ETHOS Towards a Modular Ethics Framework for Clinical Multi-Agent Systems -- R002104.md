@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KAF6D879`)
 - 발행일: 2026-08-15T21:56:23Z
 - 저자: Rakesh Sharma, Sydney Pugh, Cameron Beeche, Pankhuri Singhal, Rachel Wu, Margaret Eby, Jeffrey Duda, James Gee, Kyra O'Brien, Hersh Sagreiya, Marina Serper, Victoria Gershuni, Angela Bradbury, Anurag Verma, Eric Eaton, Kevin B. Johnson, Walter Witschey
 - 식별자: `arxiv:2608.15424`

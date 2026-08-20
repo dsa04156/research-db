@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `rss:Docker Blog`
 - 검토 상태: `pending`
+- Zotero: created (`8AP5G5XC`)
 - 발행일: 2026-08-18T16:00:00+00:00
 - 식별자: `url:89c4c3fc4612db22bfe21e761d4c9d80acaf23433f11d3df07fcd3928ce61fe7`
 

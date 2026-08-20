@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`XTJM329W`)
 - 발행일: 2026-08-17T10:09:06Z
 - 저자: Lauri Lovén, Jaakko Sauvola, Jukka Riekki, Sasu Tarkoma
 - 식별자: `arxiv:2608.16357`

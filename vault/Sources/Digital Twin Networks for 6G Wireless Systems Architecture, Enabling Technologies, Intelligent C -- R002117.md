@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`8AJKC8Q8`)
 - 발행일: 2026-08-12T17:07:42Z
 - 저자: Charalampos Oikonomidis, Emmanouel T. Michailidis, Nikolaos I. Miridakis
 - 식별자: `arxiv:2608.12267`

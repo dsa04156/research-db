@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KIRA6IDN`)
 - 발행일: 2026-08-15T09:11:37Z
 - 저자: Yue Song, Mengqi Xue, Jiazuo Hou, Yuxi Lu, Qi Liu
 - 식별자: `arxiv:2608.15133`

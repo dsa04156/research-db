@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`45IAGAZS`)
 - 발행일: 2026-08-16
 - 저자: Alexander Bering
 - 식별자: `doi:10.5281/zenodo.21964563`

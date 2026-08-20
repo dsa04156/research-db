@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`NT2NGDJI`)
 - 발행일: 2026-08-17T10:21:36Z
 - 저자: Shuyu Liu
 - 식별자: `arxiv:2608.16370`

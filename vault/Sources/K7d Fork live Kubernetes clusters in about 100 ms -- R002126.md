@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `web:Katakate`
 - 검토 상태: `pending`
+- Zotero: created (`HNJ96HB4`)
 - 발행일: 2026-08-18
 - 저자: Katakate
 - 식별자: `url:2d7c3c88b528d67daf9beb77425cffc7c8497a27a883559ad9bbb995b3045e3f`

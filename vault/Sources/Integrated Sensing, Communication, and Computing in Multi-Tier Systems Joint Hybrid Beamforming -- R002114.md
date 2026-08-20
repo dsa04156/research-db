@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`UQAZPE6F`)
 - 발행일: 2026-08-14T08:48:37Z
 - 저자: Peng Liu, Zesong Fei, Xinyi Wang, Qiao Qi, Zhaohui Yang, Meng Hua, Arumugam Nallanathan
 - 식별자: `arxiv:2608.14086`

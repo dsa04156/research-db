@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`R5N9386H`)
 - 발행일: 2026-08-13T16:12:52Z
 - 저자: Aimilios Hadjiliasi, Louis Nisiotis
 - 식별자: `arxiv:2608.13420`

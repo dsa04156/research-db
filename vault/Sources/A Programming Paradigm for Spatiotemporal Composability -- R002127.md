@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `web:Cordiverse`
 - 검토 상태: `pending`
+- Zotero: created (`AUSFK9K6`)
 - 발행일: 2026-08-13
 - 저자: Cordiverse
 - 식별자: `url:0d554e69cad10efd4a02e537ba0cb170d54629b027a4664427428a2f784840f0`

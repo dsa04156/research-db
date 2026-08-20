@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`NN46GACX`)
 - 발행일: 2026-08-17
 - 저자: Nivedan Suresh Abhignan Srivatsava Sribhashyam, Supraja Ayyamgari Chaitanya Tumma
 - 식별자: `doi:10.48175/ijarsct-38057`

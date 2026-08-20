@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `web:Vercel Labs`
 - 검토 상태: `pending`
+- Zotero: created (`QJA8JBZ6`)
 - 발행일: 2026-08-18
 - 저자: Vercel Labs
 - 식별자: `url:f8913615a57500c0766621b4fbb85bd1cb8b111a7ee4e8792e883b6255180143`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`G78MPA2C`)
 - 발행일: 2026-08-16T16:05:50Z
 - 저자: Parviz Shariff
 - 식별자: `arxiv:2608.15832`

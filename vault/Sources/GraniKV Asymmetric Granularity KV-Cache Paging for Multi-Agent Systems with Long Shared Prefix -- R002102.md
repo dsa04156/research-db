@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DSUPG2PS`)
 - 발행일: 2026-08-16T07:19:49Z
 - 저자: Jinhyun Jeon, Sungjoo Yoo
 - 식별자: `arxiv:2608.15584`

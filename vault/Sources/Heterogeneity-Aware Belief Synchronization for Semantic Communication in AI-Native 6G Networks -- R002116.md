@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`4KIRXI25`)
 - 발행일: 2026-08-13T15:53:15Z
 - 저자: Muhammad Hannan Akram, Muhammad Abubakar Rashid, Wassi Haider Kabir, Haejoon Jung, Kapal Dev, Syed Ali Hassan
 - 식별자: `arxiv:2608.13394`

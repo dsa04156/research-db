@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 296
+source_count: 301
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **296개**
+연결된 자료: **301개**
 
 ## 자료
 
@@ -22,6 +22,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/We’ve open-sourced HarnessRouter in Silicon Valley the world’s first unified interface for agent -- R002054|We’ve open-sourced HarnessRouter in Silicon Valley: the world’s first unified interface for agent harnesses. With one API, developers can br]] — 2026-08-16 · `social:tiktok` · 관련도 5.1
 - [[vault/Sources/DeepSeek open sources an agent harness where everything is a plugin -- R001997|DeepSeek open sources an agent harness where everything is a plugin]] — 2026-08-13 · `rss:The New Stack` · 관련도 5.1
 - [[vault/Sources/Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents -- R000012|Self-Authored Verification Is Unreliable in Heuristic Self-Improving Agents]] — 2026-07-27 · `arxiv` · 관련도 4.9
+- [[vault/Sources/On the Fragility of Self-Improving Agents Variance, Task Order, and Underspecification -- R002152|On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification]] — 2026-08-18 · `kurate` · 관련도 4.6
 - [[vault/Sources/Evo-Bench Can Language Models Improve Agent Harness (Aug 2026) -- R002052|Evo-Bench: Can Language Models Improve Agent Harness? (Aug 2026)]] — 2026-08-16 · `social:youtube` · 관련도 4.6
 - [[vault/Sources/一個月前,我開始從頭打造新產品的 agent framework,其中 memory 是一個很重要的 agent 能力,因為 LLM VLM 要突破 context window 的侷限,就得 -- R002078|一個月前，我開始從頭打造新產品的 agent framework，其中 memory 是一個很重要的 agent 能力，因為 LLM/VLM 要突破 context window 的侷限，就得靠 memory harness engineering。 ​ 然後我就上頭了。。。 ​]] — 2026-08-15 · `social:threads` · 관련도 4.6
 - [[vault/Sources/MedClaw Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning -- R002086|MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning]] — 2026-08-14 · `arxiv` · 관련도 4.6
@@ -38,6 +39,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/HarnessRisk A Lifecycle-Oriented Benchmark for Agent Harness Safety -- R002153|HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety]] — 2026-08-18 · `kurate` · 관련도 4.3
 - [[vault/Sources/ClawGym II Exploring Black-Box RL on Agent Harness -- R002083|ClawGym II: Exploring Black-Box RL on Agent Harness]] — 2026-08-17 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Trendy 1 — Harness Engineering The Code Around the Model -- R002047|Trendy #1 — Harness Engineering: The Code Around the Model]] — 2026-08-17 · `social:youtube` · 관련도 4.3
 - [[vault/Sources/Show HN HarnessRouter Unified interface for agent harnesses -- R002045|Show HN: HarnessRouter: Unified interface for agent harnesses]] — 2026-08-17 · `social:hackernews` · 관련도 4.3
@@ -165,6 +167,9 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/langchain-ai langgraph langgraph-sdk==0.4.3 -- R002149|langchain-ai/langgraph langgraph-sdk==0.4.3]] — 2026-08-19 · `github-release` · 관련도 2.5
+- [[vault/Sources/GitHub Copilot app for Beginners Managing your work -- R002136|GitHub Copilot app for Beginners: Managing your work]] — 2026-08-19 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/openai openai-agents-python v0.22.0 -- R002148|openai/openai-agents-python v0.22.0]] — 2026-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/fx Tiny, open, embeddable, native coding agent -- R002125|fx: Tiny, open, embeddable, native coding agent]] — 2026-08-18 · `web:Vercel Labs` · 관련도 2.5
 - [[vault/Sources/How canvases make agentic workflows visible, steerable, and cost-efficient -- R002028|How canvases make agentic workflows visible, steerable, and cost-efficient]] — 2026-08-17 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.21.1 -- R002034|openai/openai-agents-python v0.21.1]] — 2026-08-16 · `github-release` · 관련도 2.5
