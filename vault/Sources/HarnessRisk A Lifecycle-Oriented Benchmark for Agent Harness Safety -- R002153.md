@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`P4GZEBJJ`)
 - 발행일: 2026-08-18T10:03:58Z
 - 저자: Yajing Bai, Jinhao Duan, Jie Peng, Xianfeng Wu, Sijia Liu, Song Wang, Tianlong Chen
 - 식별자: `arxiv:2608.17597`

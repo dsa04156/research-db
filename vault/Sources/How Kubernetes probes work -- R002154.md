@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `web:ngrok`
 - 검토 상태: `pending`
+- Zotero: created (`ZJVG7UAQ`)
 - 발행일: 2026-08-19
 - 저자: ngrok
 - 식별자: `url:25126c6c8bf935b4cd06017f26bcaf1236d699d09f2614bdf8086db1f0d71e38`

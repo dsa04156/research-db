@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`228RA7PM`)
 - 발행일: 2026-08-18
 - 저자: Sabyasachi Saha
 - 식별자: `doi:10.5281/zenodo.21991038`

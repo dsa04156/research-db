@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`AJVQVVVN`)
 - 발행일: 2026-08-18T01:16:02Z
 - 저자: Yunhao Yang, Yuexin Bian, Yunjie Tian, Di Fu, Tianjin Huang, Yuanyuan Shi, Ziang Xiao, Nuno Vasconcelos
 - 식별자: `arxiv:2608.17253`

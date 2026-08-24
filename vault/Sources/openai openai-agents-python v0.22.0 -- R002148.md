@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `github-release`
 - 검토 상태: `pending`
+- Zotero: created (`NGIG9TB8`)
 - 발행일: 2026-08-19T13:44:38Z
 - 저자: seratch
 - 식별자: `url:52d7fe5e2f70c9ee22588b2253c31f5ae6a1e700ae06b2cb2286815ef54964dd`

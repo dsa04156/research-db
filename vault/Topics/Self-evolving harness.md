@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 301
+source_count: 314
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **301개**
+연결된 자료: **314개**
 
 ## 자료
 
@@ -39,6 +39,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/SemaPLC A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation -- R002162|SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation]] — 2026-08-19 · `arxiv` · 관련도 4.3
 - [[vault/Sources/HarnessRisk A Lifecycle-Oriented Benchmark for Agent Harness Safety -- R002153|HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety]] — 2026-08-18 · `kurate` · 관련도 4.3
 - [[vault/Sources/ClawGym II Exploring Black-Box RL on Agent Harness -- R002083|ClawGym II: Exploring Black-Box RL on Agent Harness]] — 2026-08-17 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Trendy 1 — Harness Engineering The Code Around the Model -- R002047|Trendy #1 — Harness Engineering: The Code Around the Model]] — 2026-08-17 · `social:youtube` · 관련도 4.3
@@ -126,6 +127,8 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Copy-on-Write Scoring Application-Specific Agent Evaluations -- R000985|Copy-on-Write Scoring: Application-Specific Agent Evaluations]] — 2026-07-15 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Do Agent Optimizers Compound A Continual-Learning Evaluation on Terminal-Bench 2.0 -- R000987|Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0]] — 2026-07-15 · `arxiv` · 관련도 3.4
 - [[vault/Sources/SEAGym An Evaluation Environment for Self-Evolving LLM Agents -- R001038|SEAGym: An Evaluation Environment for Self-Evolving LLM Agents]] — 2026-06-16 · `arxiv` · 관련도 3.4
+- [[vault/Sources/Graph Engineering in the Era of LLM Agents From Individual Intelligence to System Intelligence -- R002155|Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence]] — 2026-08-21 · `arxiv` · 관련도 3.1
+- [[vault/Sources/ClawSentry A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents -- R002157|ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents]] — 2026-08-21 · `arxiv` · 관련도 3.1
 - [[vault/Sources/👉 TERMINOLOGY While Andrew Ng focuses on the term Agentic Workflows, the concept he is referring -- R002062|👉 TERMINOLOGY: While Andrew Ng focuses on the term "Agentic Workflows," the concept he is referring to is actually broader, ie, "AI Agent Ha]] — 2026-08-13 · `social:linkedin` · 관련도 3.1
 - [[vault/Sources/Living-Harness Is an Interactive-Agent Evolver (Jul 2026) -- R001707|Living-Harness Is an Interactive-Agent Evolver (Jul 2026)]] — 2026-08-03 · `social:youtube` · 관련도 3.1
 - [[vault/Sources/Living-Harness Is an Interactive-Agent Evolver -- R000006|Living-Harness Is an Interactive-Agent Evolver]] — 2026-07-29 · `arxiv` · 관련도 3.1
@@ -134,6 +137,9 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/MiDojo Improve AI agent security with real-world red-teaming -- R001893|MiDojo: Improve AI agent security with real-world red-teaming]] — 2026-08-10 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/The Harness Effect How Orchestration Design Sets the Token Economics of Enterprise Agentic AI -- R001006|The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI]] — 2026-07-08 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters -- R000570|Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters]] — 2024-08-06 · `arxiv` · 관련도 2.9
+- [[vault/Sources/Large Language Models at the Intersection of Software Engineering and Software Security An Evide -- R002156|Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda]] — 2026-08-21 · `arxiv` · 관련도 2.6
+- [[vault/Sources/BC-Bench Evaluating Agentic Engineering in a Domain-Specific Language for ERP -- R002158|BC-Bench: Evaluating Agentic Engineering in a Domain-Specific Language for ERP]] — 2026-08-21 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Task-CoEvolve Efficient Harness Optimization via Adaptive Validation Task Selection -- R002160|Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection]] — 2026-08-20 · `arxiv` · 관련도 2.6
 - [[vault/Sources/$A 2E$ An End-to-End Agent Auditing Engine -- R001855|$A^2E$ : An End-to-End Agent Auditing Engine]] — 2026-08-07 · `arxiv` · 관련도 2.6
 - [[vault/Sources/When Self-Evolution Backfires Pre-Commit Gating against Skill Contamination in LLM Agents -- R001857|When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents]] — 2026-08-06 · `openalex` · 관련도 2.6
 - [[vault/Sources/OctoLong Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling -- R001764|OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling]] — 2026-08-05 · `arxiv` · 관련도 2.6
@@ -229,6 +235,13 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.17.5 -- R001502|openai/openai-agents-python v0.17.5]] — 2026-06-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-cli==0.4.28 -- R001511|langchain-ai/langgraph langgraph-cli==0.4.28]] — 2026-06-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Prime Agent A self-improving RLM agent for coding workflows -- R001937|Prime Agent: A self-improving RLM agent for coding workflows]] — 2026-05-08 · `web:Prime Intellect GitHub` · 관련도 2.5
+- [[vault/Sources/How do you structure context for handoffs between ChatGPT and Claude -- R002237|How do you structure context for handoffs between ChatGPT and Claude?]] — 2026-08-23 · `social:reddit` · 관련도 2.3
+- [[vault/Sources/Applying Anthropic Primitives at Large Enterprises Harness Paradigm for Knowledge Work -- R002159|Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work]] — 2026-08-20 · `arxiv` · 관련도 2.3
+- [[vault/Sources/What is a Harness -- R002241|What is a Harness?]] — 2026-08-20 · `web:Earendil` · 관련도 2.3
+- [[vault/Sources/CTIFoundry An Agent-Native Corpus Scaffold for Cyber Threat Intelligence -- R002161|CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence]] — 2026-08-19 · `arxiv` · 관련도 2.3
+- [[vault/Sources/StartupBench Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows -- R002163|StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows]] — 2026-08-18 · `arxiv` · 관련도 2.3
+- [[vault/Sources/Agent Lightning v1.0 Towards Harnessed Agentic RL -- R002164|Agent Lightning v1.0: Towards Harnessed Agentic RL]] — 2026-08-18 · `arxiv` · 관련도 2.3
+- [[vault/Sources/LEGO-RL Harness-Native Reinforcement Learning for Coding Agents -- R002165|LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents]] — 2026-08-18 · `arxiv` · 관련도 2.3
 - [[vault/Sources/What if the model is only half of the AI agent DeepSeek Harness takes a different approach Agent -- R002079|What if the model is only half of the AI agent? DeepSeek Harness takes a different approach: Agent = Model + Harness. An open-source, plug]] — 2026-08-16 · `social:threads` · 관련도 2.3
 - [[vault/Sources/Exo Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley Google Research -- R002050|Exo: Harnesses should see their own code and logs — Alex Krentsel, UC Berekeley / Google Research]] — 2026-08-15 · `social:youtube` · 관련도 2.3
 - [[vault/Sources/AgentRewind Recoverable Execution for Long-Horizon LLM Agents -- R002084|AgentRewind: Recoverable Execution for Long-Horizon LLM Agents]] — 2026-08-14 · `arxiv` · 관련도 2.3

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`77BBRZXT`)
 - 발행일: 2026-08-18T17:55:07Z
 - 저자: Qinyuan Ye, Yu Li, Yada Pruksachatkun, Jiaxin Zhang, Chien-Sheng Wu
 - 식별자: `arxiv:2608.18066`

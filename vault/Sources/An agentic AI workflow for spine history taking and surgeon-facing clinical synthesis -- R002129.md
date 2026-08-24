@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`8EDWSZRR`)
 - 발행일: 2026-08-18
 - 저자: Begüm Aslantaş Kaplan, Ali Kaplan, Ali Aydilek, Özkan Çeli̇ker, Tolga Ege, Salim Şentürk, İlker Solmaz
 - 식별자: `doi:10.21203/rs.3.rs-10617202/v1`

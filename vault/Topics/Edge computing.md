@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 456
+source_count: 473
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **456개**
+연결된 자료: **473개**
 
 ## 자료
 
@@ -57,6 +57,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machi -- R001642|Mobility-Aware and Privacy-Preserving Federated Reinforcement Learning with Multi-Paradigm Machine Learning for Edge Intelligence in 5G/6G Networks]] — 2026-08-01 · `openalex` · 관련도 4.7
 - [[vault/Sources/Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT -- R000103|Latency aware trust weighted federated intrusion detection for secure 6G vehicular IoT]] — 2026-07-27 · `openalex` · 관련도 4.7
 - [[vault/Sources/A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Moni -- R001153|A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Monitoring and Orchestration]] — 2026-06-07 · `arxiv` · 관련도 4.7
+- [[vault/Sources/A closed-loop authentication-detection security framework for edge computing environments integr -- R002204|A closed-loop authentication-detection security framework for edge computing environments integrating trusted computing and distilled pre-trained language models]] — 2026-08-21 · `openalex` · 관련도 4.6
 - [[vault/Sources/User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling -- R002042|User-Assisted Collaborative Distributed Inference for Efficient QoS-Aware Autoscaling]] — 2026-08-12 · `kurate` · 관련도 4.6
 - [[vault/Sources/From Passive Mirrors to Active Agents Holonic Digital Twins for Physical AI over Networks -- R001886|From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks]] — 2026-08-06 · `openalex` · 관련도 4.6
 - [[vault/Sources/Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems -- R000085|Movable-Antenna Assisted Energy Minimization in UAV-Enabled Mobile Edge Computing Systems]] — 2026-07-25 · `arxiv` · 관련도 4.6
@@ -89,11 +90,15 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/EdgeTimer Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement L -- R000303|EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning]] — 2024-06-11 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing A Model-Based Reinforcemen -- R000477|Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach]] — 2024-06-03 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Resource-efficient Parallel Split Learning in Heterogeneous Edge Computing -- R000529|Resource-efficient Parallel Split Learning in Heterogeneous Edge Computing]] — 2024-03-23 · `arxiv` · 관련도 4.6
+- [[vault/Sources/Thermo-FL Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI -- R002236|Thermo-FL: Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI]] — 2026-08-21 · `kurate` · 관련도 4.5
 - [[vault/Sources/AIGaitor Privacy-preserving and cloud-free motion analysis for everyone, using edge computing -- R001346|AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing]] — 2026-05-20 · `arxiv` · 관련도 4.5
 - [[vault/Sources/LA-IMR Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Se -- R000701|LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics]] — 2025-05-12 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/感謝港島司徒拔道港安醫院信任,選擇我哋 LOGROLL 自家研發嘅 Ai 人工智能 mmWave 離床警報、預防跌倒系統 -- 採用 TexasInstruments 非鏡頭式、非接觸式 mm -- R002240|感謝港島司徒拔道港安醫院信任，選擇我哋 LOGROLL 自家研發嘅 Ai 人工智能 mmWave 離床警報、預防跌倒系統 -- 採用 #TexasInstruments 非鏡頭式、非接觸式 mmWave Sensor，可完全保障私隱，#IntelInside Edge AI 運算]] — 2026-08-24 · `social:threads` · 관련도 4.3
+- [[vault/Sources/Rivian applied Rivian OS 2.0 to the R2. The system includes a new UI, Unreal Engine 5 graphics, -- R002239|Rivian applied Rivian OS 2.0 to the R2. The system includes a new UI, Unreal Engine 5 graphics, Haptic Halo Wheels, edge AI compute, and Riv]] — 2026-08-24 · `social:threads` · 관련도 4.3
+- [[vault/Sources/Adaptive Edge Resource Management Through Deep Reinforcement Learning Techniques -- R002202|Adaptive Edge Resource Management Through Deep Reinforcement Learning Techniques]] — 2026-08-21 · `openalex` · 관련도 4.3
 - [[vault/Sources/Cognitively-Inspired Two-Stage Diffusion Policy for Adaptive Resource Scheduling in Sustainable -- R002020|Cognitively-Inspired Two-Stage Diffusion Policy for Adaptive Resource Scheduling in Sustainable UAV-Assisted Mobile Edge Computing Systems]] — 2026-08-15 · `openalex` · 관련도 4.3
 - [[vault/Sources/Heterogeneous edge AI orchestration A systematic review, taxonomy and future directions -- R002013|Heterogeneous edge AI orchestration: A systematic review, taxonomy and future directions]] — 2026-08-14 · `openalex` · 관련도 4.3
 - [[vault/Sources/NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto S -- R002044|NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space]] — 2026-08-13 · `kurate` · 관련도 4.3
@@ -183,6 +188,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/AdaptSFL Adaptive Split Federated Learning in Resource-constrained Edge Networks -- R000532|AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks]] — 2024-03-19 · `arxiv` · 관련도 3.6
 - [[vault/Sources/Intelligent Resource Orchestration for 5G Edge Infrastructures -- R000357|Intelligent Resource Orchestration for 5G Edge Infrastructures]] — 2024-03-19 · `openalex` · 관련도 3.6
 - [[vault/Sources/Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control -- R002134|Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control]] — 2026-08-19 · `rss:NVIDIA Technical Blog` · 관련도 3.5
+- [[vault/Sources/Jetson-ORB-SLAM3 Accuracy-Preserving GPU Implementation for Edge Computing Devices -- R002199|Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices]] — 2026-08-18 · `arxiv` · 관련도 3.5
 - [[vault/Sources/Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing -- R001991|Improved PSO-Based Task Offloading Model for Internet of Vehicles Edge Computing]] — 2026-08-15 · `crossref` · 관련도 3.5
 - [[vault/Sources/Diffusion Language Models for Mobile Edge Agentic AI Foundations, Applications, and Challenges -- R001993|Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges]] — 2026-08-11 · `openalex` · 관련도 3.5
 - [[vault/Sources/Edge AI in Agriculture A Multi-modal Approach Analysis for Scalable and Transparent Plant Diseas -- R001129|Edge AI in Agriculture: A Multi-modal Approach Analysis for Scalable and Transparent Plant Disease Detection]] — 2026-07-30 · `crossref` · 관련도 3.5
@@ -197,6 +203,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Implementation of Big AI Models for Wireless Networks with Collaborative Edge Computing -- R000504|Implementation of Big AI Models for Wireless Networks with Collaborative Edge Computing]] — 2024-04-27 · `arxiv` · 관련도 3.5
 - [[vault/Sources/Rapid Deployment of DNNs for Edge Computing via Structured Pruning at Initialization -- R000508|Rapid Deployment of DNNs for Edge Computing via Structured Pruning at Initialization]] — 2024-04-22 · `arxiv` · 관련도 3.5
 - [[vault/Sources/Proceedings of the 1st International Workshop on MetaOS for the Cloud-Edge-IoT Continuum -- R000355|Proceedings of the 1st International Workshop on MetaOS for the Cloud-Edge-IoT Continuum]] — 2024-04-22 · `openalex` · 관련도 3.5
+- [[vault/Sources/Kubernetes at the edge has hit a wall. Fleet management is the way through -- R002218|Kubernetes at the edge has hit a wall. Fleet management is the way through.]] — 2026-08-20 · `rss:The New Stack` · 관련도 3.4
 - [[vault/Sources/Large-scale workflow placement in serverless computing using integer nonlinear programming -- R002043|Large-scale workflow placement in serverless computing using integer nonlinear programming]] — 2026-08-14 · `kurate` · 관련도 3.4
 - [[vault/Sources/Integrated Sensing, Communication, and Computing in Multi-Tier Systems Joint Hybrid Beamforming -- R002114|Integrated Sensing, Communication, and Computing in Multi-Tier Systems: Joint Hybrid Beamforming Design and Computation Resource Allocation]] — 2026-08-14 · `arxiv` · 관련도 3.4
 - [[vault/Sources/BALANCE Hybrid Autoregressive-Speculative LLM Inference in Wireless Edge Networks -- R001807|BALANCE: Hybrid Autoregressive-Speculative LLM Inference in Wireless Edge Networks]] — 2026-08-06 · `arxiv` · 관련도 3.4
@@ -220,6 +227,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extractio -- R000953|Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extraction]] — 2025-07-26 · `openalex` · 관련도 3.1
 - [[vault/Sources/CHAMP A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks -- R000862|CHAMP: A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks]] — 2025-07-23 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Computing Looking Back and Moving Forward -- R000448|Computing: Looking Back and Moving Forward]] — 2024-07-17 · `arxiv` · 관련도 3.1
+- [[vault/Sources/When Do LLM Agents Help Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehic -- R002198|When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge]] — 2026-08-20 · `arxiv` · 관련도 2.9
+- [[vault/Sources/Threat Aware Task Offloading and Caching for Secure UAV Assisted Vehicular Consumer Electronics -- R002200|Threat Aware Task Offloading and Caching for Secure UAV Assisted Vehicular Consumer Electronics]] — 2026-08-18 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Artificial Intelligence for Real-Time Cyber Threat Classification and Emerging Threat Detection -- R002118|Artificial Intelligence for Real-Time Cyber Threat Classification and Emerging Threat Detection: A Structured Review of Methods, Datasets, Challenges, and Research Directions]] — 2026-08-17 · `openalex` · 관련도 2.9
 - [[vault/Sources/Artificial Intelligence and Intelligent Decision Support Systems Emerging Trends and Application -- R002021|Artificial Intelligence and Intelligent Decision Support Systems: Emerging Trends and Applications in Computer Science]] — 2026-08-14 · `openalex` · 관련도 2.9
 - [[vault/Sources/Enhancing Virtual Agents through SLMs and Edge-Computing An Exploratory Evaluation of Think and -- R002115|Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes]] — 2026-08-13 · `arxiv` · 관련도 2.9
@@ -244,6 +253,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.55.0 -- R001524|ray-project/ray Ray-2.55.0]] — 2026-04-15 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.54.0 -- R001526|ray-project/ray Ray-2.54.0]] — 2026-02-18 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 2.8
+- [[vault/Sources/A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based -- R002201|A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based smart metering systems]] — 2026-08-22 · `openalex` · 관련도 2.6
 - [[vault/Sources/Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks -- R002116|Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks]] — 2026-08-13 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Agentic Artificial Intelligence for Information Fusion -- R002023|Agentic Artificial Intelligence for Information Fusion]] — 2026-08-13 · `openalex` · 관련도 2.6
 - [[vault/Sources/Edge-Deployed Machine Learning Sensor (MLSensor) for Real-Time Anomaly Detection in Electrical S -- R001810|Edge-Deployed Machine Learning Sensor (MLSensor) for Real-Time Anomaly Detection in Electrical Submersible]] — 2026-08-10 · `crossref` · 관련도 2.6
@@ -315,6 +325,11 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260824.1 -- R002229|cloudflare/workerd v1.20260824.1]] — 2026-08-24 · `github-release` · 관련도 2.5
+- [[vault/Sources/ray-project ray Ray-2.58.0 -- R002228|ray-project/ray Ray-2.58.0]] — 2026-08-23 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260823.1 -- R002230|cloudflare/workerd v1.20260823.1]] — 2026-08-23 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260822.1 -- R002231|cloudflare/workerd v1.20260822.1]] — 2026-08-22 · `github-release` · 관련도 2.5
+- [[vault/Sources/cloudflare workerd v1.20260821.1 -- R002232|cloudflare/workerd v1.20260821.1]] — 2026-08-21 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260820.1 -- R002150|cloudflare/workerd v1.20260820.1]] — 2026-08-20 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260819.1 -- R002124|cloudflare/workerd v1.20260819.1]] — 2026-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260818.1 -- R002036|cloudflare/workerd v1.20260818.1]] — 2026-08-18 · `github-release` · 관련도 2.5
@@ -357,6 +372,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 2.5
+- [[vault/Sources/Advanced IoT Framework for Water Pollution Monitoring and Prediction -- R002203|Advanced IoT Framework for Water Pollution Monitoring and Prediction]] — 2026-08-21 · `openalex` · 관련도 2.3
 - [[vault/Sources/A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM -- R001885|A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM]] — 2026-08-10 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Naija-Petro AI Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain -- R001791|Naija-Petro AI: Adapting Large Language Models (LLMs) for Oil and Gas Applications Through Domain-Specific Fine-Tuning]] — 2026-08-10 · `crossref` · 관련도 2.3
 - [[vault/Sources/An Anomaly-Based Deep Learning Model for Detecting Known and Zero-Day Attacks in Network Traffic -- R001947|An Anomaly-Based Deep Learning Model for Detecting Known and Zero-Day Attacks in Network Traffic]] — 2026-08-08 · `openalex` · 관련도 2.3
@@ -374,6 +390,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/LLM-Centric Agentic AI for UAV Swarms Architecture, Enabling Technologies, and Open Problems -- R000096|LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems]] — 2026-07-05 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Scaling Up Thermodynamic AI Models -- R000098|Scaling Up Thermodynamic AI Models]] — 2026-06-30 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Neuromorphic Energy-Aware Learning for Adaptive Deep Brain Stimulation -- R001328|Neuromorphic Energy-Aware Learning for Adaptive Deep Brain Stimulation]] — 2026-06-26 · `arxiv` · 관련도 2.3
+- [[vault/Sources/Built to Evolve Inside R2’s Transformational Technology -- R002243|Built to Evolve: Inside R2’s Transformational Technology]] — 2026-06-26 · `web:Rivian` · 관련도 2.3
 - [[vault/Sources/An Instruction Set Architecture for IMPLY-based Memristive Processing-in-Array -- R001329|An Instruction Set Architecture for IMPLY-based Memristive Processing-in-Array]] — 2026-06-25 · `arxiv` · 관련도 2.3
 - [[vault/Sources/SpaceRipple Lightweight Semantic Delivery for Mission-Oriented LEO Earth Observation Satellite N -- R001330|SpaceRipple: Lightweight Semantic Delivery for Mission-Oriented LEO Earth Observation Satellite Networks]] — 2026-06-25 · `arxiv` · 관련도 2.3
 - [[vault/Sources/TRIDENT Breaking the Hybrid-Safety-Physics Coupling for Provably Safe Multi-Agent Reinforcement -- R001332|TRIDENT: Breaking the Hybrid-Safety-Physics Coupling for Provably Safe Multi-Agent Reinforcement Learning]] — 2026-06-16 · `arxiv` · 관련도 2.3

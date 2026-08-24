@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-20|2026-08-20]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`IH9I4923`)
 - 발행일: 2026-08-21
 - 저자: Sushanta Paul
 - 식별자: `doi:10.1108/dprg-05-2026-0329`
