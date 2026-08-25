@@ -1,0 +1,32 @@
+[
+  {
+    "claim_id": "clm_004",
+    "text": "민감 정보가 컨텍스트에 존재하는 것만으로 평범한 출력에서 비밀을 높은 정확도로 복원할 수 있다는 실험 결과가 여러 상용 모델에서 재현됐다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_008"
+    ],
+    "counter_search": "저자 논문과 실험 범위를 확인했으나 독립 도메인의 재현 연구를 찾지 못했다. 단일 사전논문의 공격 설정과 수치를 일반화하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "열 상태를 제어 신호로 쓰는 연합 LoRA가 Jetson 물리 테스트베드에서 온도와 통신량을 줄이면서 공격하 효용을 유지했다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_009"
+    ],
+    "counter_search": "논문 원문은 확인했으나 독립 재현과 장기간 현장 운용 자료가 없다. 저자 실험 결과만으로 제품 효과를 확정하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  }
+]

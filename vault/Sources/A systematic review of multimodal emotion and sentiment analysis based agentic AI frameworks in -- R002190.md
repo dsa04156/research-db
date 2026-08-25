@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`B5NDI8NI`)
 - 발행일: 2026-08-22
 - 저자: Bharati Pujari -, Uttam U. Deshpande, Goh Kah Ong Michael
 - 식별자: `doi:10.1007/s10791-026-10471-9`

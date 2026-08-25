@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`BBFH8ICP`)
 - 발행일: 2026-08-19T19:50:56Z
 - 저자: Georgii Kliukovkin
 - 식별자: `arxiv:2608.19412`

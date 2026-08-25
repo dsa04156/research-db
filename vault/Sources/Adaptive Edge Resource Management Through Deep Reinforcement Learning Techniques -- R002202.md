@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`BGWDVGWT`)
 - 발행일: 2026-08-21
 - 저자: Amit K. Mogal, Rahul A. Patil, Sahebrao N. Shinde, Madhukar N. Shelar
 - 식별자: `doi:10.38124/ijisrt/26aug614`

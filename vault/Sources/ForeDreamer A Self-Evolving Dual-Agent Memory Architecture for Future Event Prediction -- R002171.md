@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KNSQI7ZE`)
 - 발행일: 2026-08-21T09:38:27Z
 - 저자: Linhao Zhong, Zongze Du, Linyu Wu, Yu Bo, Hourong Li, Chenchen Jing, Hao Chen, Yuling Xi, Chunhua Shen
 - 식별자: `arxiv:2608.20920`

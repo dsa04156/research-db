@@ -10,7 +10,7 @@ Observations captured during task-oriented work.
 
 ### Observation 1: Observer initialization can interfere with clean-tree pre-sync
 
-**Status:** OPEN
+**Status:** ACTIONED (2026-08-25) — Applied to task-observer (weekly review)
 **Date:** 2026-08-24
 **Session context:** An autonomous multi-step workflow required a clean Git worktree check before pulling, while Task Observer initialization created new workspace files first.
 **Skill:** task-observer

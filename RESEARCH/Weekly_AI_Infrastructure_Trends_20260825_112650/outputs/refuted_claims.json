@@ -1,0 +1,17 @@
+[
+  {
+    "claim_id": "clm_006",
+    "text": "자율 AI 에이전트가 태국 재무부를 해킹했다는 주장은 확인된 보안 사고다.",
+    "risk": "high",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_010"
+    ],
+    "counter_search": "정부·수사기관·보안업체의 독립 발표와 기술 지표를 찾았으나 확인하지 못했고 원문은 단일 Reddit 주장뿐이었다.",
+    "counter_refuted": true,
+    "conflicting": true,
+    "primary_source": false,
+    "status": "refuted",
+    "status_reason": "counter-search로 반박됨"
+  }
+]

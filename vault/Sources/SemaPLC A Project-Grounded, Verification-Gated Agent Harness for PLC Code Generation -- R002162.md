@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`IUD52IQV`)
 - 발행일: 2026-08-19T05:44:29Z
 - 저자: Yanlun Tu, Huacan Wang, Ziyue Zhou, Jie Zhou, Ningyan Zhu, Ge Chen, Wangyi Chen, Tengfei Zhou, Yifan Zhou, Dasheng Yang, Xiaofeng Mou, Hui Zhang, Yi Xu
 - 식별자: `arxiv:2608.18565`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6ZQ6CTKS`)
 - 발행일: 2026-08-20T06:50:23Z
 - 저자: Chenchen Lin, Wenhao Yuan, Xuehe Wang, Edith Cheuk Han Ngai
 - 식별자: `arxiv:2608.19701`

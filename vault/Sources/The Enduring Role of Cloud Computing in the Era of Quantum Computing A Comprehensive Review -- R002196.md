@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`FFD32H8F`)
 - 발행일: 2026-08-21
 - 저자: Anamika V J, Aleena K Rasheed
 - 식별자: `doi:10.64823/ijter.2621004`

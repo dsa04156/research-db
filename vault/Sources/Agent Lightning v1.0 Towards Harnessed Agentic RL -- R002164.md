@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`GQQCC44H`)
 - 발행일: 2026-08-18T08:50:13Z
 - 저자: Zhiyuan He, Siwei Zhang, Zhiwen Zhou, Yuqing Yang, Yu Kang, Yuge Zhang, Luna K. Qiu, Tin Yan Tsui, Jiahang Xu, Chong Luo
 - 식별자: `arxiv:2608.17528`

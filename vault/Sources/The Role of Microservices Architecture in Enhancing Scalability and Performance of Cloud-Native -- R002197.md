@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`DCNIQ9X4`)
 - 발행일: 2026-08-17
 - 저자: Veeramani Sampathkumar, Dinesh Kumar Ramaraj, Anand Edward
 - 식별자: `doi:10.25258/ijddt.16.76s.136`

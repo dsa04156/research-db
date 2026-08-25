@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`JXXHTQZV`)
 - 발행일: 2026-08-20T18:30:46Z
 - 저자: Davide Lamagna, Albert Cabellos, Alberto Rodriguez-Natal, Gábor Rétvári, Berta Serracanta
 - 식별자: `doi:10.1145/3789240.3828749`

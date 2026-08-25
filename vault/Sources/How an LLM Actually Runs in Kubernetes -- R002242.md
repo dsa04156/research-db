@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `web:Cracking Walnuts`
 - 검토 상태: `pending`
+- Zotero: created (`EHFWZK6R`)
 - 발행일: 2026-08-23
 - 식별자: `url:1dc142c68a0eba196b4e613ba59962a01bd798012804d386ffe2f85334a491cf`
 

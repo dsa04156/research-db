@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`7D4GXPSN`)
 - 발행일: 2026-08-22
 - 저자: Rennan Santos de Araujo, João F. Justo
 - 식별자: `doi:10.1007/s00170-026-18940-7`

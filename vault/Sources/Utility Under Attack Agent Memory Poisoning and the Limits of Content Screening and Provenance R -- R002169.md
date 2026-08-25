@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`ZH98W6T6`)
 - 발행일: 2026-08-21T15:37:35Z
 - 저자: Arulnidhi Karunanidhi
 - 식별자: `arxiv:2608.21230`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`7QH8PPME`)
 - 발행일: 2026-08-20T09:19:10Z
 - 저자: Saverio Giallorenzo, Jacopo Mauro, Gianluigi Zavattaro
 - 식별자: `arxiv:2608.19822`

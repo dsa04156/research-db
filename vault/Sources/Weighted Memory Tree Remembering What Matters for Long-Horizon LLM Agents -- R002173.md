@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`4RCPM3SD`)
 - 발행일: 2026-08-21T00:14:38Z
 - 저자: Quang Dao, Purvi Kathalkar, Kenneth Eaton
 - 식별자: `arxiv:2608.20631`

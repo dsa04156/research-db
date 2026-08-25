@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`7R2QE5PP`)
 - 발행일: 2026-08-20T19:38:25Z
 - 저자: Yunqi Li, Ila Petrovic, Yongjoo Park
 - 식별자: `arxiv:2608.20525`

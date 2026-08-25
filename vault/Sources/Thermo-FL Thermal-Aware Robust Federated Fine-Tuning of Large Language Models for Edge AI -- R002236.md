@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`KCC4N6QK`)
 - 발행일: 2026-08-21T14:41:54Z
 - 저자: Shiva Shrestha, Kazi Shaharair Sharif, Zongxing Xie, Jiajing Huang, Anhao Xiang, Honghui Xu
 - 식별자: `arxiv:2608.21172`

@@ -1,0 +1,51 @@
+[
+  {
+    "claim_id": "clm_001",
+    "text": "에이전트 하네스는 프롬프트와 도구를 묶는 얇은 루프에서 세션 상태, 승인, 격리, 복구 경계를 책임지는 독립 실행 계층으로 구체화되고 있다.",
+    "risk": "normal",
+    "claim_type": "trend-synthesis",
+    "source_ids": [
+      "src_001",
+      "src_002",
+      "src_003"
+    ],
+    "counter_search": "세 자료의 구현·설계 범위를 대조했다. Pi 문서는 공개 설계 브랜치이고 TrueForge는 실제 배포 모드를 제공하므로 모든 하네스가 이미 이 수준이라는 주장은 제외했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_002",
+    "text": "하네스가 배포 시 실행 루프뿐 아니라 에이전트 강화학습의 환경 상호작용과 학습 데이터 경계까지 소유하는 방향이 실제 프레임워크로 나타났다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_004",
+      "src_005"
+    ],
+    "counter_search": "논문 주장과 공개 코드 저장소를 대조했다. 보고된 SWE-bench 향상 수치는 독립 재현 전이므로 결론에서 제외했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  },
+  {
+    "claim_id": "clm_003",
+    "text": "Kubernetes 기반 LLM 서빙에서는 일반적인 Pod·Service 상태만으로 부족하며 KV 캐시 위치, 대기열과 요청 우선순위를 읽는 추론 전용 라우팅 계층이 운영상 중요하다.",
+    "risk": "normal",
+    "claim_type": "descriptive",
+    "source_ids": [
+      "src_006",
+      "src_007"
+    ],
+    "counter_search": "공식 llm-d 요청 경로와 독립 기술 해설을 대조했다. 모든 워크로드에 llm-d가 필수라는 주장은 하지 않고 캐시 민감 LLM 추론에 한정했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "verified",
+    "status_reason": "ok"
+  }
+]

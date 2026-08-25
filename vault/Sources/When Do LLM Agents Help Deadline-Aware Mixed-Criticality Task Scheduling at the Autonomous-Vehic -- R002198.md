@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`8W2P73QS`)
 - 발행일: 2026-08-20T01:55:40Z
 - 저자: Reza Zakerian
 - 식별자: `arxiv:2608.19557`

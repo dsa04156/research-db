@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 460
+source_count: 465
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **460개**
+연결된 자료: **465개**
 
 ## 자료
 
@@ -198,6 +198,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Agyn An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition a -- R001160|Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access]] — 2026-05-26 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods -- R001214|A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods]] — 2026-01-20 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 3.6
+- [[vault/Sources/Article Rightsizing Platform Engineering Building the Platform Your Organization Actually Needs -- R002271|Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs]] — 2026-08-24 · `rss:InfoQ` · 관련도 3.5
 - [[vault/Sources/OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure -- R002219|OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure]] — 2026-08-23 · `rss:InfoQ` · 관련도 3.5
 - [[vault/Sources/kubernetes kubernetes v1.35.8 -- R002225|kubernetes/kubernetes v1.35.8]] — 2026-08-20 · `github-release` · 관련도 3.5
 - [[vault/Sources/kubernetes kubernetes v1.34.11 -- R002226|kubernetes/kubernetes v1.34.11]] — 2026-08-20 · `github-release` · 관련도 3.5
@@ -256,6 +257,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Definition and implementation of the Cloud Infrastructure for the integration of the Human Digit -- R000411|Definition and implementation of the Cloud Infrastructure for the integration of the Human Digital Twin in the Social Internet of Things]] — 2024-07-08 · `openalex` · 관련도 3.5
 - [[vault/Sources/Cloud Infrastructure to Perform Distributed Multiuser Platform for Self-organizing UAV Swarms -- R000432|Cloud Infrastructure to Perform Distributed Multiuser Platform for Self-organizing UAV Swarms]] — 2024-06-26 · `openalex` · 관련도 3.5
 - [[vault/Sources/Gradio-Lite Serverless Gradio Running Entirely in Your Browser -- R000542|Gradio-Lite: Serverless Gradio Running Entirely in Your Browser]] — 2023-10-19 · `rss:Hugging Face Blog` · 관련도 3.5
+- [[vault/Sources/NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories -- R002269|NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories]] — 2026-08-24 · `rss:NVIDIA Technical Blog` · 관련도 3.4
 - [[vault/Sources/An open source rival to Claude Managed Agents just launched -- R002145|An open source rival to Claude Managed Agents just launched]] — 2026-08-19 · `rss:The New Stack` · 관련도 3.4
 - [[vault/Sources/Why CPUs still matter in the age of AI agents -- R001955|Why CPUs still matter in the age of AI agents]] — 2026-08-11 · `rss:The New Stack` · 관련도 3.4
 - [[vault/Sources/Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents -- R001828|Cloudflare Launches Persistent, Stateful, Computer-Like Environments for Agents]] — 2026-08-07 · `rss:InfoQ` · 관련도 3.4
@@ -354,6 +356,8 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260825.1 -- R002272|cloudflare/workerd v1.20260825.1]] — 2026-08-25 · `github-release` · 관련도 2.5
+- [[vault/Sources/Automating root cause analysis at scale Multi-signal correlation for cloud native incident respo -- R002267|Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response]] — 2026-08-24 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260824.1 -- R002229|cloudflare/workerd v1.20260824.1]] — 2026-08-24 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260823.1 -- R002230|cloudflare/workerd v1.20260823.1]] — 2026-08-23 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260822.1 -- R002231|cloudflare/workerd v1.20260822.1]] — 2026-08-22 · `github-release` · 관련도 2.5
@@ -423,6 +427,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/ray-project ray Ray-2.55.1 -- R001523|ray-project/ray Ray-2.55.1]] — 2026-04-22 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
+- [[vault/Sources/🎙️ Nouveau podcast à découvrir ! 🔥 Cloudflare Bot Preference Sync réguler l'accès des IA Découvr -- R002301|🎙️ Nouveau podcast à découvrir ! 🔥 Cloudflare Bot Preference Sync : réguler l'accès des IA Découvrez comment utiliser Cloudflare pour vos]] — 2026-08-24 · `social:threads` · 관련도 2.3
 - [[vault/Sources/Presentation Understanding Progressive Collapse How To Avoid A Cascading Failure -- R002146|Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure]] — 2026-08-19 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/Evolution of Web Application Attacks A Systematic Analysis of the Current Threat Landscape and E -- R002016|Evolution of Web Application Attacks: A Systematic Analysis of the Current Threat Landscape and Emerging Security Challenges]] — 2026-08-14 · `openalex` · 관련도 2.3
 - [[vault/Sources/Buildpacks Move the Container Hardening Control Point Away From the Dockerfile -- R001896|Buildpacks Move the Container Hardening Control Point Away From the Dockerfile]] — 2026-08-10 · `rss:InfoQ` · 관련도 2.3

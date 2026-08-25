@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`NM4FVWCP`)
 - 발행일: 2026-08-20T21:05:51Z
 - 저자: Leyi Yan, Shuangning Li, Sihang Liu
 - 식별자: `arxiv:2608.20566`

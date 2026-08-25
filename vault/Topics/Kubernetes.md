@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 558
+source_count: 563
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **558개**
+연결된 자료: **563개**
 
 ## 자료
 
@@ -17,6 +17,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Running Agents on Kubernetes with Agent Sandbox -- R001438|Running Agents on Kubernetes with Agent Sandbox]] — 2026-03-20 · `rss:Kubernetes Blog` · 관련도 9.1
 - [[vault/Sources/OpenAI, AWS & MS Standardize AI Agents + K8s GPU Scheduling Revolution DevOps News -- R001917|OpenAI, AWS & MS Standardize AI Agents + K8s GPU Scheduling Revolution   DevOps News]] — 2026-08-09 · `social:youtube` · 관련도 8.9
 - [[vault/Sources/Kubernetes v1.36 ハル (Haru) -- R001434|Kubernetes v1.36: ハル (Haru)]] — 2026-04-22 · `rss:Kubernetes Blog` · 관련도 8.9
+- [[vault/Sources/Choosing a Kubernetes distribution for AI workloads carries real risk. GPU scheduling, high-perf -- R002290|Choosing a Kubernetes distribution for AI workloads carries real risk. GPU scheduling, high-performance networking, and distributed training]] — 2026-08-20 · `social:linkedin` · 관련도 8.2
 - [[vault/Sources/📺Setting up AI Agents on Kubernetes! ❄️ This time I migrate my OpenClaw instance to a k8s cluste -- R001922|📺Setting up AI Agents on Kubernetes! ❄️ This time I migrate my OpenClaw instance to a k8s cluster. ✅Unprivileged user ✅Read-only file system]] — 2026-08-05 · `social:linkedin` · 관련도 8.2
 - [[vault/Sources/🚀 AI Agents on Kubernetes The Future of Cloud-Native Automation AI agents are moving beyond chat -- R001549|🚀 AI Agents on Kubernetes: The Future of Cloud-Native Automation AI agents are moving beyond chatbots. Today, they're scheduling workflows,]] — 2026-07-06 · `social:linkedin` · 관련도 8.2
 - [[vault/Sources/Workload Distribution and API Server Optimization for Cloud-Native Scaling in Kubernetes -- R000840|Workload Distribution and API Server Optimization for Cloud-Native Scaling in Kubernetes]] — 2025-07-08 · `openalex` · 관련도 8.2
@@ -105,6 +106,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/kubernetes kubernetes v1.34.11 -- R002226|kubernetes/kubernetes v1.34.11]] — 2026-08-20 · `github-release` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.36.4 -- R002224|kubernetes/kubernetes v1.36.4]] — 2026-08-20 · `github-release` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.37.0-rc.1 -- R002227|kubernetes/kubernetes v1.37.0-rc.1]] — 2026-08-20 · `github-release` · 관련도 5.3
+- [[vault/Sources/Kubernetes can run your AI workload. But Kubernetes + GPU is a very different problem from simpl -- R002289|Kubernetes can run your AI workload. But Kubernetes + GPU is a very different problem from simply adding a GPU to a server. When you deplo]] — 2026-08-20 · `social:linkedin` · 관련도 5.3
 - [[vault/Sources/How Kubernetes probes work -- R002154|How Kubernetes probes work]] — 2026-08-19 · `web:ngrok` · 관련도 5.3
 - [[vault/Sources/K7d Fork live Kubernetes clusters in about 100 ms -- R002126|K7d: Fork live Kubernetes clusters in about 100 ms]] — 2026-08-18 · `web:Katakate` · 관련도 5.3
 - [[vault/Sources/Eleven minutes, zero humans Building a self-healing Kubernetes upgrade pipeline on Kairos -- R002027|Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos]] — 2026-08-14 · `rss:CNCF Blog` · 관련도 5.3
@@ -182,6 +184,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Mutiny! How does Kubernetes fail, and what can we do about it -- R000313|Mutiny! How does Kubernetes fail, and what can we do about it?]] — 2024-04-17 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Performance Evaluation of Kubernetes Networking Approaches across Constraint Edge Environments -- R000321|Performance Evaluation of Kubernetes Networking Approaches across Constraint Edge Environments]] — 2024-01-15 · `arxiv` · 관련도 5.1
 - [[vault/Sources/ClusterLess Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters -- R001172|ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters]] — 2026-05-05 · `arxiv` · 관련도 5.0
+- [[vault/Sources/ARGUS MCP-Grounded Root Cause Analysis for Kubernetes Incidents -- R002264|ARGUS: MCP-Grounded Root Cause Analysis for Kubernetes Incidents]] — 2026-08-24 · `arxiv` · 관련도 4.9
 - [[vault/Sources/Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-N -- R001690|Crypto-Agile migration to Hybrid Post-Quantum Cryptography in Enterprise TLS PKI VPN and Cloud-Native Systems and services]] — 2026-08-02 · `openalex` · 관련도 4.9
 - [[vault/Sources/Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite P -- R000069|Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms]] — 2026-07-16 · `openalex` · 관련도 4.9
 - [[vault/Sources/Carbon-Aware Kubernetes Scheduling Using Deep Reinforcement Learning for Mixed Batch and Latency -- R000348|Carbon-Aware Kubernetes Scheduling Using Deep Reinforcement Learning for Mixed Batch and Latency-Sensitive Workloads]] — 2024-06-10 · `openalex` · 관련도 4.9
@@ -207,6 +210,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation -- R000791|Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation]] — 2024-10-21 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Analyzing the theoretical merits of scp Loxi scp load balancer for improving the efficiency of l -- R000334|Analyzing the theoretical merits of <scp>Loxi</scp> load balancer for improving the efficiency of load balancing in <scp>5G</scp> ‐edge <scp>IoT</scp> applications based on <scp>Kubernetes</scp>]] — 2024-07-29 · `crossref` · 관련도 4.6
 - [[vault/Sources/Computing in the Era of Large Generative Models From Cloud-Native to AI-Native -- R000365|Computing in the Era of Large Generative Models: From Cloud-Native to AI-Native]] — 2024-01-17 · `openalex` · 관련도 4.6
+- [[vault/Sources/Automating root cause analysis at scale Multi-signal correlation for cloud native incident respo -- R002267|Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response]] — 2026-08-24 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/German ciphers, telegrams, and cloud native data sovereignty -- R002207|German ciphers, telegrams, and cloud native data sovereignty]] — 2026-08-20 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Cloud Native platform sovereignty through multi-plane architecture -- R002119|Cloud Native platform sovereignty through multi-plane architecture]] — 2026-08-18 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/ray-project ray Ray-2.57.0 -- R001899|ray-project/ray Ray-2.57.0]] — 2026-08-11 · `github-release` · 관련도 4.5
@@ -225,6 +229,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Experimenting with Gateway API using kind -- R001447|Experimenting with Gateway API using kind]] — 2026-01-28 · `rss:Kubernetes Blog` · 관련도 4.4
 - [[vault/Sources/How an LLM Actually Runs in Kubernetes -- R002242|How an LLM Actually Runs in Kubernetes]] — 2026-08-23 · `web:Cracking Walnuts` · 관련도 4.3
 - [[vault/Sources/Kubernetes at the edge has hit a wall. Fleet management is the way through -- R002218|Kubernetes at the edge has hit a wall. Fleet management is the way through.]] — 2026-08-20 · `rss:The New Stack` · 관련도 4.3
+- [[vault/Sources/Kubernetes traditionally treated GPUs as countable resources, making it difficult for workloads -- R002291|Kubernetes traditionally treated GPUs as countable resources, making it difficult for workloads to request specific hardware capabilities. T]] — 2026-08-19 · `social:linkedin` · 관련도 4.3
 - [[vault/Sources/Show HN KubeSentry – Self-hosted runtime threat detection for Kubernetes -- R002068|Show HN: KubeSentry – Self-hosted runtime threat detection for Kubernetes]] — 2026-08-17 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 video -- R002067|Destroying My Homelab with Kubernetes – Linux Society UNSW 2026 [video ]] — 2026-08-16 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/Kubernetes was built for applications. AI infrastructure needs Kubernetes to think about GPUs, t -- R002064|Kubernetes was built for applications. AI infrastructure needs Kubernetes to think about GPUs, topology, memory, networking, storage and inf]] — 2026-08-16 · `social:linkedin` · 관련도 4.3

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `web:Earendil`
 - 검토 상태: `pending`
+- Zotero: created (`WDVMS265`)
 - 발행일: 2026-08-20
 - 저자: Earendil Product
 - 식별자: `url:7b391fbeae6b51d6d94d4d29e4d9857de4ebb87b9f344d4d9fdd5a5e0946ce37`

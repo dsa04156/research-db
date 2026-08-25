@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`KXJFS74V`)
 - 발행일: 2026-08-23
 - 저자: Catherine. N. B.
 - 식별자: `doi:10.64823/ijter.2621032`

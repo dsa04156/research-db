@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`8T8CSFWA`)
 - 발행일: 2026-08-20
 - 저자: Sai Sandeep Koneti
 - 식별자: `doi:10.70593/978-81-69589-46-8`

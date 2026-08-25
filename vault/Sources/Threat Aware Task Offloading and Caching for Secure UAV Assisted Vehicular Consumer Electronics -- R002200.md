@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`8FBUSHZN`)
 - 발행일: 2026-08-18T13:56:15Z
 - 저자: Xiaoteng Yang, Sunil Prajapat, Zheng Lin
 - 식별자: `arxiv:2608.17794`

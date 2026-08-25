@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-24|2026-08-24]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`JSIV7VQC`)
 - 발행일: 2026-08-18T00:22:46Z
 - 저자: Rabimba Karanjai, Yang Lu, Richard Williamson, Hemanth Hm, Prakhar Mehrotra, Lei Xu,  Weidong,  Shi
 - 식별자: `arxiv:2608.17220`
