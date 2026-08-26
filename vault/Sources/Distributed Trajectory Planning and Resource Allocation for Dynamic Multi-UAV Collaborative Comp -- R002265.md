@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`4I4SEUZM`)
 - 발행일: 2026-08-24T11:32:17Z
 - 저자: Tiankui Zhang, Wenlong Xu, Tianyi Shi, Xiaoxia Xu, Arumugam Nallanathan
 - 식별자: `arxiv:2608.23123`

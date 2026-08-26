@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DAFCFVV7`)
 - 발행일: 2026-08-22T09:26:42Z
 - 저자: Ao Chen, Xiaojiang Peng
 - 식별자: `arxiv:2608.21868`

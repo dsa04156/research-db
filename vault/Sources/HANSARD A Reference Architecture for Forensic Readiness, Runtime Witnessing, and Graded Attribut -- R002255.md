@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KRPDEA4T`)
 - 발행일: 2026-08-23T17:18:22Z
 - 저자: Christos Sardianos, Iliana Pla, Vasilis Efthymiou, Iraklis Varlamis, Thomas Lagkas, Panagiotis Sarigiannidis, Georgios Th. Papadopoulos
 - 식별자: `arxiv:2608.22512`

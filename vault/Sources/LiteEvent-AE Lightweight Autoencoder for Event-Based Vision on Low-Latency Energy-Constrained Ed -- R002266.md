@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`2PRDG8NH`)
 - 발행일: 2026-08-22T04:13:47Z
 - 저자: Riadul Islam, Joey Mule, Dhandeep Challagundla, Shahmir Rizvi, Sean Carson, Rachit Saini
 - 식별자: `arxiv:2608.21764`

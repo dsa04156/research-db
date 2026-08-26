@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`R8I4AIHE`)
 - 발행일: 2026-08-24T13:56:01Z
 - 저자: Jieke Wang, Tiancheng Shen, Yibo Yang, Ming-Hsuan Yang
 - 식별자: `arxiv:2608.23268`

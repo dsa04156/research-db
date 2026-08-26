@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`86J5N3Z9`)
 - 발행일: 2026-08-23T02:22:31Z
 - 저자: Jun Hou, Yi Fang, Xuan Wang
 - 식별자: `arxiv:2608.22176`

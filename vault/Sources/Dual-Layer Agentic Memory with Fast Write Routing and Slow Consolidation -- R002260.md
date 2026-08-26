@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`GUNXJ6MX`)
 - 발행일: 2026-08-23T04:40:13Z
 - 저자: Wenzhi Li, Dong Nie, Rui Lan, Tongtong Lyu, Peiyao Wang, Lingzi Hong, Weihang Pan, Boyuan Pan, Yao Hu
 - 식별자: `arxiv:2608.22215`

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 332
+source_count: 337
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **332개**
+연결된 자료: **337개**
 
 ## 자료
 
@@ -40,6 +40,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/So COOL...someone just built THE OFFICE theme agent harness. Claude Code, Codex, Antigravity, an -- R002324|So COOL...someone just built THE OFFICE theme agent harness. Claude Code, Codex, Antigravity, and Cursor working with each other on your ex]] — 2026-08-25 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Info bansos AI terbaru buat yang butuh API gratisan. Bisa langsung dicolok ke 9router, n8n, atau -- R002293|Info bansos AI terbaru buat yang butuh API gratisan. Bisa langsung dicolok ke 9router, n8n, atau agent harness kalian. Modelnya lumayan ken]] — 2026-08-24 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Agent = Model + Harness。Model 是引擎,Harness 是底盘——你坐的地方。 Earendil 寫了一篇給非技術讀者的解釋。Agent harness 做四件事 -- R002292|Agent = Model + Harness。Model 是引擎，Harness 是底盘——你坐的地方。 Earendil 寫了一篇給非技術讀者的解釋。Agent harness 做四件事： 1 System prompt — 告訴 model 它是誰、該怎麼行為。像新員工]] — 2026-08-24 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Comment MEMORY and i’ll send you the full agent harness memory breakdown, the four tiers, how in -- R002274|Comment MEMORY and i’ll send you the full agent harness memory breakdown, the four tiers, how information moves between them, and the templa]] — 2026-08-24 · `social:tiktok` · 관련도 4.3
@@ -191,6 +192,9 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/How to evaluate LLMs before production -- R002316|How to evaluate LLMs before production]] — 2026-08-25 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/Introducing Portable Computer -- R002329|Introducing Portable Computer]] — 2026-08-25 · `web:Perplexity` · 관련도 2.5
+- [[vault/Sources/Headlong a microharness for persistent agents -- R002327|Headlong: a microharness for persistent agents]] — 2026-08-25 · `web:Laude` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-sdk==0.4.3 -- R002149|langchain-ai/langgraph langgraph-sdk==0.4.3]] — 2026-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/GitHub Copilot app for Beginners Managing your work -- R002136|GitHub Copilot app for Beginners: Managing your work]] — 2026-08-19 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.22.0 -- R002148|openai/openai-agents-python v0.22.0]] — 2026-08-19 · `github-release` · 관련도 2.5
@@ -253,6 +257,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.17.5 -- R001502|openai/openai-agents-python v0.17.5]] — 2026-06-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-cli==0.4.28 -- R001511|langchain-ai/langgraph langgraph-cli==0.4.28]] — 2026-06-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Prime Agent A self-improving RLM agent for coding workflows -- R001937|Prime Agent: A self-improving RLM agent for coding workflows]] — 2026-05-08 · `web:Prime Intellect GitHub` · 관련도 2.5
+- [[vault/Sources/Today we’re launching Portable Computer on @NVIDIA DGX Spark. Portable Computer is a fully local -- R002325|Today we’re launching Portable Computer on @NVIDIA DGX Spark. Portable Computer is a fully local version of Perplexity Computer, where the]] — 2026-08-25 · `social:threads` · 관련도 2.3
 - [[vault/Sources/How do you structure context for handoffs between ChatGPT and Claude -- R002237|How do you structure context for handoffs between ChatGPT and Claude?]] — 2026-08-23 · `social:reddit` · 관련도 2.3
 - [[vault/Sources/Applying Anthropic Primitives at Large Enterprises Harness Paradigm for Knowledge Work -- R002159|Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work]] — 2026-08-20 · `arxiv` · 관련도 2.3
 - [[vault/Sources/What is a Harness -- R002241|What is a Harness?]] — 2026-08-20 · `web:Earendil` · 관련도 2.3

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 563
+source_count: 565
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **563개**
+연결된 자료: **565개**
 
 ## 자료
 
@@ -102,6 +102,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 5.4
 - [[vault/Sources/Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN -- R000306|Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN]] — 2024-05-24 · `arxiv` · 관련도 5.4
 - [[vault/Sources/PerfTune360 Self-Optimizing AI Framework for Cloud-Native Microservices -- R000367|PerfTune360: Self-Optimizing AI Framework for Cloud-Native Microservices]] — 2024-01-01 · `openalex` · 관련도 5.4
+- [[vault/Sources/Stop trying to learn all of Kubernetes at once -- R002315|Stop trying to learn all of Kubernetes at once]] — 2026-08-25 · `rss:CNCF Blog` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.35.8 -- R002225|kubernetes/kubernetes v1.35.8]] — 2026-08-20 · `github-release` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.34.11 -- R002226|kubernetes/kubernetes v1.34.11]] — 2026-08-20 · `github-release` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.36.4 -- R002224|kubernetes/kubernetes v1.36.4]] — 2026-08-20 · `github-release` · 관련도 5.3
@@ -446,6 +447,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Optimizing Callback Service Architecture for High-Throughput Applications -- R000756|Optimizing Callback Service Architecture for High-Throughput Applications]] — 2025-06-07 · `openalex` · 관련도 2.9
 - [[vault/Sources/Reinforcement Learning-based Task Scheduling for Heterogeneous Computing in End-Edge-Cloud Envir -- R000344|Reinforcement Learning-based Task Scheduling for Heterogeneous Computing in End-Edge-Cloud Environment]] — 2024-07-01 · `openalex` · 관련도 2.9
 - [[vault/Sources/EdgeTimer Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement L -- R000303|EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning]] — 2024-06-11 · `arxiv` · 관련도 2.9
+- [[vault/Sources/The lazy developer’s guide to observing your own code -- R002314|The lazy developer’s guide to observing your own code]] — 2026-08-25 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/Lightweight Dragonfly Deployment P2P Distribution Without the Database Stack -- R001995|Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack]] — 2026-08-13 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/Introducing Managed Workspaces for Mastra Platform -- R001847|Introducing Managed Workspaces for Mastra Platform]] — 2026-07-22 · `web:Mastra` · 관련도 2.8
 - [[vault/Sources/Run LoRA fine-tuning on Red Hat OpenShift AI with Ray -- R002211|Run LoRA fine-tuning on Red Hat OpenShift AI with Ray]] — 2026-08-24 · `rss:Red Hat Developer Blog` · 관련도 2.6

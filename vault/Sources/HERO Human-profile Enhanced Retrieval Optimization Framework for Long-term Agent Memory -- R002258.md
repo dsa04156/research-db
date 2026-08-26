@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`32W2V347`)
 - 발행일: 2026-08-23T09:19:34Z
 - 저자: Yuanhua Lin, Yile Li, Zhiyuan Zhao, Jing Shang, Jian Sun
 - 식별자: `arxiv:2608.22310`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`FNZGFF6B`)
 - 발행일: 2026-08-24T11:50:19Z
 - 저자: Jingyi Su, Yihao Zhang, Dianxuan Fu, Leiyan Fei, Juan Wang, Mengfan Dai, Qing Liu, Xiong Wu, Yufeng Jiang, Cheng Chen, Bowen Zhang, Peilong Wang, Xi Chen, Zonglong He, Hongchen Yu, Zhicheng Ye, Weisheng Hu, Qunbi Zhuge
 - 식별자: `arxiv:2608.23145`

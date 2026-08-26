@@ -6,4 +6,4 @@ Principles that apply to all skills. Read as a mandatory checklist during any sk
 
 ## Active Principles
 
-_No active principles yet._
+No active cross-cutting principles yet.

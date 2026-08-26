@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "ai-agents"
 generated_by: codex-research-db
-source_count: 920
+source_count: 932
 ---
 
 # AI agents
 
 Tool-using, long-horizon, multi-agent and autonomous AI systems.
 
-연결된 자료: **920개**
+연결된 자료: **932개**
 
 ## 자료
 
@@ -123,6 +123,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/🧠 Most people jump straight to building AI agents. The best AI engineers start one layer below -- R001567|🧠 Most people jump straight to building AI agents. The best AI engineers start one layer below. Think of every production AI system as 3 lay]] — 2026-07-29 · `social:tiktok` · 관련도 5.2
 - [[vault/Sources/LLM-Centric Agentic AI for UAV Swarms Architecture, Enabling Technologies, and Open Problems -- R000096|LLM-Centric Agentic AI for UAV Swarms: Architecture, Enabling Technologies, and Open Problems]] — 2026-07-05 · `arxiv` · 관련도 5.2
 - [[vault/Sources/GoalfyMax A Protocol-Driven Multi-Agent System for Intelligent Experience Entities -- R000671|GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities]] — 2025-07-13 · `arxiv` · 관련도 5.2
+- [[vault/Sources/How telemetry pipelines keep AI agent costs under control -- R002317|How telemetry pipelines keep AI agent costs under control]] — 2026-08-25 · `rss:The New Stack` · 관련도 5.1
 - [[vault/Sources/Stop the token bleed building token-efficient multi-agent systems -- R002217|Stop the token bleed: building token-efficient multi-agent systems]] — 2026-08-20 · `rss:The New Stack` · 관련도 5.1
 - [[vault/Sources/Physics of Agents Statistical Mechanics Predicts Collective Behavior of AI Agents -- R002091|Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents]] — 2026-08-17 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Multi-Agent AI Safety as an Institutional Design Problem -- R001860|Multi-Agent AI Safety as an Institutional Design Problem]] — 2026-08-10 · `arxiv` · 관련도 5.1
@@ -259,7 +260,13 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Remember When It Matters Proactive Memory Agent for Long-Horizon Agents -- R001003|Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents]] — 2026-07-09 · `arxiv` · 관련도 4.5
 - [[vault/Sources/A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing -- R001368|A Delta-Aware Orchestration Framework for Scalable Multi-Agent Edge Computing]] — 2026-04-22 · `arxiv` · 관련도 4.5
 - [[vault/Sources/SVAgent AI Agent for Hardware Security Verification Assertion -- R000624|SVAgent: AI Agent for Hardware Security Verification Assertion]] — 2025-07-22 · `arxiv` · 관련도 4.5
+- [[vault/Sources/Referee Report — arXiv 2606.04329 Memory Poisoning Resolving a Conflicting-Claims Discrepancy Th -- R002311|Referee Report — arXiv:2606.04329 "Memory Poisoning": Resolving a Conflicting-Claims Discrepancy Through Primary-Source Verification]] — 2026-08-24 · `openalex` · 관련도 4.4
 - [[vault/Sources/DreamBench-SWE A Multi-Session Memory-Hygiene Benchmark for Software Agents -- R002172|DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents]] — 2026-08-21 · `arxiv` · 관련도 4.4
+- [[vault/Sources/Agentic AI as a catalyst for enhancing risk management and organizational resilience in service -- R002309|Agentic AI as a catalyst for enhancing risk management and organizational resilience in service sector: challenges, opportunities and theoretical directions]] — 2026-08-27 · `crossref` · 관련도 4.3
+- [[vault/Sources/OpenAI’s Jalapeño chip tackles a problem AI agents make worse -- R002319|OpenAI’s Jalapeño chip tackles a problem AI agents make worse]] — 2026-08-25 · `rss:The New Stack` · 관련도 4.3
+- [[vault/Sources/AI agents are spreading fast. Their rules are still catching up -- R002320|AI agents are spreading fast. Their rules are still catching up.]] — 2026-08-25 · `rss:The New Stack` · 관련도 4.3
+- [[vault/Sources/vLLM-iOS 88% Faster Multi-Agent Inference on iOS -- R002323|vLLM-iOS: 88% Faster Multi-Agent Inference on iOS]] — 2026-08-25 · `social:hackernews` · 관련도 4.3
+- [[vault/Sources/Show HN A portable evidence record for what an AI agent ran -- R002322|Show HN: A portable evidence record for what an AI agent ran]] — 2026-08-25 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt -- R002268|NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt]] — 2026-08-24 · `rss:NVIDIA Technical Blog` · 관련도 4.3
 - [[vault/Sources/NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories -- R002269|NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories]] — 2026-08-24 · `rss:NVIDIA Technical Blog` · 관련도 4.3
 - [[vault/Sources/Does Rank Still Matter Position Bias When AI Agents Shop on Our Behalf -- R002253|Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf]] — 2026-08-24 · `arxiv` · 관련도 4.3
@@ -697,6 +704,9 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/Octo-planner On-device Language Model for Planner-Action Agents -- R000254|Octo-planner: On-device Language Model for Planner-Action Agents]] — 2024-06-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/STEVE Series Step-by-Step Construction of Agent Systems in Minecraft -- R000273|STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft]] — 2024-06-17 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AgileCoder Dynamic Collaborative Agents for Software Development based on Agile Methodology -- R000275|AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology]] — 2024-06-16 · `arxiv` · 관련도 2.6
+- [[vault/Sources/How to evaluate LLMs before production -- R002316|How to evaluate LLMs before production]] — 2026-08-25 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/Introducing Portable Computer -- R002329|Introducing Portable Computer]] — 2026-08-25 · `web:Perplexity` · 관련도 2.5
+- [[vault/Sources/Headlong a microharness for persistent agents -- R002327|Headlong: a microharness for persistent agents]] — 2026-08-25 · `web:Laude` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-sdk==0.4.3 -- R002149|langchain-ai/langgraph langgraph-sdk==0.4.3]] — 2026-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/GitHub Copilot app for Beginners Managing your work -- R002136|GitHub Copilot app for Beginners: Managing your work]] — 2026-08-19 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/kagent-dev kagent v0.10.0-rc3 -- R002123|kagent-dev/kagent v0.10.0-rc3]] — 2026-08-18 · `github-release` · 관련도 2.5
@@ -768,7 +778,9 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/microsoft autogen python-v0.7.4 -- R001513|microsoft/autogen python-v0.7.4]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.7.3 -- R001514|microsoft/autogen python-v0.7.3]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.6.1 -- R000973|microsoft/autogen python-v0.6.1]] — 2025-06-05 · `github-release` · 관련도 2.5
+- [[vault/Sources/Perplexity’s Computer agent can now run locally — if you can afford it -- R002318|Perplexity’s Computer agent can now run locally — if you can afford it]] — 2026-08-25 · `rss:The New Stack` · 관련도 2.3
 - [[vault/Sources/Right-Sizing LLM-Agent Decomposition in VAT Determination A Pilot Controlled Sweep -- R002247|Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep]] — 2026-08-24 · `arxiv` · 관련도 2.3
+- [[vault/Sources/Portability of a Disk-Anchored Agent Identity Across Foundation Models A Blind, Internally Pre-S -- R002310|Portability of a Disk-Anchored Agent Identity Across Foundation Models: A Blind, Internally Pre-Sealed A/B Comparison]] — 2026-08-24 · `openalex` · 관련도 2.3
 - [[vault/Sources/Poetic Heritage for Culturally Grounded Emotional Support An Interaction Design Framework and It -- R002254|Poetic Heritage for Culturally Grounded Emotional Support: An Interaction Design Framework and Its Multimodal Agentic Instantiation]] — 2026-08-23 · `arxiv` · 관련도 2.3
 - [[vault/Sources/The Variance of Thought Policy Variance, Critical Forks, and Local Credit Assignment -- R002257|The Variance of Thought: Policy Variance, Critical Forks, and Local Credit Assignment]] — 2026-08-23 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction -- R002261|Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction]] — 2026-08-23 · `arxiv` · 관련도 2.3

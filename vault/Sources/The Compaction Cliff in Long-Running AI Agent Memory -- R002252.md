@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`VBIPPSFB`)
 - 발행일: 2026-08-24T03:21:56Z
 - 저자: Saber Zerhoudi, Jelena Mitrovic, Michael Granitzer
 - 식별자: `doi:10.1145/3799682.3840567`

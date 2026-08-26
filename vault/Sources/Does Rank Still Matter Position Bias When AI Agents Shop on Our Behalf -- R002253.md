@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`PVSM3UJP`)
 - 발행일: 2026-08-24T01:22:28Z
 - 저자: Davood Wadi, Yu Ma
 - 식별자: `arxiv:2608.22697`

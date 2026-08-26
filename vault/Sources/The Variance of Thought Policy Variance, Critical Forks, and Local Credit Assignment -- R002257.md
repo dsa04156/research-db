@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6S2RM6I3`)
 - 발행일: 2026-08-23T15:46:56Z
 - 저자: Yingru Li
 - 식별자: `arxiv:2608.22467`

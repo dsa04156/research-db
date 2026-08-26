@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `web:TrueForge GitHub`
 - 검토 상태: `pending`
+- Zotero: created (`5URC877S`)
 - 발행일: 2026-08-20
 - 저자: TrueFoundry
 - 식별자: `url:da9d91cfb8d4282b2cf7e478de652deb6526344916d21724a09eb38efc7cfdcc`

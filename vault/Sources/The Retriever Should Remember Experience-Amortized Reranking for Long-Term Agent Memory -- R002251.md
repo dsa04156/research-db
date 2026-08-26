@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-25|2026-08-25]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`26FCR6ZF`)
 - 발행일: 2026-08-24T03:42:03Z
 - 저자: Qi Feng, Chris Ding, Jicong Fan
 - 식별자: `arxiv:2608.22767`
