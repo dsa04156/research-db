@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 337
+source_count: 349
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **337개**
+연결된 자료: **349개**
 
 ## 자료
 
@@ -19,6 +19,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity -- R000988|Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity]] — 2026-07-15 · `arxiv` · 관련도 6.3
 - [[vault/Sources/SKIMIX Multi-Agent Harness-Time Scaling with Skill Mixture for Dynamic Harness Engineering -- R001601|SKIMIX: Multi-Agent Harness-Time Scaling with Skill Mixture for Dynamic Harness Engineering]] — 2026-07-30 · `arxiv` · 관련도 5.5
 - [[vault/Sources/Learn AI Harness Engineering in 14 Minutes With Kimi K3 & Qwen 3.8-Max -- R001911|Learn AI Harness Engineering in 14 Minutes   With Kimi K3 & Qwen 3.8-Max]] — 2026-08-07 · `social:youtube` · 관련도 5.4
+- [[vault/Sources/Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses -- R002332|Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses]] — 2026-08-25 · `arxiv` · 관련도 5.1
 - [[vault/Sources/I have previously explored the idea of self-improving self-evolving agents. Many of the papers I -- R002276|I have previously explored the idea of self-improving/self-evolving agents. Many of the papers I have read focus on improving the agent harn]] — 2026-08-23 · `social:linkedin` · 관련도 5.1
 - [[vault/Sources/We’ve open-sourced HarnessRouter in Silicon Valley the world’s first unified interface for agent -- R002054|We’ve open-sourced HarnessRouter in Silicon Valley: the world’s first unified interface for agent harnesses. With one API, developers can br]] — 2026-08-16 · `social:tiktok` · 관련도 5.1
 - [[vault/Sources/DeepSeek open sources an agent harness where everything is a plugin -- R001997|DeepSeek open sources an agent harness where everything is a plugin]] — 2026-08-13 · `rss:The New Stack` · 관련도 5.1
@@ -40,7 +41,10 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/NOVA A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Sys -- R001026|NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems]] — 2026-06-25 · `arxiv` · 관련도 4.6
 - [[vault/Sources/A Survey of Self-Evolving Agents What, When, How, and Where to Evolve on the Path to Artificial -- R000588|A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence]] — 2025-07-28 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Truly Self-Improving Agents Require Intrinsic Metacognitive Learning -- R000551|Truly Self-Improving Agents Require Intrinsic Metacognitive Learning]] — 2025-06-05 · `arxiv` · 관련도 4.6
+- [[vault/Sources/Meta$ n$ Recursive Self-Improvement through Emergent Depth -- R002334|Meta$^n$: Recursive Self-Improvement through Emergent Depth]] — 2026-08-25 · `arxiv` · 관련도 4.3
+- [[vault/Sources/The Empire, Long Divided, Must Unite Architectural Convergence in Three LLM Agent Harnesses -- R002335|The Empire, Long Divided, Must Unite: Architectural Convergence in Three LLM Agent Harnesses]] — 2026-08-25 · `arxiv` · 관련도 4.3
 - [[vault/Sources/So COOL...someone just built THE OFFICE theme agent harness. Claude Code, Codex, Antigravity, an -- R002324|So COOL...someone just built THE OFFICE theme agent harness. Claude Code, Codex, Antigravity, and Cursor working with each other on your ex]] — 2026-08-25 · `social:threads` · 관련도 4.3
+- [[vault/Sources/Beyond Executable Models The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark fo -- R002337|Beyond Executable Models: The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark for Physical System Modeling]] — 2026-08-24 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Info bansos AI terbaru buat yang butuh API gratisan. Bisa langsung dicolok ke 9router, n8n, atau -- R002293|Info bansos AI terbaru buat yang butuh API gratisan. Bisa langsung dicolok ke 9router, n8n, atau agent harness kalian. Modelnya lumayan ken]] — 2026-08-24 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Agent = Model + Harness。Model 是引擎,Harness 是底盘——你坐的地方。 Earendil 寫了一篇給非技術讀者的解釋。Agent harness 做四件事 -- R002292|Agent = Model + Harness。Model 是引擎，Harness 是底盘——你坐的地方。 Earendil 寫了一篇給非技術讀者的解釋。Agent harness 做四件事： 1 System prompt — 告訴 model 它是誰、該怎麼行為。像新員工]] — 2026-08-24 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Comment MEMORY and i’ll send you the full agent harness memory breakdown, the four tiers, how in -- R002274|Comment MEMORY and i’ll send you the full agent harness memory breakdown, the four tiers, how information moves between them, and the templa]] — 2026-08-24 · `social:tiktok` · 관련도 4.3
@@ -108,6 +112,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/A Survey of Context Engineering for Large Language Models -- R000547|A Survey of Context Engineering for Large Language Models]] — 2025-07-17 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Development and prospective validation of a prostate cancer detection, grading, and workflow opt -- R000566|Development and prospective validation of a prostate cancer detection, grading, and workflow optimization system at an academic medical center]] — 2024-10-31 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Couler Unified Machine Learning Workflow Optimization in Cloud -- R000180|Couler: Unified Machine Learning Workflow Optimization in Cloud]] — 2024-03-12 · `arxiv` · 관련도 4.3
+- [[vault/Sources/A Programming Paradigm for Spatiotemporal Composability -- R002127|A Programming Paradigm for Spatiotemporal Composability]] — 2026-08-13 · `web:Cordiverse` · 관련도 4.1
 - [[vault/Sources/Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1 -- R001008|Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1]] — 2026-07-07 · `arxiv` · 관련도 4.1
 - [[vault/Sources/Evo-Bench Can Language Models Improve Agent Harness -- R001851|Evo-Bench: Can Language Models Improve Agent Harness?]] — 2026-08-10 · `arxiv` · 관련도 3.8
 - [[vault/Sources/FMRP-LEAN A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflo -- R000019|FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization]] — 2026-07-22 · `arxiv` · 관련도 3.8
@@ -136,6 +141,8 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA Nemo -- R001471|Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw]] — 2026-06-02 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/Darwin Gödel Machine Open-Ended Evolution of Self-Improving Agents -- R000573|Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents]] — 2025-07-20 · `openalex` · 관련도 3.5
 - [[vault/Sources/Darwin Godel Machine Open-Ended Evolution of Self-Improving Agents -- R000552|Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents]] — 2025-05-29 · `arxiv` · 관련도 3.5
+- [[vault/Sources/Anchoring Bias in LLM-as-a-Judge Systems Prior Scores Compromise Evaluation Independence -- R002330|Anchoring Bias in LLM-as-a-Judge Systems: Prior Scores Compromise Evaluation Independence]] — 2026-08-26 · `arxiv` · 관련도 3.4
+- [[vault/Sources/JIT-Agent Scaling Harness Intelligence via Just-in-Time Harness Evolution -- R002331|JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution]] — 2026-08-26 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Demystifying Agent Skills Why They Work-Until They Don't -- R002085|Demystifying Agent Skills: Why They Work-Until They Don't]] — 2026-08-14 · `arxiv` · 관련도 3.4
 - [[vault/Sources/PATH-Bench Path-Dependent Evaluation of Lifelong Agents -- R001731|PATH-Bench: Path-Dependent Evaluation of Lifelong Agents]] — 2026-08-02 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Stop Shipping AI Agents on Faith Capability Is Not Production Readiness -- R001602|Stop Shipping AI Agents on Faith: Capability Is Not Production Readiness]] — 2026-07-30 · `arxiv` · 관련도 3.4
@@ -154,6 +161,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/MiDojo Improve AI agent security with real-world red-teaming -- R001893|MiDojo: Improve AI agent security with real-world red-teaming]] — 2026-08-10 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/The Harness Effect How Orchestration Design Sets the Token Economics of Enterprise Agentic AI -- R001006|The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI]] — 2026-07-08 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters -- R000570|Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters]] — 2024-08-06 · `arxiv` · 관련도 2.9
+- [[vault/Sources/Exploit More, Explore Smarter for Budget-Constrained Agentic Search -- R002336|Exploit More, Explore Smarter for Budget-Constrained Agentic Search]] — 2026-08-24 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Learning Generalizable Behaviors for Terminal Agents -- R002244|Learning Generalizable Behaviors for Terminal Agents]] — 2026-08-23 · `arxiv` · 관련도 2.6
 - [[vault/Sources/4 Skills Every AI Engineer Needs in 2026 AI engineering is no longer just about knowing how to b -- R002275|4 Skills Every AI Engineer Needs in 2026 AI engineering is no longer just about knowing how to build with LLMs. After analyzing thousands]] — 2026-08-22 · `social:instagram` · 관련도 2.6
 - [[vault/Sources/Large Language Models at the Intersection of Software Engineering and Software Security An Evide -- R002156|Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda]] — 2026-08-21 · `arxiv` · 관련도 2.6
@@ -192,6 +200,9 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/GitHub Copilot app for Beginners Automate Dependabot pull request triage -- R002369|GitHub Copilot app for Beginners: Automate Dependabot pull request triage]] — 2026-08-26 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/The Harness Is the Thing -- R002377|The Harness Is the Thing]] — 2026-08-26 · `web:Scott Fryxell` · 관련도 2.5
+- [[vault/Sources/VMs won't contain cyber-capable agents -- R002375|VMs won't contain cyber-capable agents]] — 2026-08-26 · `web:Trail of Bits` · 관련도 2.5
 - [[vault/Sources/How to evaluate LLMs before production -- R002316|How to evaluate LLMs before production]] — 2026-08-25 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/Introducing Portable Computer -- R002329|Introducing Portable Computer]] — 2026-08-25 · `web:Perplexity` · 관련도 2.5
 - [[vault/Sources/Headlong a microharness for persistent agents -- R002327|Headlong: a microharness for persistent agents]] — 2026-08-25 · `web:Laude` · 관련도 2.5
@@ -203,7 +214,6 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.21.1 -- R002034|openai/openai-agents-python v0.21.1]] — 2026-08-16 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.21.0 -- R002035|openai/openai-agents-python v0.21.0]] — 2026-08-15 · `github-release` · 관련도 2.5
 - [[vault/Sources/How to bring your software delivery workflow into GitHub with agent apps -- R002029|How to bring your software delivery workflow into GitHub with agent apps]] — 2026-08-14 · `rss:GitHub AI and ML` · 관련도 2.5
-- [[vault/Sources/A Programming Paradigm for Spatiotemporal Composability -- R002127|A Programming Paradigm for Spatiotemporal Composability]] — 2026-08-13 · `web:Cordiverse` · 관련도 2.5
 - [[vault/Sources/Bullet Fast, by design -- R002009|Bullet: Fast, by design]] — 2026-08-13 · `web:Bullet` · 관련도 2.5
 - [[vault/Sources/DeepSeek Harness Everything is a Plugin -- R002007|DeepSeek Harness: Everything is a Plugin]] — 2026-08-13 · `web:DeepSeek` · 관련도 2.5
 - [[vault/Sources/Write your first prompt with the GitHub Copilot app -- R001972|Write your first prompt with the GitHub Copilot app]] — 2026-08-12 · `rss:GitHub AI and ML` · 관련도 2.5
@@ -257,7 +267,9 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.17.5 -- R001502|openai/openai-agents-python v0.17.5]] — 2026-06-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-cli==0.4.28 -- R001511|langchain-ai/langgraph langgraph-cli==0.4.28]] — 2026-06-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Prime Agent A self-improving RLM agent for coding workflows -- R001937|Prime Agent: A self-improving RLM agent for coding workflows]] — 2026-05-08 · `web:Prime Intellect GitHub` · 관련도 2.5
+- [[vault/Sources/StarHarness Evolving Harnesses with Stratified Search for Enterprise Environments -- R002333|StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments]] — 2026-08-25 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Today we’re launching Portable Computer on @NVIDIA DGX Spark. Portable Computer is a fully local -- R002325|Today we’re launching Portable Computer on @NVIDIA DGX Spark. Portable Computer is a fully local version of Perplexity Computer, where the]] — 2026-08-25 · `social:threads` · 관련도 2.3
+- [[vault/Sources/Feedback That Backfires Why Small Language Model Agents Repeat the Call They Just Watched Fail -- R002338|Feedback That Backfires: Why Small Language Model Agents Repeat the Call They Just Watched Fail]] — 2026-08-24 · `arxiv` · 관련도 2.3
 - [[vault/Sources/How do you structure context for handoffs between ChatGPT and Claude -- R002237|How do you structure context for handoffs between ChatGPT and Claude?]] — 2026-08-23 · `social:reddit` · 관련도 2.3
 - [[vault/Sources/Applying Anthropic Primitives at Large Enterprises Harness Paradigm for Knowledge Work -- R002159|Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work]] — 2026-08-20 · `arxiv` · 관련도 2.3
 - [[vault/Sources/What is a Harness -- R002241|What is a Harness?]] — 2026-08-20 · `web:Earendil` · 관련도 2.3

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 491
+source_count: 494
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **491개**
+연결된 자료: **494개**
 
 ## 자료
 
@@ -196,6 +196,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Gradient-Congruity Guided Federated Sparse Training -- R000497|Gradient-Congruity Guided Federated Sparse Training]] — 2024-05-02 · `arxiv` · 관련도 3.6
 - [[vault/Sources/AdaptSFL Adaptive Split Federated Learning in Resource-constrained Edge Networks -- R000532|AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks]] — 2024-03-19 · `arxiv` · 관련도 3.6
 - [[vault/Sources/Intelligent Resource Orchestration for 5G Edge Infrastructures -- R000357|Intelligent Resource Orchestration for 5G Edge Infrastructures]] — 2024-03-19 · `openalex` · 관련도 3.6
+- [[vault/Sources/Self-Optimizing Enterprise RAG+SQL Knowledge Agents Unified Retrieval, Schema-Aware Query Transl -- R002361|Self-Optimizing Enterprise RAG+SQL Knowledge Agents: Unified Retrieval, Schema-Aware Query Translation, Event Graph Reasoning, and Adaptive Model Routing]] — 2026-08-25 · `openalex` · 관련도 3.5
 - [[vault/Sources/A Double-Sided Walrasian Auction Mechanism for Decentralized Resource Allocation in Collaborativ -- R002312|A Double-Sided Walrasian Auction Mechanism for Decentralized Resource Allocation in Collaborative Multi-Access Edge Computing]] — 2026-08-24 · `openalex` · 관련도 3.5
 - [[vault/Sources/Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control -- R002134|Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control]] — 2026-08-19 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/Jetson-ORB-SLAM3 Accuracy-Preserving GPU Implementation for Edge Computing Devices -- R002199|Jetson-ORB-SLAM3: Accuracy-Preserving GPU Implementation for Edge Computing Devices]] — 2026-08-18 · `arxiv` · 관련도 3.5
@@ -264,6 +265,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.55.0 -- R001524|ray-project/ray Ray-2.55.0]] — 2026-04-15 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.54.0 -- R001526|ray-project/ray Ray-2.54.0]] — 2026-02-18 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 2.8
+- [[vault/Sources/Traffic-Adaptive Per-Hop Multipath Routing in Multi-Hop UAV Networks -- R002364|Traffic-Adaptive Per-Hop Multipath Routing in Multi-Hop UAV Networks]] — 2026-08-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based -- R002201|A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based smart metering systems]] — 2026-08-22 · `openalex` · 관련도 2.6
 - [[vault/Sources/Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks -- R002116|Heterogeneity-Aware Belief Synchronization for Semantic Communication in AI-Native 6G Networks]] — 2026-08-13 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Agentic Artificial Intelligence for Information Fusion -- R002023|Agentic Artificial Intelligence for Information Fusion]] — 2026-08-13 · `openalex` · 관련도 2.6
@@ -336,6 +338,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260827.1 -- R002374|cloudflare/workerd v1.20260827.1]] — 2026-08-27 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260826.1 -- R002321|cloudflare/workerd v1.20260826.1]] — 2026-08-26 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260825.1 -- R002272|cloudflare/workerd v1.20260825.1]] — 2026-08-25 · `github-release` · 관련도 2.5
 - [[vault/Sources/Introducing Portable Computer -- R002329|Introducing Portable Computer]] — 2026-08-25 · `web:Perplexity` · 관련도 2.5

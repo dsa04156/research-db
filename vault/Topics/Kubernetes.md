@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 565
+source_count: 568
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **565개**
+연결된 자료: **568개**
 
 ## 자료
 
@@ -24,6 +24,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Scalable Cloud-Native Architecture for Automated Anomaly Detection and Intelligent Response in K -- R000752|Scalable Cloud-Native Architecture for Automated Anomaly Detection and Intelligent Response in Kubernetes and AKS Platforms]] — 2025-06-17 · `openalex` · 관련도 8.2
 - [[vault/Sources/MAS-H2 A Hierarchical Multi-Agent System for Holistic Cloud-Native Autoscaling -- R001203|MAS-H2: A Hierarchical Multi-Agent System for Holistic Cloud-Native Autoscaling]] — 2026-03-08 · `arxiv` · 관련도 8.0
 - [[vault/Sources/Kubernetes chaos engineering at scale Krkn Operator Developer Preview in Red Hat Advanced Cluste -- R002139|Kubernetes chaos engineering at scale: Krkn Operator Developer Preview in Red Hat Advanced Cluster Management]] — 2026-08-17 · `rss:Red Hat Developer Blog` · 관련도 7.9
+- [[vault/Sources/Kubernetes v1.37 Garhwal -- R002365|Kubernetes v1.37: Garhwal]] — 2026-08-26 · `rss:Kubernetes Blog` · 관련도 7.8
 - [[vault/Sources/Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems via an Automated Online D -- R000699|Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems via an Automated Online Design Framework]] — 2025-05-26 · `arxiv` · 관련도 7.2
 - [[vault/Sources/GPU scheduling isn’t enough anymore. For years, Kubernetes treated hardware like a simple resour -- R001622|GPU scheduling isn’t enough anymore. For years, Kubernetes treated hardware like a simple resource request. CPU Memory 2 GPUs That model]] — 2026-07-06 · `social:linkedin` · 관련도 7.1
 - [[vault/Sources/Reconciling the Past Correcting Records for Unfixed Kubernetes CVEs -- R001414|Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs]] — 2026-05-26 · `rss:Kubernetes Blog` · 관련도 6.9
@@ -102,6 +103,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 5.4
 - [[vault/Sources/Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN -- R000306|Implementation of New Security Features in CMSWEB Kubernetes Cluster at CERN]] — 2024-05-24 · `arxiv` · 관련도 5.4
 - [[vault/Sources/PerfTune360 Self-Optimizing AI Framework for Cloud-Native Microservices -- R000367|PerfTune360: Self-Optimizing AI Framework for Cloud-Native Microservices]] — 2024-01-01 · `openalex` · 관련도 5.4
+- [[vault/Sources/kubernetes kubernetes v1.37.0 -- R002373|kubernetes/kubernetes v1.37.0]] — 2026-08-26 · `github-release` · 관련도 5.3
 - [[vault/Sources/Stop trying to learn all of Kubernetes at once -- R002315|Stop trying to learn all of Kubernetes at once]] — 2026-08-25 · `rss:CNCF Blog` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.35.8 -- R002225|kubernetes/kubernetes v1.35.8]] — 2026-08-20 · `github-release` · 관련도 5.3
 - [[vault/Sources/kubernetes kubernetes v1.34.11 -- R002226|kubernetes/kubernetes v1.34.11]] — 2026-08-20 · `github-release` · 관련도 5.3
@@ -486,6 +488,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/AI-Powered Anomaly Detection in Cloud-Based Applications -- R000375|AI-Powered Anomaly Detection in Cloud-Based Applications]] — 2024-01-01 · `openalex` · 관련도 2.6
 - [[vault/Sources/Incremental DRL-Based Resource Management for Dynamic Network Slicing in an Urban-Wide Testbed -- R000328|Incremental DRL-Based Resource Management for Dynamic Network Slicing in an Urban-Wide Testbed]] — 2023-10-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Modern Software Development for JUNO offline software -- R000330|Modern Software Development for JUNO offline software]] — 2023-09-25 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Governance guidance for CNCF projects Choosing the right structure for your project’s size and s -- R002366|Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage]] — 2026-08-26 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/How to turn slow queries into actionable reliability metrics with OpenTelemetry -- R002205|How to turn slow queries into actionable reliability metrics with OpenTelemetry]] — 2026-08-21 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Kyverno is a platform primitive, not a security tool -- R002133|Kyverno is a platform primitive, not a security tool]] — 2026-08-19 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/LLMOps and platform engineering Who should own the AI pipeline -- R001996|LLMOps and platform engineering: Who should own the AI pipeline?]] — 2026-08-13 · `rss:CNCF Blog` · 관련도 2.5

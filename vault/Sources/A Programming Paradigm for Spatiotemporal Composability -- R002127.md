@@ -6,14 +6,14 @@ source: "web:Cordiverse"
 published: "2026-08-13"
 first_seen: "2026-08-19"
 review_status: "pending"
-canonical_key: "url:0d554e69cad10efd4a02e537ba0cb170d54629b027a4664427428a2f784840f0"
+canonical_key: "arxiv:2608.25512"
 url: "https://github.com/cordiverse/paper"
 generated_by: codex-research-db
 aliases:
   - "A Programming Paradigm for Spatiotemporal Composability"
 topics:
-  - "ai-agents"
   - "self-evolving-harness"
+  - "ai-agents"
 ---
 
 # A Programming Paradigm for Spatiotemporal Composability
@@ -22,19 +22,17 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/AI agents]], [[vault/Topics/Self-evolving harness]]
+- 주제: [[vault/Topics/Self-evolving harness]], [[vault/Topics/AI agents]]
 - 최초 수집: [[vault/Daily/2026-08-19|2026-08-19]]
 - 수집 채널: `web:Cordiverse`
 - 검토 상태: `pending`
 - Zotero: created (`AUSFK9K6`)
 - 발행일: 2026-08-13
-- 저자: Cordiverse
-- 식별자: `url:0d554e69cad10efd4a02e537ba0cb170d54629b027a4664427428a2f784840f0`
+- 저자: Yifan Shi, Wei Zhang, Tianyi Cui
+- 식별자: `arxiv:2608.25512`
 
 ## 요약·초록
 
-플러그인과 자기진화형 에이전트 하네스에서 구성 요소 제거 시 부작용을 되돌리는 시간적 조합성과, 구성 요소 의존성을 선언·반응형으로 관리하는 공간적 조합성을 함께 다루는 프리프린트다. Cordis 구현을 제시하지만 저자 스스로 활발히 수정 중인 초안이라고 명시한다. SNS에서 DeepSeek 논문으로 소개됐으나 공식 저장소에서는 그 귀속을 확인할 수 없다.
+Modern software -- from plugin systems to self-evolving agent harnesses -- increasingly requires dynamic composition, yet its formal foundations remain underdeveloped. We identify two orthogonal dimensions of the problem: temporal composability, the ability to completely revert a component's side effects upon removal, and spatial composability, the ability to declare and reactively manage inter-component dependencies. We address the two dimensions by lifting classical effect and coeffect concepts to runtime mechanisms. In particular, we formalize revertible effects, in which every context transformation carries an inverse that the runtime holds, establishing temporal composability local to one component. We formalize reactive coeffects, in which every context change is classified against a component's coeffect specification to drive its activation and deactivation, establishing spatial composability local to one component. We then unify the effect context and the coeffect context into a single context type and mediate every effect and coeffect through it, yielding a discipline we call the context paradigm; the mediation induces an observational equivalence up to which the effects of distinct components interleave without disturbing one another. Combining these mechanisms into the notion of a component, we give a calculus of dynamic composition whose metatheory carries spatiotemporal composability from a single component to a whole system of interleaved components. We implement these ideas in Cordis, a meta-framework of spatiotemporal composability that provides a core library with effect tracking and coeffect resolution, as well as a declarative component loader with configuration reconciliation and hot module replacement.
 
 ## 내 메모
-
-
