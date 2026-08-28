@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `rss:CNCF Blog`
 - 검토 상태: `pending`
+- Zotero: created (`7TABI6ZK`)
 - 발행일: 2026-08-26T11:30:00+00:00
 - 식별자: `url:5a45282ab1103067b1497862c91d181d188b23a2f9cd16ed353beaabde22f721`
 
@@ -34,3 +35,5 @@ topics:
 Clear patterns have emerged from governance reviews across 72 CNCF projects, distinguishing between what the CNCF requires at each maturity level versus what the data recommends for long-term project health. This post captures those patterns as...
 
 ## 내 메모
+
+

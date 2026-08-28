@@ -36,3 +36,5 @@ topics:
 What will you create at the edge? 🧠📶📸 The MediaTek MT8875 5G IoT Platform is built to power next-generation edge AI IoT applications with GenAI, Wi-Fi 7, and rich I/O and multimedia support. Built on a 4nm process, it features enhanced, octa-core CPU architecture with 4 performance cores and 4 efficiency cores for breakthrough performance with advanced NPU, 3GPP Release 17 5G, Wi-Fi 6E with flexible Wi-Fi 7 support, and more. Explore the MediaTek MT8875: https://bit.ly/3S7IYUX
 
 ## 내 메모
+
+

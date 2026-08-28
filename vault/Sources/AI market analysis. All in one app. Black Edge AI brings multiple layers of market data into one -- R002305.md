@@ -36,3 +36,5 @@ topics:
 AI market analysis. All in one app. Black Edge AI brings multiple layers of market data into one analysis from Order Flow, CVD, Liquidity, SMC, Open Interest, and market structure. Instead of switching between different tools, let AI process the data and turn it into a clear market bias. One app. Multiple data layers. AI powered analysis. #BlackEdgeAI #AITrading #CryptoAI #CryptoTrading #MarketAnalysis
 
 ## 내 메모
+
+

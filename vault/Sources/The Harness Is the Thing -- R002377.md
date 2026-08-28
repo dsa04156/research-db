@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `web:Scott Fryxell`
 - 검토 상태: `pending`
+- Zotero: created (`I38ZBUV2`)
 - 발행일: 2026-08-26
 - 저자: Scott Fryxell
 - 식별자: `url:8733f2da8d1fde78a75a854be66c92beb207489b0e7ff3c06b62df26556f85ca`
@@ -35,3 +36,5 @@ topics:
 Scott Fryxell describes a personal coding harness shared across Cursor, Claude, and Pi through common skills and AGENTS.md. The workflow separates exploration, planning, worker, critic, and promotion stages, uses scripts for repeatable work, confines artifacts for auditability, and routes only selected tasks to frontier models; the reported 75 percent reduction in frontier-model usage is a single-user observation, not an independent benchmark.
 
 ## 내 메모
+
+

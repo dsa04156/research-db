@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `rss:GitHub AI and ML`
 - 검토 상태: `pending`
+- Zotero: created (`FDTXEK4X`)
 - 발행일: 2026-08-26T20:12:53+00:00
 - 식별자: `url:9b368ab3b44b71646ac31c56aeacafc116c8c183c551b967038957d535a25386`
 
@@ -35,3 +36,5 @@ topics:
 Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog .
 
 ## 내 메모
+
+

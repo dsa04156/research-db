@@ -34,3 +34,5 @@ topics:
 Perplexity, in partnership with Nvidia, has taken Computer, its agentic AI assistant, and brought it to the desktop as Portable The post Perplexity’s Computer agent can now run locally — if you can afford it appeared first on The New Stack .
 
 ## 내 메모
+
+

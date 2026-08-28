@@ -36,3 +36,5 @@ topics:
 這是 Pi 第二版的設計規格，還蠻值得看的，怎麼感覺只有 Pi 在認真做 harness啊？ 簡單來說 Pi 的第二版想把 AI Agent 從「呼叫 LLM + 跑 tool 的 while loop」，升級成一個即使程式 crash、重啟、tool 跑到一半、使用者中途插話，都能可靠恢復，而且可以精確測試每個 crash point 的持久工作流引擎 可以把它想成 LLM agent + database WAL + Git branches + workflow engine 的混合體 https://github.com/earendil-works/pi/blob/harness-v2/j4/packages/agent/docs/harness-v2.md
 
 ## 내 메모
+
+

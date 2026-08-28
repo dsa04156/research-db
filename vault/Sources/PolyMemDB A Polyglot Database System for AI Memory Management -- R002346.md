@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`CVSD6IUG`)
 - 발행일: 2026-08-26T09:38:02Z
 - 저자: Yu Wang, Jiaheng Lu
 - 식별자: `arxiv:2608.25577`
@@ -34,3 +35,5 @@ topics:
 With the widespread adoption of personal intelligent agents, users generate massive, heterogeneous data during long-term interactions. Leveraging this data as long-term memory helps reduce token overhead and deliver personalized experiences. However, existing memory systems face two primary limitations: they rely on single-storage paradigms that fragment multi-dimensional data, and they lack fine-grained data provenance to resolve long-term factual conflicts, thereby worsening LLM hallucinations. In this demonstration, we introduce PolyMemDB, a novel system tailored for managing agent memory. PolyMemDB has a polyglot storage architecture designed to track and manage various memory types, including graph, vector, probability and spatial-temporal data. To ensure factual consistency and reduce hallucinations, it features a probabilistic inference engine that integrates temporal decay with semiring aggregation, resolving long-term factual conflicts, providing detailed data provenance, and enabling users to trace reasoning chains transparently.
 
 ## 내 메모
+
+

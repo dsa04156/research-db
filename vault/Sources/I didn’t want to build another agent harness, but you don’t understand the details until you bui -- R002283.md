@@ -36,3 +36,5 @@ topics:
 I didn’t want to build another agent harness, but you don’t understand the details until you build one from scratch. So I did, and kept iterating on it. Here's dadloop V2: https://lnkd.in/gCaxk-qM No
 
 ## 내 메모
+
+

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 494
+source_count: 496
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **494개**
+연결된 자료: **496개**
 
 ## 자료
 
@@ -98,6 +98,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/LLMscope Extracting LLM Assets from Edge AI Chips via Optical Probing -- R002386|LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing]] — 2026-08-26 · `kurate` · 관련도 4.3
 - [[vault/Sources/NVIDIA 8 25 正式發布 Jetson Orin Nano 2,定位就是 entry-level edge AI robotics computer。官方重點包括 78 TOPS AI -- R002326|NVIDIA 8/25 正式發布 Jetson Orin Nano 2，定位就是 entry-level edge AI / robotics computer。官方重點包括：78 TOPS AI 算力、8GB 記憶體、8-core Arm CPU、推論效能是前代 Jetson]] — 2026-08-25 · `social:threads` · 관련도 4.3
 - [[vault/Sources/What will you create at the edge 🧠📶📸 The MediaTek MT8875 5G IoT Platform is built to power next- -- R002298|What will you create at the edge? 🧠📶📸 The MediaTek MT8875 5G IoT Platform is built to power next-generation edge AI IoT applications with G]] — 2026-08-25 · `social:threads` · 관련도 4.3
 - [[vault/Sources/If you're looking to streamline your operations with AI, check out Coral NPU. It's a robust plat -- R002302|If you're looking to streamline your operations with AI, check out Coral NPU. It's a robust platform that makes deploying edge AI a breeze.]] — 2026-08-24 · `social:threads` · 관련도 4.3
@@ -163,6 +164,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Improved Methods of Task Assignment and Resource Allocation with Preemption in Edge Computing Sy -- R000530|Improved Methods of Task Assignment and Resource Allocation with Preemption in Edge Computing Systems]] — 2024-03-23 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Internet of Agentic Things Networked AI Agents for Closed-Loop IoT Orchestration -- R000092|Internet of Agentic Things: Networked AI Agents for Closed-Loop IoT Orchestration]] — 2026-07-14 · `arxiv` · 관련도 4.2
 - [[vault/Sources/LASSY A Latency-Aware SLOs-Sufficing Scheduling System for the Cloud Edge Continuum -- R000763|LASSY: A Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum]] — 2025-05-19 · `openalex` · 관련도 4.2
+- [[vault/Sources/Secure RIS-enabled blockchain-assisted task co-offloading in D2D-MEC networks for industrial IoT -- R002382|Secure RIS-enabled blockchain-assisted task co-offloading in D2D-MEC networks for industrial IoT: a federated learning approach]] — 2026-08-25 · `openalex` · 관련도 4.0
 - [[vault/Sources/Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments -- R001167|Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments]] — 2026-05-15 · `arxiv` · 관련도 4.0
 - [[vault/Sources/Designing AI-first financial inclusion platforms using low-latency cloud services for emerging m -- R000851|Designing AI-first financial inclusion platforms using low-latency cloud services for emerging markets]] — 2025-07-01 · `openalex` · 관련도 4.0
 - [[vault/Sources/FAuNO Semi-Asynchronous Federated Reinforcement Learning Framework for Task Offloading in Edge S -- R000907|FAuNO: Semi-Asynchronous Federated Reinforcement Learning Framework for Task Offloading in Edge Systems]] — 2025-06-03 · `arxiv` · 관련도 4.0

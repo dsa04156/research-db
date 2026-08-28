@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `rss:The New Stack`
 - 검토 상태: `pending`
+- Zotero: created (`W2MJM73M`)
 - 발행일: 2026-08-26T16:33:23+00:00
 - 식별자: `url:74afe7a8b7213cf453f3591cb171d8c08a6435bcde7edd73cb76b0b8da3327b2`
 
@@ -33,3 +34,5 @@ topics:
 Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack .
 
 ## 내 메모
+
+

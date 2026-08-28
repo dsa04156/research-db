@@ -36,3 +36,5 @@ topics:
 Kubernetes can run your AI workload. But Kubernetes + GPU is a very different problem from simply adding a GPU to a server. When you deploy LLMs, the real challenge is not: “How do I attach a GPU t
 
 ## 내 메모
+
+

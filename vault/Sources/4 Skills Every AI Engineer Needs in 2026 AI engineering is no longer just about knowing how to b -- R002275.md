@@ -36,3 +36,5 @@ topics:
 So Andrew Ng recently shared an AI engineering skill map and honestly, it could not be more accurate. Now, if you haven't seen it, let me quickly explain it to you. So his team analyzed more than 10,000 job postings, interviewed AI experts and hiring managers and identified four skills that actually matter. The first is building and deploying AI application. This includes understanding LLMs, context engineering, RAG, agents, machine learning and deep learning. But building the application is only half the job. AI outputs are unpredictable. So you also need eval, error analysis, observability, guardrails, and a way to continuously improve the system. So the second is software engineering fundamentals, and I cannot emphasize on this enough. Coding agents...
 
 ## 내 메모
+
+

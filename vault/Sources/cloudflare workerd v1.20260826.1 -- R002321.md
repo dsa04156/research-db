@@ -36,3 +36,5 @@ topics:
 ## What's Changed * Fix node:fs cp to handle symlinks when copying into subdirectories by @ryanking13 in https://github.com/cloudflare/workerd/pull/7098 * Provide agent guidance on JSG_TRY vs. js.tryCatch by @jasnell in https://github.com/cloudflare/workerd/pull/7067 * Add ioContext.createObject by @jasnell in https://github.com/cloudflare/workerd/pull/7086 * Opencode agent/skill surgery by @jasnell in https://github.com/cloudflare/workerd/pull/7095 * 08-24-26 Build maintenance by @fhanau in https://github.com/cloudflare/workerd/pull/7104 * always copy websocket tags by @mikea in https://github.com/cloudflare/workerd/pull/7088 * BRAPI-1553: Add response metadata to Browser Run types by @BernardoPe in https://github.com/cloudflare/workerd/pull/7002 * Implement TS DigestStream by @jasnell in https://github.com/cloudflare/workerd/pull/7119 ## New Contributors * @BernardoPe made their first contribution in https://github.com/cloudflare/workerd/pull/7002 **Full Changelog**: https://github.com/cloudflare/workerd/compare/v1.20260825.1...v1.20260826.1
 
 ## 내 메모
+
+

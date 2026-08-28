@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`EKCDJFE8`)
 - 발행일: 2026-08-25
 - 저자: Harshil Lodhiya
 - 식별자: `doi:10.21203/rs.3.rs-10798738/v1`
@@ -34,3 +35,5 @@ topics:
 _수집된 요약이 없습니다._
 
 ## 내 메모
+
+

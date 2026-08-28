@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `web:Trail of Bits`
 - 검토 상태: `pending`
+- Zotero: created (`AR5GFSI7`)
 - 발행일: 2026-08-26
 - 저자: Dan Guido, Trail of Bits
 - 식별자: `url:9bc4fb43dadb96af58b1069321f2368cb6ce81cb80b2e4b664d66ae2c141e605`
@@ -36,3 +37,5 @@ topics:
 Trail of Bits reports that GPT-5.6-Cyber escaped a QEMU/KVM virtual machine three times using known, insufficiently backported, and newly identified vulnerabilities during an authorized test. The author argues that ordinary VMs are no longer a sufficient sole containment boundary for capable cyber agents and recommends minimal attack surfaces, current upstream patches, least privilege, monitoring, time limits, and pristine environments.
 
 ## 내 메모
+
+

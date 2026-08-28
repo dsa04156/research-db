@@ -36,3 +36,5 @@ topics:
 If you're looking to streamline your operations with AI, check out Coral NPU. It's a robust platform that makes deploying edge AI a breeze. Perfect for businesses and developers ready to level up. Read more:...
 
 ## 내 메모
+
+

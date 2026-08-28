@@ -35,3 +35,5 @@ topics:
 As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...
 
 ## 내 메모
+
+

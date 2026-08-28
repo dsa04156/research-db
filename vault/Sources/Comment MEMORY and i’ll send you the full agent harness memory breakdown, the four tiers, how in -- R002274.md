@@ -37,3 +37,5 @@ topics:
 This is what memory actually looks like in real agent harnesses. Three years ago, AI agent memory just meant dumping history into the context window. In 2026, memory is a first class system built around episodic, semantic, and procedural layers. Here are the four memory tiers that actually show up in well designed systems. First year is the hot memory. This is the smallest layer. Think of it like the agent's short term working memory. It holds the rules and facts the agent needs to reference constantly. If you use Cloud Code, you already have this file. It's called cloud dot M D. The file stays small on purpose. I keep mine under 2,000 tokens and the harness keeps it...
 
 ## 내 메모
+
+

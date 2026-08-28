@@ -36,3 +36,5 @@ topics:
 AI isn't one technology — it's an ecosystem. Machine Learning, Computer Vision, NLP, Neural Networks, Reinforcement Learning, Robotics, Data & Big Data, AI Ethics, Generative AI, Edge AI. Ten building blocks. One future. Understanding how they connect is what sets AI-literate professionals apart in 2026. Which one are you most curious about? 👇 📌 Save this for later. #artificialintelligence #machinelearning #upskill #futurenextacademy #aiecosystem
 
 ## 내 메모
+
+

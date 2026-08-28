@@ -36,3 +36,5 @@ topics:
 Your AI agent gets way more useful once it has a real browser. 5 GitHub repos I’d start with 🌐 1. Browser Use — 109.7k ⭐ Probably the best starting point for browser agents. https://topgit.dev/repo/browser-use/browser-use 2. Stagehand — 24k ⭐ AI actions + reliable browser automation. https://topgit.dev/repo/browserbase/stagehand 3. Browser Harness — 16.8k ⭐ Give Claude Code / Codex direct control of Chrome. https://topgit.dev/repo/browser-use/browser-harness 4.
 
 ## 내 메모
+
+

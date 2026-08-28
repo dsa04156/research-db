@@ -36,3 +36,5 @@ topics:
 NVIDIA 8/25 正式發布 Jetson Orin Nano 2，定位就是 entry-level edge AI / robotics computer。官方重點包括：78 TOPS AI 算力、8GB 記憶體、8-core Arm CPU、推論效能是前代 Jetson Orin Nano Super 的 2 倍，而且在相同效能下功耗低 40%。產品預計 2027 年上半年上市。(NVIDIA Newsroom) 更重要的是，NVIDIA 明確把應用場景指向： robots delivery / inspection drones vision AI home robotics edge autonomous systems 而且官方稱，有超過 300 萬名開發者建立在 NVIDIA robotics stack 上，Cognex、Doosan Bobcat、Matic、Wing 等都已經開始採用或評估。 我會把這件事分成三層看。
 
 ## 내 메모
+
+

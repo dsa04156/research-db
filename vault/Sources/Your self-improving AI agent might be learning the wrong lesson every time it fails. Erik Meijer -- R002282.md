@@ -36,3 +36,5 @@ topics:
 Your self improving AI agent might be learning the wrong lesson every time it fails. Eric Major just shared his research paper and said if your agent has any kind of self improvement loop, give it the paper and tell it to incorporate it. The idea is surprisingly simple. When your agent makes a mistake, don't let it create an overly specific rule to prevent that exact mistake. Make it learn the most general rule that would've prevented it. So instead of stripe rate limited me, wait 30 seconds, it learns if an external service rate limits me, check its retry instructions before continuing. Now one mistake improves the agent across hundreds of future situations. The paper calls this choosing...
 
 ## 내 메모
+
+

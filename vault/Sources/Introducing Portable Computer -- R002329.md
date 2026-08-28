@@ -38,3 +38,5 @@ topics:
 Perplexity introduced Portable Computer, a local version of Perplexity Computer for NVIDIA DGX Spark. The orchestrator, subagents and harness can run on-device, private data remains local, and local work does not consume credits; cloud escalation remains opt-in.
 
 ## 내 메모
+
+

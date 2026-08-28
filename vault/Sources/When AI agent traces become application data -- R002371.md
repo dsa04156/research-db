@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `rss:The New Stack`
 - 검토 상태: `pending`
+- Zotero: created (`HJ949P4M`)
 - 발행일: 2026-08-26T13:00:00+00:00
 - 식별자: `url:b70de027dd2966ad5824c1b1b3494556bc4a7fb51eb5cb2aaabae080b754d83a`
 
@@ -33,3 +34,5 @@ topics:
 Say a test starts failing and a developer hands it to a coding agent. It digs into the relevant files, The post When AI agent traces become application data appeared first on The New Stack .
 
 ## 내 메모
+
+

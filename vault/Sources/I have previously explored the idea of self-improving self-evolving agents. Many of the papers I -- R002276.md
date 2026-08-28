@@ -36,3 +36,5 @@ topics:
 I have previously explored the idea of self-improving/self-evolving agents. Many of the papers I have read focus on improving the agent harness itself: optimizing prompts, memories, tools, skills, plu
 
 ## 내 메모
+
+

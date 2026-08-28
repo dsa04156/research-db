@@ -36,3 +36,5 @@ topics:
 Laude and MIT introduce Headlong, an open-source persistent-agent microharness whose core is 9.9K lines of Bash. It uses a self-guided thought loop, tiered context compaction, and a DAG trajectory, while warning that continuous agents need sandboxing, spend caps, and external restart guards.
 
 ## 내 메모
+
+

@@ -35,3 +35,5 @@ topics:
 The problem: Humans shouldn’t be correlation engines At Atlassian’s scale, hundreds of interconnected microservices distributed across multiple regions mean a production incident generates an overwhelming volume of telemetry. The problem is that finding the causal factor...
 
 ## 내 메모
+
+

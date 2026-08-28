@@ -36,3 +36,5 @@ topics:
 Today we’re launching Portable Computer on @NVIDIA DGX Spark. Portable Computer is a fully local version of Perplexity Computer, where the entire runtime: orchestrator LLM, subagent LLM, agent harness all run on your local hardware. No cloud dependency.
 
 ## 내 메모
+
+

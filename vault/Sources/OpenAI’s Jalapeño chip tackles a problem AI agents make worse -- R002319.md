@@ -34,3 +34,5 @@ topics:
 When OpenAI unveiled Jalapeño, its first custom inference chip, in June, the company made some big promises. The chip, developed The post OpenAI’s Jalapeño chip tackles a problem AI agents make worse appeared first on The New Stack .
 
 ## 내 메모
+
+

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `rss:InfoQ`
 - 검토 상태: `pending`
+- Zotero: created (`826FEUJS`)
 - 발행일: 2026-08-26T07:00:00+00:00
 - 식별자: `url:28d909d8bd5a199e58c3c373808d135c8443927c9a443a87ba783a1114fbf929`
 
@@ -33,3 +34,5 @@ topics:
 Diagrid Catalyst 2.0 applies Dapr-based recovery, signed workflow history and execution attestation across several agent frameworks. Architects should compare it with framework-native durability and established workflow engines, while evaluating benchmark evidence and operational trade-offs. By Mark Silvester
 
 ## 내 메모
+
+

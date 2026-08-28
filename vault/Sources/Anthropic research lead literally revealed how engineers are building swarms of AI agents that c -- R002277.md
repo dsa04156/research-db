@@ -36,3 +36,5 @@ topics:
 Hi, everyone, my name is Theo. I'm a Research Product Manager at anthropic. I work on our long horizon capabilities, such as long context and memory capabilities in our models. I joined a little, uh, about two years ago, right when Sonic 5, uh, Sonic 3 5 had recently launched. At the time, agents were barely a word that people were using. Um, there were just signs of life that the models could even do coding, uh, at all. People were still focused on chat completions, um, autonomy. And agent autonomy was something that was still kind of a new concept around this time last year, uh, when I go back to code with Claude. Uh, last year, Opus 4...
 
 ## 내 메모
+
+

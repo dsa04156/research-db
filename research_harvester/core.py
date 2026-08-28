@@ -21,6 +21,20 @@ TRACKING_QUERY_KEYS = {
     "source",
 }
 
+SOCIAL_HOSTS = {
+    "linkedin.com",
+    "reddit.com",
+    "threads.net",
+    "tiktok.com",
+    "youtube.com",
+}
+
+
+def is_social_url(value: Any) -> bool:
+    host = urlsplit(normalize_space(value)).hostname or ""
+    host = host.lower().removeprefix("www.")
+    return host in SOCIAL_HOSTS or any(host.endswith(f".{item}") for item in SOCIAL_HOSTS)
+
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
@@ -520,8 +534,11 @@ class ResearchStore:
                 identity_rank = {"title": 0, "url": 1, "arxiv": 2, "doi": 3}
                 existing_key_type = str(existing["canonical_key"]).partition(":")[0]
                 incoming_key_type = incoming_key.partition(":")[0]
+                promote_primary = not incoming_is_social and (
+                    existing_is_social or is_social_url(existing["url"])
+                )
                 promote_identity = (
-                    existing_is_social and not incoming_is_social
+                    promote_primary
                 ) or identity_rank.get(incoming_key_type, 0) > identity_rank.get(
                     existing_key_type, 0
                 )
@@ -540,8 +557,8 @@ class ResearchStore:
                         title_year=?,
                         doi=COALESCE(doi, ?),
                         arxiv_id=COALESCE(arxiv_id, ?),
-                        url=CASE WHEN url IS NULL OR url='' THEN ? ELSE url END,
-                        canonical_url=CASE WHEN canonical_url IS NULL OR canonical_url='' THEN ? ELSE canonical_url END,
+                        url=CASE WHEN ? THEN ? WHEN url IS NULL OR url='' THEN ? ELSE url END,
+                        canonical_url=CASE WHEN ? THEN ? WHEN canonical_url IS NULL OR canonical_url='' THEN ? ELSE canonical_url END,
                         abstract=?,
                         authors_json=?,
                         container_title=CASE WHEN container_title IS NULL OR container_title='' THEN ? ELSE container_title END,
@@ -566,7 +583,11 @@ class ResearchStore:
                         year if promote_identity else existing["title_year"],
                         doi,
                         arxiv_id,
+                        promote_primary,
                         item.get("url"),
+                        item.get("url"),
+                        promote_primary,
+                        canonical_url,
                         canonical_url,
                         best_abstract,
                         json.dumps(best_authors, ensure_ascii=False),

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-27|2026-08-27]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`IH86KIK3`)
 - 발행일: 2026-08-26T01:34:36Z
 - 저자: Asmaa Eldesoukey, Md Zulfiqur Haider, Italo Napolitano, Yongxin Chen, Abhishek Halder
 - 식별자: `arxiv:2608.25281`
@@ -34,3 +35,5 @@ topics:
 Paradigmatic interaction models explain how collective behaviors can emerge in complex systems from interactions among the constituent agents. In bio-inspired swarms, however, interactions alone may not suffice to bring the population to a desired aggregate configuration within a prescribed time horizon, as needed in applications ranging from targeted therapy to collective transport and emergency evacuation. In the present work, we consider finite-horizon minimum-energy collective steering for inertial swarms that are subject to stochastic disturbances. We focus on the mean-field representations of these multi-agent systems driven by Cucker--Smale alignment or Morse attraction--repulsion interactions. Our objective is to steer the swarm between prescribed endpoint distributions using a state-feedback control, where the endpoint specifications can be full phase-space distributions (positions and velocities) or position marginals alone. Our formalism is rooted in the theory of Schrödinger bridges, which has inspired contemporary developments spanning statistical inference, biological modeling, stochastic control, and generative learning. Within the bridges framework, the uncontrolled interacting stochastic dynamics are viewed as a prior model, and the optimal control as the minimum-energy corrective drift needed to realize the prescribed distributions. We derive nonlinear, coupled necessary optimality systems with a time-symmetric structure reminiscent of classical Schrödinger bridges, and propose nested fixed-point schemes to numerically solve them. Numerical examples show that the obtained optimal control (corrective drift) can dynamically exploit or counteract the interaction forces, depending on whether the latter are favorable or adversarial to the steering task.
 
 ## 내 메모
+
+

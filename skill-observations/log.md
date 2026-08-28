@@ -52,3 +52,18 @@ Observations captured during task-oriented work.
 **Suggested improvement:** Emit an explicit per-source status such as `skipped_by_quick_mode`, and preserve the host plan's source list in the machine-readable coverage report.
 
 **Principle:** Optimization modes must report every requested source as searched, skipped, failed, or unavailable; silence is not a zero-result signal.
+
+### Observation 4: Discovery clusters can overstate independent corroboration
+
+**Status:** OPEN
+**Date:** 2026-08-28
+**Session context:** Daily trend discovery grouped a framework-free agent notebook with an unrelated Framework laptop post, and grouped several distinct local-model, WASM-harness, and security items under one trend label.
+**Skill:** last30days
+**Type:** open-source
+**Phase/Area:** Discovery clustering and trend validation
+
+**Issue:** Keyword overlap can place unrelated results from different platforms in one candidate cluster. Counting those platforms as independent corroboration then inflates trend confidence even though the underlying claims and entities differ.
+
+**Suggested improvement:** Require entity and claim compatibility before increasing a candidate's independent-platform count, and expose rejected cluster members with a machine-readable mismatch reason.
+
+**Principle:** Cross-platform corroboration is valid only when independent sources support the same entity and claim, not merely overlapping vocabulary.

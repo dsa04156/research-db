@@ -36,3 +36,5 @@ topics:
 I’m testing out our new coding agent harness. I told it something along the lines of “I need to go to bed. You need to implement a standards compliant C compiler in Swift that is capable of compiling SQLite.”
 
 ## 내 메모
+
+

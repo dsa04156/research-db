@@ -34,3 +34,5 @@ topics:
 Shift-left and DevOps have impacted how we flow changes from inception to production, but at the cost of increased cognitive load and duplication of effort across testing, security, and maintenance. This article explores the real-world challenges of rightsizing developer platforms and finding a cultural match for engineering teams who use them to reduce cognitive load and deliver change faster. By John Keates
 
 ## 내 메모
+
+

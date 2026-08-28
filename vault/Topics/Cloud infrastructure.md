@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 480
+source_count: 481
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **480개**
+연결된 자료: **481개**
 
 ## 자료
 
@@ -199,6 +199,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Agyn An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition a -- R001160|Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access]] — 2026-05-26 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods -- R001214|A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods]] — 2026-01-20 · `arxiv` · 관련도 3.6
 - [[vault/Sources/A distributed architecture of reactive microservices orchestrated by kubernetes case study on lo -- R000754|A distributed architecture of reactive microservices orchestrated by kubernetes case study on load balancing in local cloud]] — 2025-06-12 · `openalex` · 관련도 3.6
+- [[vault/Sources/Building an AI factory on Kubernetes -- R002383|Building an AI factory on Kubernetes]] — 2026-08-27 · `rss:CNCF Blog` · 관련도 3.5
 - [[vault/Sources/NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure -- R002367|NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure]] — 2026-08-26 · `rss:NVIDIA Technical Blog` · 관련도 3.5
 - [[vault/Sources/kubernetes kubernetes v1.37.0 -- R002373|kubernetes/kubernetes v1.37.0]] — 2026-08-26 · `github-release` · 관련도 3.5
 - [[vault/Sources/Serve Markdown to AI Agents with Accept Headers -- R002376|Serve Markdown to AI Agents with Accept Headers]] — 2026-08-26 · `web:Accept Markdown` · 관련도 3.5

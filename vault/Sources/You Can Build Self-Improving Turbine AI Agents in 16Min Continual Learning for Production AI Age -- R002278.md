@@ -36,3 +36,5 @@ topics:
 You Can Build Self-Improving Turbine AI Agents in 16Min: Continual Learning for Production AI Agents This is a full walkthrough of Continual Learning for Production AI Agents. In 16 minutes, we build a Complete Wind Turbine Maintenance Agentic System 5 times, adding Episodic Memory, Evaluation, Learning Signals, Continual Learning, and Controlled Continual Learning, each with its own Gradio UI. Free AI Agents Training + 2 Guides: https://www.maryammiradi.com/free-ai-agents-training?utm_source=youtube_desc AI Agents Mastery: 7 Modules, 16 Projects, 60% OFF: https://www.maryammiradi.com/ai-agen
 
 ## 내 메모
+
+

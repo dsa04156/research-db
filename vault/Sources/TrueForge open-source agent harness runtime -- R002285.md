@@ -35,3 +35,5 @@ topics:
 TrueForge는 model calls, MCP tools, skills, sandboxing, approvals, context management, session state를 하나의 실행 계층에서 제공하는 오픈소스 agent harness다. 로컬 SQLite부터 Postgres·Redis·Helm 기반 hosted mode까지 제시한다.
 
 ## 내 메모
+
+

@@ -36,3 +36,5 @@ topics:
 NVIDIA announced Jetson Orin Nano 2 with 78 TOPS, 8GB memory and an 8-core Arm CPU. NVIDIA states it delivers twice the inference performance of Jetson Orin Nano Super and uses 40 percent less power at the same performance; availability is expected in the first half of 2027.
 
 ## 내 메모
+
+

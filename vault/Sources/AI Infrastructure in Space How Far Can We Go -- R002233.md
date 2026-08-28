@@ -6,7 +6,7 @@ source: "kurate"
 published: "2026-08-21T12:30:22Z"
 first_seen: "2026-08-24"
 review_status: "pending"
-canonical_key: "arxiv:2608.21034"
+canonical_key: "doi:10.48550/arxiv.2608.21034"
 url: "http://arxiv.org/abs/2608.21034v1"
 generated_by: codex-research-db
 aliases:
@@ -27,8 +27,8 @@ topics:
 - 검토 상태: `pending`
 - Zotero: created (`CXC3FPJM`)
 - 발행일: 2026-08-21T12:30:22Z
-- 저자: Qing Li, Qiyang Zhang, Daliang Xu, Tianze Huang, Dingge Zhang, Yihao Zhao, Xiaolong Huang, Jinfeng Wen
-- 식별자: `arxiv:2608.21034`
+- 저자: Qing Li, Qiyang Zhang, Daliang Xu, Tianze Huang, Dingge Zhang, Yihao Zhao, Xiaolong Huang, Jinfeng Wen, Xiameng Hu, Tao Qi, Mengwei Xu, Shangguang Wang, Xuanzhe Liu
+- 식별자: `doi:10.48550/arxiv.2608.21034`
 
 ## 요약·초록
 

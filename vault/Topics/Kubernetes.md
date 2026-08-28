@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 568
+source_count: 571
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **568개**
+연결된 자료: **571개**
 
 ## 자료
 
@@ -160,6 +160,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Object as a Service Simplifying Cloud-Native Development through Serverless Object Abstraction -- R000798|Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction]] — 2024-08-09 · `arxiv` · 관련도 5.3
 - [[vault/Sources/Informed and Assessable Observability Design Decisions in Cloud-Native Microservice Applications -- R000442|Informed and Assessable Observability Design Decisions in Cloud-Native Microservice Applications]] — 2024-06-04 · `openalex` · 관련도 5.3
 - [[vault/Sources/How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API -- R000109|How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server]] — 2026-07-29 · `rss:Kubernetes Blog` · 관련도 5.2
+- [[vault/Sources/KubeCap A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assist -- R002380|KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference]] — 2026-08-27 · `arxiv` · 관련도 5.1
 - [[vault/Sources/The Lazy Pod That Lies Deferred Cost and Failure Semantics of Lazy Container Image Pulling for M -- R002234|The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes]] — 2026-08-19 · `kurate` · 관련도 5.1
 - [[vault/Sources/Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches -- R000046|Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?]] — 2026-07-28 · `arxiv` · 관련도 5.1
 - [[vault/Sources/Cloud-native encryption as a service for IoT -- R001293|Cloud-native encryption as a service for IoT]] — 2026-07-15 · `openalex` · 관련도 5.1
@@ -213,6 +214,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation -- R000791|Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation]] — 2024-10-21 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Analyzing the theoretical merits of scp Loxi scp load balancer for improving the efficiency of l -- R000334|Analyzing the theoretical merits of <scp>Loxi</scp> load balancer for improving the efficiency of load balancing in <scp>5G</scp> ‐edge <scp>IoT</scp> applications based on <scp>Kubernetes</scp>]] — 2024-07-29 · `crossref` · 관련도 4.6
 - [[vault/Sources/Computing in the Era of Large Generative Models From Cloud-Native to AI-Native -- R000365|Computing in the Era of Large Generative Models: From Cloud-Native to AI-Native]] — 2024-01-17 · `openalex` · 관련도 4.6
+- [[vault/Sources/Building an AI factory on Kubernetes -- R002383|Building an AI factory on Kubernetes]] — 2026-08-27 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Automating root cause analysis at scale Multi-signal correlation for cloud native incident respo -- R002267|Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response]] — 2026-08-24 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/German ciphers, telegrams, and cloud native data sovereignty -- R002207|German ciphers, telegrams, and cloud native data sovereignty]] — 2026-08-20 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Cloud Native platform sovereignty through multi-plane architecture -- R002119|Cloud Native platform sovereignty through multi-plane architecture]] — 2026-08-18 · `rss:CNCF Blog` · 관련도 4.5
@@ -499,6 +501,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Lima v2.2 Windows guests and TPM 2.0 emulation -- R000143|Lima v2.2: Windows guests and TPM 2.0 emulation]] — 2026-07-29 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/Scalable Distributed Simulation-Based Testing for Automated Driving Systems -- R002191|Scalable Distributed Simulation-Based Testing for Automated Driving Systems]] — 2026-08-21 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Red Hat Ansible development workspaces for governed automation content creation -- R002213|Red Hat Ansible development workspaces for governed automation content creation]] — 2026-08-21 · `rss:Red Hat Developer Blog` · 관련도 2.3
+- [[vault/Sources/The Substitution Escrow Threshold When Compatible With Becomes Safe Enough to Buy -- R002381|The Substitution Escrow Threshold: When "Compatible With" Becomes Safe Enough to Buy]] — 2026-08-21 · `openalex` · 관련도 2.3
 - [[vault/Sources/Governing trustworthy AI in critical communications infrastructure an ethical and regulatory fra -- R002132|Governing trustworthy AI in critical communications infrastructure: an ethical and regulatory framework for 5G/6G Open RAN and network automation]] — 2026-08-21 · `crossref` · 관련도 2.3
 - [[vault/Sources/Architecting the Red Hat OpenShift AI dashboard for Models-as-a-Service -- R002138|Architecting the Red Hat OpenShift AI dashboard for Models-as-a-Service]] — 2026-08-18 · `rss:Red Hat Developer Blog` · 관련도 2.3
 - [[vault/Sources/CUSTOS Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary -- R002193|CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary]] — 2026-08-17 · `arxiv` · 관련도 2.3

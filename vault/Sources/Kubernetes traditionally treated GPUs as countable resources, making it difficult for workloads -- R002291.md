@@ -36,3 +36,5 @@ topics:
 Kubernetes traditionally treated GPUs as countable resources, making it difficult for workloads to request specific hardware capabilities. The result? Training jobs could land on incompatible GPUs and
 
 ## 내 메모
+
+

@@ -36,3 +36,5 @@ topics:
 BTC was still around $63.7K when Black Edge AI called LONG. Then the move came. $63.7K → $68.1K 📈 The goal isn't to chase the pump. It’s to identify the setup before the crowd sees it. Black Edge AI analyzes market structure, liquidity, order flow, CVD & more in one dashboard. See the setup. Read the flow. Trade with an edge. ⚠️ Not financial advice. Past performance does not guarantee future results. #BlackEdgeAI #Bitcoin #BTC #CryptoTrading #AITrading CryptoAI TradingAI
 
 ## 내 메모
+
+

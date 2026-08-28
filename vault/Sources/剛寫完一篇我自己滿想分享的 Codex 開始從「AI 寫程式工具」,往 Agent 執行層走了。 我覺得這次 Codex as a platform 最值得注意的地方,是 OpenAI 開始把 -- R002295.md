@@ -36,3 +36,5 @@ topics:
 剛寫完一篇我自己滿想分享的： Codex 開始從「AI 寫程式工具」，往 Agent 執行層走了。 我覺得這次 Codex as a platform 最值得注意的地方，是 OpenAI 開始把底層的 Agent harness 開放出來。
 
 ## 내 메모
+
+

@@ -36,3 +36,5 @@ topics:
 📢 WE’RE HIRING: FULL STACK ENGINEER (AI)! Are you innovative, tech-savvy, and passionate about building intelligent systems? We’re looking for a driven Full Stack Engineer (AI) to join PT Informasi Teknologi Indonesia Tbk (Jatis Mobile)! If you love designing modern web architectures, integrating cutting-edge AI technologies, and solving complex technical challenges, this role is for you. 📍 Placement: South Jakarta 📩 How to Apply : Please send your updated CV to https://bit.ly/3U81RYn
 
 ## 내 메모
+
+

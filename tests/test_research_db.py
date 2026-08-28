@@ -176,12 +176,14 @@ class StoreTests(unittest.TestCase):
 
         with self.store.connect() as connection:
             stored = connection.execute(
-                "SELECT canonical_key, source, title, metadata_json FROM items"
+                "SELECT canonical_key, source, title, url, canonical_url, metadata_json FROM items"
             ).fetchone()
 
         self.assertEqual(stored["source"], "official-blog")
         self.assertEqual(stored["canonical_key"], "doi:10.1000/primary")
         self.assertEqual(stored["title"], primary["title"])
+        self.assertEqual(stored["url"], primary["url"])
+        self.assertEqual(stored["canonical_url"], canonicalize_url(primary["url"]))
         self.assertNotIn("evidence_role", json.loads(stored["metadata_json"]))
         self.assertEqual(self.store.status()["social_platforms"][0]["platform"], "linkedin")
 
