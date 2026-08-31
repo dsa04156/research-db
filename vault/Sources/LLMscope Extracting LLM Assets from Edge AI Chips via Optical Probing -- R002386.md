@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`ZW9T2E4P`)
 - 발행일: 2026-08-26T03:06:12Z
 - 저자: Dev Mehta, Lily Dukette, William Folan, Olivia Kochol, Noah Solomon, Shahin Tajik, Fatemeh Ganji
 - 식별자: `arxiv:2608.25321`

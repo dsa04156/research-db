@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`3PXQRMPC`)
 - 발행일: 2026-08-27T06:55:24Z
 - 저자: Yuhao Liu, Yingnan Zhou, Weijie Liu, Yan Jia, Zheli Liu
 - 식별자: `arxiv:2608.26699`

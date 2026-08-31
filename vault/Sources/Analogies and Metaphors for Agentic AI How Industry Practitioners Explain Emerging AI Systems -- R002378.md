@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`6BXUKM47`)
 - 발행일: 2026-08-29
 - 저자: Felix Stundzig, Vincent Heimburg, Manuel Wiesche
 - 식별자: `doi:10.1145/3820253.3820283`

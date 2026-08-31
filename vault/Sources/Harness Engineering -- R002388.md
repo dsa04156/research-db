@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `web:Habitat Thinking`
 - 검토 상태: `pending`
+- Zotero: created (`JWSCWQCT`)
 - 발행일: 2026-08-27
 - 저자: Habitat Thinking
 - 식별자: `url:d12a6e357fbe08151d75ef209478b6dd34b1b197fd3fa9d07168104f80bf20f1`

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `web:GitHub`
 - 검토 상태: `pending`
+- Zotero: created (`RZUZZ662`)
 - 발행일: 2026-08-27
 - 저자: calmrocks
 - 식별자: `url:b34ca6dfe4254569618eb412de916a340297ab7329cc8c9f5668102b8782ee79`

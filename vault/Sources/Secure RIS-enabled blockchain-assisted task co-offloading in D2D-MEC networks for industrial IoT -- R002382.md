@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`WBAUXRZ8`)
 - 발행일: 2026-08-25
 - 저자: Aasem N. Alyahya, Muidh Awadh Algahtani, Amani Ibraheem, Naglaa F. Soliman, Tadani Alyahya, Majed S. Alsayfi, Tasniem Nasser Alyahya, Malik Bader Alazzam
 - 식별자: `doi:10.1038/s41598-026-66722-8`

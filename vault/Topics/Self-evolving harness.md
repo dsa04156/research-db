@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 353
+source_count: 354
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **353개**
+연결된 자료: **354개**
 
 ## 자료
 
@@ -233,6 +233,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/A guide to slash commands in the GitHub Copilot app -- R001818|A guide to slash commands in the GitHub Copilot app]] — 2026-08-06 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/EvoHarness-RL Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents -- R001844|EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents]] — 2026-08-05 · `web:arXiv` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.19.4 -- R001832|openai/openai-agents-python v0.19.4]] — 2026-08-05 · `github-release` · 관련도 2.5
+- [[vault/Sources/Kiro Crew - Persistent Open Source Development Workspace -- R002422|Kiro Crew - Persistent Open Source Development Workspace]] — 2026-08-05 · `web:Kiro` · 관련도 2.5
 - [[vault/Sources/How the GitHub legal team used Copilot CLI to streamline their workflows -- R001754|How the GitHub legal team used Copilot CLI to streamline their workflows]] — 2026-08-04 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.19.3 -- R001760|openai/openai-agents-python v0.19.3]] — 2026-08-04 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.19.2 -- R001658|openai/openai-agents-python v0.19.2]] — 2026-08-01 · `github-release` · 관련도 2.5

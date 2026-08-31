@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`BZJN26AE`)
 - 발행일: 2026-08-26
 - 저자: Fouad Bousetouane
 - 식별자: `doi:10.5281/zenodo.22104713`

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-28|2026-08-28]]
 - 수집 채널: `web:GitHub`
 - 검토 상태: `pending`
+- Zotero: created (`D452D8VI`)
 - 발행일: 2026-08-27
 - 저자: rush86999, Atom contributors
 - 식별자: `url:afee6df70fd516bb5821dc311c12b687d811806e8d3ed252973e30d3c9d03d85`

@@ -6,7 +6,7 @@ source: "arxiv"
 published: "2026-08-24T10:48:21Z"
 first_seen: "2026-08-25"
 review_status: "pending"
-canonical_key: "arxiv:2608.23084"
+canonical_key: "doi:10.48550/arxiv.2608.23084"
 url: "https://arxiv.org/abs/2608.23084v1"
 generated_by: codex-research-db
 aliases:
@@ -28,7 +28,7 @@ topics:
 - Zotero: created (`AGTSU37P`)
 - 발행일: 2026-08-24T10:48:21Z
 - 저자: Ergi Senja, Seyed Mohammad Reza Razavi Zadegan, Philipp Leitner
-- 식별자: `arxiv:2608.23084`
+- 식별자: `doi:10.48550/arxiv.2608.23084`
 
 ## 요약·초록
 
