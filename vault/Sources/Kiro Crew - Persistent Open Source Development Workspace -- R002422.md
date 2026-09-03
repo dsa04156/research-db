@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `web:Kiro`
 - 검토 상태: `pending`
+- Zotero: created (`G9M3KFPW`)
 - 발행일: 2026-08-05
 - 저자: Kiro
 - 식별자: `url:49b2600dc085a99b42f86b374ea84f81b4d96278071bf7850649ce2984727ff2`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`3DNPVWD4`)
 - 발행일: 2026-08-29
 - 저자: Kamar Aldabergenova, Mansiya Kantureyeva, Bulat Serimbetov, Meiramkul Zhasuzakova, Tleugaisha Ospanova, Aizhan Nazyrova
 - 식별자: `doi:10.22266/ijies2026.0930.21`

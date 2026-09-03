@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`B5UXHD5Q`)
 - 발행일: 2026-08-27
 - 저자: Chairote Yaiprasert, Achmad Nizar Hidayanto
 - 식별자: `doi:10.1007/s44447-026-00193-1`

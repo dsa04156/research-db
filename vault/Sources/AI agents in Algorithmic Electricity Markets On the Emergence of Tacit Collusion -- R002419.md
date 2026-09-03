@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`PTAK4GI4`)
 - 발행일: 2026-08-27T09:51:48Z
 - 저자: Jakub Seredyński, Georgios Tsaousoglou
 - 식별자: `arxiv:2608.26896`

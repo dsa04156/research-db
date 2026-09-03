@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`4V2CPWDV`)
 - 발행일: 2026-08-28
 - 저자: Tianyu Luo
 - 식별자: `doi:10.54097/y3v7an10`

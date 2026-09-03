@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`GZ4RTP65`)
 - 발행일: 2026-08-28
 - 저자: Nada Mohamed, Prąsun Chakrabarti, Shashi Kant Gupta
 - 식별자: `doi:10.66279/y29vex64`

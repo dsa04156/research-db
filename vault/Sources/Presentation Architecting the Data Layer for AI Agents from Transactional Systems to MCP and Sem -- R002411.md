@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `rss:InfoQ`
 - 검토 상태: `pending`
+- Zotero: created (`3WPPNUJW`)
 - 발행일: 2026-08-29T11:00:00+00:00
 - 식별자: `url:e7c66c91e5e7d59ea95d9eb46d90972e1b78ed2da9e3f81f6df485d766a6df96`
 

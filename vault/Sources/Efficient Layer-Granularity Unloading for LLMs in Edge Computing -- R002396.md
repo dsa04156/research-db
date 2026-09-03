@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`CEDMIXRD`)
 - 발행일: 2026-09-01
 - 저자: Zhenzheng Li, Zhiqing Tang, Jianxiong Guo, Weijia Jia, Wei Zhao
 - 식별자: `doi:10.1109/tmc.2026.3697118`

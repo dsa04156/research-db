@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`6RPQTVI2`)
 - 발행일: 2026-08-28
 - 저자: M. Jayanthi, A. Sharada Shirisha, K. Ram Mohan Rao
 - 식별자: `doi:10.1007/s10791-026-10504-3`

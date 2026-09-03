@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`9RM9INE2`)
 - 발행일: 2026-09-01
 - 저자: Minghao Liu, Penghui Jia, Wendong Huang, Shixuan Lin, Linhui Guo
 - 식별자: `doi:10.1016/j.epsr.2026.113141`

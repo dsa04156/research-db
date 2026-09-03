@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`83JA6U6M`)
 - 발행일: 2026-09-01
 - 저자: Fuxiao Tan, Kuankuan Qi
 - 식별자: `doi:10.1016/j.aei.2026.104711`

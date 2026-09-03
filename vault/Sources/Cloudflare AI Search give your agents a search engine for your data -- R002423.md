@@ -27,6 +27,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `web:Cloudflare`
 - 검토 상태: `pending`
+- Zotero: created (`RRXC584C`)
 - 발행일: 2026-08-06
 - 저자: Nelson Duarte, Tiago Teles, Anni Wang
 - 식별자: `url:f954d86e102f2f9321c15cd22c5458a8b70d4bb3dfdf98bb385a43e101ff9fd0`

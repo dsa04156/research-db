@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-08-31|2026-08-31]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`4FXEBZ82`)
 - 발행일: 2026-08-27T03:31:24Z
 - 저자: Vinoth Punniyamoorthy, Murali Shankar Dulam, Aswathnarayan Muthukrishnan Kirubakaran, Akshay Deshpande, Nachiappan Chockalingam, Bikesh Kumar, Naga Surya Pasupuleti, Narender Reddy Bitla
 - 식별자: `arxiv:2608.26573`
