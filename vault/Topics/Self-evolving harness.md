@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 380
+source_count: 384
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **380개**
+연결된 자료: **384개**
 
 ## 자료
 
@@ -133,6 +133,8 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/Representing data in words A context engineering approach -- R000562|Representing data in words: A context engineering approach]] — 2025-01-27 · `arxiv` · 관련도 3.8
 - [[vault/Sources/Workflow Optimization for Parallel Split Learning -- R000181|Workflow Optimization for Parallel Split Learning]] — 2024-02-01 · `arxiv` · 관련도 3.8
 - [[vault/Sources/The Red Queen Gödel Machine Co-Evolving Agents and Their Evaluators -- R001027|The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators]] — 2026-06-24 · `arxiv` · 관련도 3.7
+- [[vault/Sources/Autonomous Trust Self-Gating Evaluation as a Prerequisite for Agent-to-Agent Communication at Sc -- R002533|Autonomous Trust: Self-Gating Evaluation as a Prerequisite for Agent-to-Agent Communication at Scale]] — 2026-09-01 · `openalex` · 관련도 3.6
+- [[vault/Sources/Presentation Beyond Prompting Context Engineering for Production-Grade AI -- R002549|Presentation: Beyond Prompting: Context Engineering for Production-Grade AI]] — 2026-09-02 · `rss:InfoQ` · 관련도 3.5
 - [[vault/Sources/EvoUndo Recoverability-Constrained Self-Evolution for LLM Agent Harnesses -- R002435|EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses]] — 2026-08-28 · `arxiv` · 관련도 3.5
 - [[vault/Sources/Hosted agent harnesses designed to integrate with arbitrary tools -- R002483|Hosted agent harnesses designed to integrate with arbitrary tools?]] — 2026-08-26 · `social:reddit` · 관련도 3.5
 - [[vault/Sources/How does your agent harness work -- R002055|How does your agent harness work]] — 2026-08-16 · `social:reddit` · 관련도 3.5
@@ -220,6 +222,8 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Decoding the new AI lingo Loops, harnesses, squads, hill climbing... oh my! -- R002544|Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/How we make AI coding more cost efficient without sacrificing task quality -- R002545|How we make AI coding more cost efficient without sacrificing task quality]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-sdk==0.4.4 -- R002385|langchain-ai/langgraph langgraph-sdk==0.4.4]] — 2026-08-27 · `github-release` · 관련도 2.5
 - [[vault/Sources/GitHub Copilot app for Beginners Automate Dependabot pull request triage -- R002369|GitHub Copilot app for Beginners: Automate Dependabot pull request triage]] — 2026-08-26 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/The Harness Is the Thing -- R002377|The Harness Is the Thing]] — 2026-08-26 · `web:Scott Fryxell` · 관련도 2.5

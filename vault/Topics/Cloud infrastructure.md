@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 501
+source_count: 508
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **501개**
+연결된 자료: **508개**
 
 ## 자료
 
@@ -89,6 +89,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Mitigating Temporal Blindness in Kubernetes Autoscaling An Attention-Double-LSTM Framework -- R001192|Mitigating Temporal Blindness in Kubernetes Autoscaling: An Attention-Double-LSTM Framework]] — 2026-03-21 · `arxiv` · 관련도 4.7
 - [[vault/Sources/Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games Edge-Cloud Architectures, Sche -- R000353|Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games: Edge-Cloud Architectures, Scheduling Policies, and Observability Frameworks Aravind Chinnaraju]] — 2024-04-30 · `openalex` · 관련도 4.7
 - [[vault/Sources/Your Mac is now part of Perplexity’s AI infrastructure -- R002523|Your Mac is now part of Perplexity’s AI infrastructure]] — 2026-09-01 · `rss:The New Stack` · 관련도 4.6
+- [[vault/Sources/Serverless edge intelligence for SLA-aware function placement and resource slicing in wireless n -- R002536|Serverless edge intelligence for SLA-aware function placement and resource slicing in wireless networks]] — 2026-09-01 · `openalex` · 관련도 4.6
 - [[vault/Sources/CLASP Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing -- R002476|CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing]] — 2026-08-29 · `kurate` · 관련도 4.6
 - [[vault/Sources/Security challenges in serverless architectures Vulnerabilities and penetration testing approach -- R001803|Security challenges in serverless architectures: Vulnerabilities and penetration testing approaches for AWS Lambda and Google Cloud Functions]] — 2026-08-04 · `openalex` · 관련도 4.6
 - [[vault/Sources/🚀 Belajar Cloud Computing GRATIS + Kesempatan Dapat Merchandise & Bonus Poin! ☁️🎮 Ikuti Google C -- R001633|🚀 Belajar Cloud Computing GRATIS + Kesempatan Dapat Merchandise & Bonus Poin! ☁️🎮 Ikuti Google Cloud Skills Arcade Facilitator 2026 dan ting]] — 2026-07-30 · `social:tiktok` · 관련도 4.6
@@ -178,6 +179,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 4.0
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 4.0
 - [[vault/Sources/AI Factories It's time to rethink the Cloud-HPC divide -- R001290|AI Factories: It's time to rethink the Cloud-HPC divide]] — 2025-09-16 · `arxiv` · 관련도 4.0
+- [[vault/Sources/Kubernetes v1.37 Scale Workloads to Zero with HorizontalPodAutoscaler -- R002542|Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler]] — 2026-09-02 · `rss:Kubernetes Blog` · 관련도 3.9
 - [[vault/Sources/Kubernetes v1.37 Pod Certificates and Cluster Trust Bundles -- R002401|Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles]] — 2026-08-28 · `rss:Kubernetes Blog` · 관련도 3.9
 - [[vault/Sources/Kubernetes v1.37 Metrics API graduates to stable -- R002402|Kubernetes v1.37: Metrics API graduates to stable]] — 2026-08-27 · `rss:Kubernetes Blog` · 관련도 3.9
 - [[vault/Sources/Building a Custom Metrics Exporter for Kubernetes -- R000110|Building a Custom Metrics Exporter for Kubernetes]] — 2026-07-14 · `rss:Kubernetes Blog` · 관련도 3.9
@@ -341,6 +343,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Randomized Polar Codes for Anytime Distributed Machine Learning -- R000393|Randomized Polar Codes for Anytime Distributed Machine Learning]] — 2023-09-01 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Proposing a Dynamic Executive Microservices Architecture Model for AI Systems -- R000397|Proposing a Dynamic Executive Microservices Architecture Model for AI Systems]] — 2023-08-10 · `arxiv` · 관련도 3.1
 - [[vault/Sources/How to Choose Full-Stack Observability for NVIDIA AI Factories -- R001971|How to Choose Full-Stack Observability for NVIDIA AI Factories]] — 2026-08-12 · `rss:NVIDIA Technical Blog` · 관련도 3.0
+- [[vault/Sources/Self–Optimizing AI data systems a systematic literature review of CQLE-Aware query optimization, -- R002538|Self–Optimizing AI data systems: a systematic literature review of CQLE-Aware query optimization, Edge–cloud offloading, Cloud/HPC orchestration, Data–Centric MLOps, and RAG]] — 2026-08-31 · `openalex` · 관련도 2.9
 - [[vault/Sources/Improved failure reports on Red Hat OpenShift with the event-driven diagnostic operator -- R002212|Improved failure reports on Red Hat OpenShift with the event-driven diagnostic operator]] — 2026-08-21 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/Upgrade OpenShift AI faster using an AI coding assistant -- R001819|Upgrade OpenShift AI faster using an AI coding assistant]] — 2026-08-07 · `rss:Red Hat Developer Blog` · 관련도 2.9
 - [[vault/Sources/How we designed customizable dashboards in OpenShift -- R000152|How we designed customizable dashboards in OpenShift]] — 2026-07-27 · `rss:Red Hat Developer Blog` · 관련도 2.9
@@ -381,6 +384,10 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260903.1 -- R002550|cloudflare/workerd v1.20260903.1]] — 2026-09-03 · `github-release` · 관련도 2.5
+- [[vault/Sources/Decoding the new AI lingo Loops, harnesses, squads, hill climbing... oh my! -- R002544|Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/How we make AI coding more cost efficient without sacrificing task quality -- R002545|How we make AI coding more cost efficient without sacrificing task quality]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5
+- [[vault/Sources/Metal3 meets KubeVirtBMC Provisioning KubeVirt VMs like bare metal -- R002543|Metal3 meets KubeVirtBMC: Provisioning KubeVirt VMs like bare metal]] — 2026-09-02 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260902.1 -- R002526|cloudflare/workerd v1.20260902.1]] — 2026-09-02 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260901.1 -- R002475|cloudflare/workerd v1.20260901.1]] — 2026-09-01 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260831.1 -- R002415|cloudflare/workerd v1.20260831.1]] — 2026-08-31 · `github-release` · 관련도 2.5
