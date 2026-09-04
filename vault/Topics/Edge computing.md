@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 526
+source_count: 533
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **526개**
+연결된 자료: **533개**
 
 ## 자료
 
@@ -101,6 +101,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/Hi, I'm Marian Stancik ✦ 🤖 Autonomous AI Agents — 24 7 on dedicated hardware 🛸 UAV Platforms — E -- R002602|Hi, I'm Marian Stancik ✦ 🤖 Autonomous AI Agents — 24/7 on dedicated hardware 🛸 UAV Platforms — Edge AI vision, autonomous missions ⚖️ Law —]] — 2026-09-03 · `social:threads` · 관련도 4.3
 - [[vault/Sources/Semi-Autonomous Prosthesis Control Empowered by 5G and Mobile Edge Computing -- R002466|Semi-Autonomous Prosthesis Control Empowered by 5G and Mobile Edge Computing]] — 2026-08-31 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Edge Computing Nodes New Opportunity of Token Export EdgeComputing AIToken AIInference Distribut -- R002491|Edge Computing Nodes｜New Opportunity of Token Export#EdgeComputing #AIToken #AIInference #DistributedComputing #MorphogenPro3000]] — 2026-08-31 · `social:tiktok` · 관련도 4.3
 - [[vault/Sources/LLMscope Extracting LLM Assets from Edge AI Chips via Optical Probing -- R002386|LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing]] — 2026-08-26 · `kurate` · 관련도 4.3
@@ -284,6 +285,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.55.0 -- R001524|ray-project/ray Ray-2.55.0]] — 2026-04-15 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.54.0 -- R001526|ray-project/ray Ray-2.54.0]] — 2026-02-18 · `github-release` · 관련도 2.8
 - [[vault/Sources/ray-project ray Ray-2.53.0 -- R001527|ray-project/ray Ray-2.53.0]] — 2025-12-20 · `github-release` · 관련도 2.8
+- [[vault/Sources/Iapetus Content-Aware Hierarchical Scheduling for Collaborative ViT Inference in LEO Satellite N -- R002586|Iapetus: Content-Aware Hierarchical Scheduling for Collaborative ViT Inference in LEO Satellite Networks]] — 2026-09-03 · `arxiv` · 관련도 2.6
+- [[vault/Sources/Direct Satellite-to-Device Communications From Cooperative Task Offloading to Non-Cooperative Ac -- R002587|Direct Satellite-to-Device Communications: From Cooperative Task Offloading to Non-Cooperative Access Monitoring]] — 2026-09-02 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Artificial Intelligence Techniques for Autonomous UAV Navigation A Comprehensive Review of Perce -- R002467|Artificial Intelligence Techniques for Autonomous UAV Navigation: A Comprehensive Review of Perception, Path Planning, and Motion Control]] — 2026-08-29 · `openalex` · 관련도 2.6
 - [[vault/Sources/Traffic-Adaptive Per-Hop Multipath Routing in Multi-Hop UAV Networks -- R002364|Traffic-Adaptive Per-Hop Multipath Routing in Multi-Hop UAV Networks]] — 2026-08-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based -- R002201|A reinforcement learning-driven adaptive hybrid PLC-RF communication architecture for IoT-based smart metering systems]] — 2026-08-22 · `openalex` · 관련도 2.6
@@ -358,6 +361,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260904.1 -- R002598|cloudflare/workerd v1.20260904.1]] — 2026-09-04 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260903.1 -- R002550|cloudflare/workerd v1.20260903.1]] — 2026-09-03 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260902.1 -- R002526|cloudflare/workerd v1.20260902.1]] — 2026-09-02 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260901.1 -- R002475|cloudflare/workerd v1.20260901.1]] — 2026-09-01 · `github-release` · 관련도 2.5
@@ -417,6 +421,9 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 2.5
+- [[vault/Sources/Don’t Ignore This AI Semiconductor Trend Intel — I would avoid chasing. NVIDIA — Still the AI en -- R002605|Don’t Ignore This AI Semiconductor Trend Intel — I would avoid chasing. NVIDIA — Still the AI engine. TSM — Core semiconductor supplier. SM]] — 2026-09-03 · `social:threads` · 관련도 2.3
+- [[vault/Sources/My September AI Chip Watchlist Intel — Caution. NVDA — Strong AI exposure. TSM — Semiconductor b -- R002604|My September AI Chip Watchlist Intel — Caution. NVDA — Strong AI exposure. TSM — Semiconductor backbone. SMCI — Volatile. MU — Memory remai]] — 2026-09-03 · `social:threads` · 관련도 2.3
+- [[vault/Sources/One AI Chip Stock I Wouldn’t Ignore Intel — Not buying. NVIDIA — AI engine. TSM — Core pillar. S -- R002603|One AI Chip Stock I Wouldn’t Ignore Intel — Not buying. NVIDIA — AI engine. TSM — Core pillar. SMCI — Too much risk for me. MU — Memory dem]] — 2026-09-03 · `social:threads` · 관련도 2.3
 - [[vault/Sources/I'm 49 years old and already retired from Meta. I'm only going to say this once. Buy before Sept -- R002498|I'm 49 years old and already retired from Meta. I'm only going to say this once. Buy before September 25th. Current Price: $2.95 Target Pric]] — 2026-08-31 · `social:threads` · 관련도 2.3
 - [[vault/Sources/What if an ancient civilization unlocked secrets far beyond our modern technology 👁️✨ REINCARNAT -- R002500|What if an ancient civilization unlocked secrets far beyond our modern technology? 👁️✨ "REINCARNATION" is a cinematic AI short film explori]] — 2026-08-30 · `social:threads` · 관련도 2.3
 - [[vault/Sources/FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution -- R002412|FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution]] — 2026-08-29 · `rss:InfoQ` · 관련도 2.3
