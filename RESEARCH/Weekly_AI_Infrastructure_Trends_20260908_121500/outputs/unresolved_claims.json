@@ -1,0 +1,62 @@
+[
+  {
+    "claim_id": "clm_004",
+    "text": "Environment Evolution은 두 Qwen 계열 모델의 Terminal-Bench 2.1 성능을 각각 14.4와 18.0%p 높였다고 보고했다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_007"
+    ],
+    "counter_search": "공개 논문 원문을 확인했으나 독립 도메인의 재현 연구를 찾지 못했다. 저자 실험 수치를 일반화하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_005",
+    "text": "실행 자원 계약을 미리 제공하면 에이전트 생성 코드의 메모리와 실행시간이 크게 줄어든다는 사전 실험 결과가 보고됐다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_008"
+    ],
+    "counter_search": "단일 사전논문의 통제 실험이며 독립 재현과 다양한 업무 검증을 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_006",
+    "text": "GreenPipe가 Kubernetes 엣지 노드의 DNN 추론 전력 모델링을 개선한다는 성능 주장이 보고됐다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_009"
+    ],
+    "counter_search": "사전논문 외 독립 재현과 장기 현장 운영 자료를 찾지 못해 제품 수준 결론에서 제외했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_007",
+    "text": "HydraFusion은 선택적 멀티모델 오케스트레이션으로 단일 고급 모델 대비 품질을 유지하면서 비용을 낮췄다고 보고했다.",
+    "risk": "high",
+    "claim_type": "numeric",
+    "source_ids": [
+      "src_010"
+    ],
+    "counter_search": "GitHub의 내부 오프라인 평가 외 독립 재현과 실제 비용 자료를 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  }
+]

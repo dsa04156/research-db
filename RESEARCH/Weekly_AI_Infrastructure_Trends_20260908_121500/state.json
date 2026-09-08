@@ -1,0 +1,54 @@
+{
+  "session_id": "Weekly_AI_Infrastructure_Trends_20260908_121500",
+  "topic": "Weekly AI Infrastructure Trends 2026-09-08",
+  "created_at": "2026-09-08T12:15:00+09:00",
+  "updated_at": "2026-09-08T12:22:00+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "primary_window": "2026-09-01/2026-09-08",
+    "timezone": "Asia/Seoul",
+    "exclusions": [
+      "X/Twitter",
+      "lead-only social claims as conclusions",
+      "unreplicated performance numbers as facts"
+    ],
+    "minimum_quality": "two independent domains per verified claim",
+    "output": "Korean weekly synthesis and evidence-backed report"
+  },
+  "plan": {
+    "research_plan": "artifacts/research_plan.json",
+    "agent_assignments": []
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 11,
+  "artifacts": {
+    "research_plan": "artifacts/research_plan.json",
+    "claim_ledger": "artifacts/claim_ledger.jsonl",
+    "sources": "sources/sources.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_weekly_research_report.md"
+  },
+  "errors": [
+    "trend discovery가 동명·무관 영상과 일반 AI 담론을 결합해 교차 플랫폼 수를 과대계상함",
+    "arXiv discovery 보조 검색 일부 timeout; DB에 수집된 원문으로 검증",
+    "Instagram daily/deep 일부 no-results; 0건으로 단정하지 않음"
+  ],
+  "verification": {
+    "passed": true,
+    "signature": "8f09701bb8f6b3b6c8cd587c01012ddc39496ae9acd7a5353299ad40a9c47244",
+    "verified_count": 3,
+    "unresolved_count": 4,
+    "refuted_count": 0,
+    "checked_at": "2026-09-08T02:20:44.732303+00:00",
+    "checker": "validate_ledger.py"
+  }
+}
