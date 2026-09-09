@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `rss:CNCF Blog`
 - 검토 상태: `pending`
+- Zotero: created (`N35M9V5S`)
 - 발행일: 2026-09-04T11:00:00+00:00
 - 식별자: `url:916e335a7f534961a419f3ca8902f04923083ca6d56e55e8216ad205ce5febbb`
 

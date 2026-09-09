@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`TX6PR7N4`)
 - 발행일: 2026-09-03T00:31:43Z
 - 저자: Zeyu Liu, Souvik Kundu, Peter A. Beerel
 - 식별자: `arxiv:2609.03236`

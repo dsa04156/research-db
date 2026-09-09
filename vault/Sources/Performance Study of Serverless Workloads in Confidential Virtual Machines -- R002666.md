@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`NJAIH2PH`)
 - 발행일: 2026-09-03T21:01:13Z
 - 저자: Rikesh Niroula, Jianchen Shan, Xiaoning Ding
 - 식별자: `arxiv:2609.04478`

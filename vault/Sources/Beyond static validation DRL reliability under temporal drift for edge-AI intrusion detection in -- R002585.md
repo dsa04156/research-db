@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`83V8J47F`)
 - 발행일: 2026-09-04
 - 저자: Lakhdar Kachna, Noureddine Chaib
 - 식별자: `doi:10.1108/ijpcc-02-2026-0118`

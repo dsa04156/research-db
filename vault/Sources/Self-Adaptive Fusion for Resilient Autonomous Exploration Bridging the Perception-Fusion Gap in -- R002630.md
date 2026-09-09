@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`24HE6DFQ`)
 - 발행일: 2026-09-04
 - 저자: Ayfer Göksu Bakır, Murat Gökşin Bakir
 - 식별자: `doi:10.58830/ozgur.pub1403.c5650`

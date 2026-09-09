@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`3FIXQRUJ`)
 - 발행일: 2026-09-04
 - 저자: Chiying Hu, Zhenbin Wang
 - 식별자: `doi:10.20517/aiagent.2026.38`

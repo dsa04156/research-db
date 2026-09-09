@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`NUFUGHHF`)
 - 발행일: 2026-09-01T17:59:13Z
 - 저자: Damien Sileo, Dimitri Kachler
 - 식별자: `arxiv:2609.01600`

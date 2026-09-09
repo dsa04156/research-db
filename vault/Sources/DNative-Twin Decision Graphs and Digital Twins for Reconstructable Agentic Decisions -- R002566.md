@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`XPD78E9T`)
 - 발행일: 2026-09-03T12:59:34Z
 - 저자: Junjie Pang, Zhenzhen Xie, Haoke Han, Ying He, Jing Wang, Gang Liu
 - 식별자: `arxiv:2609.03787`

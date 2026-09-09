@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`AXD8HI7D`)
 - 발행일: 2026-09-02T18:07:14Z
 - 저자: Aritra Das, Jaee Ponde, Mihir More, Debayan Gupta
 - 식별자: `arxiv:2609.03035`

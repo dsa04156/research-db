@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`5EFREVFC`)
 - 발행일: 2026-09-02T04:50:09Z
 - 저자: Hongshen Gou, Zuyu Zhang, Yuze Sun, Peng Xu, Feng Tian, Long Wang, Jianguo Wang
 - 식별자: `arxiv:2609.02106`

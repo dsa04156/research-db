@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`X9ET5XW6`)
 - 발행일: 2026-09-08
 - 저자: Raja Kumar, Jayesh Soni, Himanshu Upadhyay, Alexander Perez-Pons
 - 식별자: `doi:10.1007/978-3-032-37274-1_8`

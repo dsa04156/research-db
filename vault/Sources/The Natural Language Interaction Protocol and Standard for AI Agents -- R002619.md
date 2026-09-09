@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`IMEUUAUP`)
 - 발행일: 2026-09-03T17:30:17Z
 - 저자: Luyi Xing, Rasit Onur Topaloglu, Ranjan Sinha, Abhay Ratnaparkhi, Samuel Ndichu, Christopher Nguyen, Anindita Das, Tom Sheffler, Mohamed Rahouti, Zichuan Li, Xiaojing Liao, Sanjay Aiyagari
 - 식별자: `arxiv:2609.04135`

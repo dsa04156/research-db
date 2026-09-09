@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`F8RGIZVV`)
 - 발행일: 2026-09-03T16:17:47Z
 - 저자: M. Frans Kaashoek, Nickolai Zeldovich
 - 식별자: `arxiv:2609.04043`

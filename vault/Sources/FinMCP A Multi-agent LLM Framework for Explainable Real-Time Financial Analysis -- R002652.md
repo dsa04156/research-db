@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`FCWQ43JB`)
 - 발행일: 2026-09-08
 - 저자: Akshat Parmar, Vikranth Udandarao, Abhay Shakya, Tanmay Hire, Avinash Anand, Rajiv Ratn Shah, Daniel Wang Zhengkui
 - 식별자: `doi:10.1007/978-3-032-37685-5_23`

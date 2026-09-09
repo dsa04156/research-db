@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`QMK8A8ZV`)
 - 발행일: 2026-09-02T07:54:23Z
 - 저자: Vansh Wahi
 - 식별자: `arxiv:2609.02246`

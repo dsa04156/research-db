@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`E4RU7SHK`)
 - 발행일: 2026-09-03T21:28:37Z
 - 저자: Duong M. Nguyen, Joon Sik Kim, Blazej Manczak, Vaikkunth Mugunthan
 - 식별자: `arxiv:2609.04495`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`5CDRK7NP`)
 - 발행일: 2026-09-02T02:25:30Z
 - 저자: Sai Huang, Wanli Ni, Ke Lv, Pengcheng Zhang, Yurui Zheng, Menghan Zhang, Zihui Gong, Zhiyong Feng
 - 식별자: `doi:10.1109/mvt.2026.3720837`

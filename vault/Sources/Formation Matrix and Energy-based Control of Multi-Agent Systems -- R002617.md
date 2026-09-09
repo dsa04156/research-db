@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`M4BUT726`)
 - 발행일: 2026-09-03T17:49:06Z
 - 저자: Martín Crespo, Sergio Junco, Matías Nacusse
 - 식별자: `arxiv:2609.04158`

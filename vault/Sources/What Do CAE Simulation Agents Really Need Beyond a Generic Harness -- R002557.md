@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`B6227Z25`)
 - 발행일: 2026-09-03T11:53:17Z
 - 저자: Jiasheng Shi, Tianhan Zhang
 - 식별자: `arxiv:2609.03718`

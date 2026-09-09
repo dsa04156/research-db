@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`W8NXX82N`)
 - 발행일: 2026-09-04T09:57:51Z
 - 저자: Mengxue Wang, Peini Liu, Amir Taherkordi, Jordi Guitart
 - 식별자: `arxiv:2609.04952`

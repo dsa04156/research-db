@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`7BBHUZ5C`)
 - 발행일: 2026-09-02T16:04:07Z
 - 저자: Edvin Ketabati Augustinsson, Robert A. Bridges
 - 식별자: `arxiv:2609.02993`

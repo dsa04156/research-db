@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`JB7K4NZB`)
 - 발행일: 2026-09-07
 - 저자: Sezai Tunca, Elçin Noyan
 - 식별자: `doi:10.1108/rs-07-2026-0059`

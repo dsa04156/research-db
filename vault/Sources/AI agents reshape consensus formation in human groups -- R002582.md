@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`TA5Z3I6K`)
 - 발행일: 2026-09-02T05:25:22Z
 - 저자: Lin Chen, Ziyi Liu, Xia Hu, Yong Li
 - 식별자: `arxiv:2609.02122`

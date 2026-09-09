@@ -2,19 +2,21 @@
 type: research-topic
 topic_id: "ai-agents"
 generated_by: codex-research-db
-source_count: 1130
+source_count: 1138
 ---
 
 # AI agents
 
 Tool-using, long-horizon, multi-agent and autonomous AI systems.
 
-연결된 자료: **1130개**
+연결된 자료: **1138개**
 
 ## 자료
 
 - [[vault/Sources/Harness Engineering for Self-Improvement -- R000001|Harness Engineering for Self-Improvement]] — 2026-07-04 · `seed` · 관련도 10.0
 - [[vault/Sources/A Systematic Review of Autonomous Agentic AI Architectures and Orchestration Strategies for Edge -- R001797|A Systematic Review of Autonomous Agentic AI Architectures and Orchestration Strategies for Edge-to-Cloud Internet of Things Deployments]] — 2026-08-03 · `openalex` · 관련도 9.8
+- [[vault/Sources/Muse Meta's personal AI agent -- R002728|Muse: Meta's personal AI agent]] — 2026-09-08 · `web:Meta AI` · 관련도 9.5
+- [[vault/Sources/A sandbox is only as closed as what an AI agent can reach -- R002729|A sandbox is only as closed as what an AI agent can reach]] — 2026-08-12 · `web:GitLab` · 관련도 8.8
 - [[vault/Sources/Tencent DB Agent Memory just open-sourced a local AI memory system that mimics human long-term r -- R001985|Tencent DB Agent Memory just open-sourced a local AI memory system that mimics human long-term recall. It boosts AI agent efficiency by cutt]] — 2026-08-12 · `social:tiktok` · 관련도 8.2
 - [[vault/Sources/AI Agents vs. Agentic AI A Conceptual Taxonomy, Applications and Challenges -- R000574|AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges]] — 2025-07-20 · `openalex` · 관련도 8.2
 - [[vault/Sources/Enterprise AI Agents From Prototypes to Production -- R001790|Enterprise AI Agents: From Prototypes to Production]] — 2026-08-07 · `openalex` · 관련도 7.9
@@ -317,8 +319,11 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/SimSkill A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation -- R002567|SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation]] — 2026-09-03 · `arxiv` · 관련도 4.4
 - [[vault/Sources/Referee Report — arXiv 2606.04329 Memory Poisoning Resolving a Conflicting-Claims Discrepancy Th -- R002311|Referee Report — arXiv:2606.04329 "Memory Poisoning": Resolving a Conflicting-Claims Discrepancy Through Primary-Source Verification]] — 2026-08-24 · `openalex` · 관련도 4.4
 - [[vault/Sources/DreamBench-SWE A Multi-Session Memory-Hygiene Benchmark for Software Agents -- R002172|DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents]] — 2026-08-21 · `arxiv` · 관련도 4.4
+- [[vault/Sources/After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents -- R002723|After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents]] — 2026-09-08 · `rss:The New Stack` · 관련도 4.3
+- [[vault/Sources/GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access -- R002725|GitLab Warns That AI Agent Sandboxes Are Only as Secure as Their Network Access]] — 2026-09-08 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/AI agents are creating more work, not less — and OpenAI’s own numbers back it up -- R002661|AI agents are creating more work, not less — and OpenAI’s own numbers back it up]] — 2026-09-07 · `rss:The New Stack` · 관련도 4.3
 - [[vault/Sources/Presentation From AI Agent Demo to Production Automated Testing and Evaluation -- R002663|Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation]] — 2026-09-07 · `rss:InfoQ` · 관련도 4.3
+- [[vault/Sources/Agentic AI dual channel fusion for sentiment aware adaptive learning in educational AI tool adop -- R002714|Agentic AI dual channel fusion for sentiment aware adaptive learning in educational AI tool adoption]] — 2026-09-07 · `openalex` · 관련도 4.3
 - [[vault/Sources/How Figma Uses AI Agents for Security -- R002639|How Figma Uses AI Agents for Security]] — 2026-09-06 · `rss:InfoQ` · 관련도 4.3
 - [[vault/Sources/You Can Build an AI Agent Harness in 20min My 5-Step Harness Engineering Loop Legal Agent Projec -- R002667|You Can Build an AI Agent Harness in 20min: My 5-Step Harness Engineering Loop   Legal Agent Project]] — 2026-09-06 · `social:youtube` · 관련도 4.3
 - [[vault/Sources/Trust-Aware Adaptive Disclosure for Inference Privacy Preservation in Multi-Agent Networks -- R002651|Trust-Aware Adaptive Disclosure for Inference Privacy Preservation in Multi-Agent Networks]] — 2026-09-04 · `arxiv` · 관련도 4.3
@@ -768,6 +773,8 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/EgoPrune Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent -- R000629|EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent]] — 2025-07-21 · `arxiv` · 관련도 2.9
 - [[vault/Sources/eSapiens A Platform for Secure and Auditable Retrieval-Augmented Generation -- R000669|eSapiens: A Platform for Secure and Auditable Retrieval-Augmented Generation]] — 2025-07-13 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence -- R000292|Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence]] — 2024-07-26 · `openalex` · 관련도 2.9
+- [[vault/Sources/kagent-dev kagent v0.10.1 -- R002727|kagent-dev/kagent v0.10.1]] — 2026-09-08 · `github-release` · 관련도 2.8
+- [[vault/Sources/openai openai-agents-python v0.22.1 -- R002726|openai/openai-agents-python v0.22.1]] — 2026-09-08 · `github-release` · 관련도 2.8
 - [[vault/Sources/A Programming Paradigm for Spatiotemporal Composability -- R002127|A Programming Paradigm for Spatiotemporal Composability]] — 2026-08-13 · `web:Cordiverse` · 관련도 2.8
 - [[vault/Sources/openai openai-agents-python v0.20.0 -- R001898|openai/openai-agents-python v0.20.0]] — 2026-08-11 · `github-release` · 관련도 2.8
 - [[vault/Sources/openai openai-agents-python v0.19.2 -- R001658|openai/openai-agents-python v0.19.2]] — 2026-08-01 · `github-release` · 관련도 2.8
@@ -933,6 +940,7 @@ Tool-using, long-horizon, multi-agent and autonomous AI systems.
 - [[vault/Sources/microsoft autogen python-v0.7.4 -- R001513|microsoft/autogen python-v0.7.4]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.7.3 -- R001514|microsoft/autogen python-v0.7.3]] — 2025-08-19 · `github-release` · 관련도 2.5
 - [[vault/Sources/microsoft autogen python-v0.6.1 -- R000973|microsoft/autogen python-v0.6.1]] — 2025-06-05 · `github-release` · 관련도 2.5
+- [[vault/Sources/DeepSeek is hiring 150 engineers, and none of them will touch a model -- R002722|DeepSeek is hiring 150 engineers, and none of them will touch a model]] — 2026-09-08 · `rss:The New Stack` · 관련도 2.3
 - [[vault/Sources/Presentation A Few Predicted Talks From QConAI 2030 -- R002640|Presentation: A Few Predicted Talks From QConAI 2030]] — 2026-09-05 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/Beyond Zero Google Publishes Successor to BeyondCorp -- R002641|Beyond Zero: Google Publishes Successor to BeyondCorp]] — 2026-09-05 · `rss:InfoQ` · 관련도 2.3
 - [[vault/Sources/創業、老闆必要知道的AI資訊! 案例 製造業如何用AI視覺檢測重塑產能,實現「零瑕疵」出貨 👁️ 精準與速度,是擴張業務的兩大支柱。TechAhead的案例顯示,工廠在生產線上部署了配備邊緣A -- R002708|創業、老闆必要知道的AI資訊! 案例：製造業如何用AI視覺檢測重塑產能，實現「零瑕疵」出貨？ 👁️ 精準與速度，是擴張業務的兩大支柱。TechAhead的案例顯示，工廠在生產線上部署了配備邊緣AI(Edge AI)的視覺檢測系統。它能在微秒內分析高解析度影像，即時剔除肉眼難以]] — 2026-09-05 · `social:threads` · 관련도 2.3

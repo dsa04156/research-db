@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`7R69U7JI`)
 - 발행일: 2026-09-04
 - 저자: Sian Liu, Wenxin Zheng, Jin Kang, Tianyi Xu, Siming Chen, Gen Li, Junlong Li, Junlong Li, Meihao Wang, Meihao Wang, Xiaokai Bai, Changxi Hu, Cheng Tang, Shengwei Jin, Zixing Zou, I. Kenneth Chong, Yuxing Lu, Io Nam Wong, Hui Xu, Charlotte L Zhang, Jingman Shi, Erhu Feng, Jinyu Gu, Zhuo Sun, Haibo Chen, Li Yang, Yuan Zhang, Zhu Xian, Huanhuan Huang, Xue Li, Xue Li, Zhenhui Zhao, Hongbo Qi, Xinyu Lü, Ngaman Cheng, Sicheng Pan, Ning Sun, Yun Yin, Michelle Williams, Eric K. Oermann, John E.J. Rasko, Jin Li, Jin Li, Kai Wang, Kang Zhang, Hao Wu, Yubin Xia, Fanxin Zeng, Zhenhui Zhao
 - 식별자: `doi:10.1038/s41591-026-04694-y`

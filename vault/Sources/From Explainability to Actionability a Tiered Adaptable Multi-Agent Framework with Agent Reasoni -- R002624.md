@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-07|2026-09-07]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`3VRIUBD6`)
 - 발행일: 2026-09-05
 - 저자: Jie Tao, Lina Zhou
 - 식별자: `doi:10.1007/s10796-026-10815-2`

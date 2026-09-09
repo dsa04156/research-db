@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`CEGJ328B`)
 - 발행일: 2026-09-06
 - 저자: Anoop Yadav, Leonard Chukwualuka Nnadi, Chukwuemeka Paul Isiwu, Ikechukwu Samuel Okechukwu, Yutaka Watanobe
 - 식별자: `doi:10.17605/osf.io/6vcbe`

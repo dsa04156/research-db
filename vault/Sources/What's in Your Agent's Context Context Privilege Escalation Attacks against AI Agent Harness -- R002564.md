@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`EEI2KVSF`)
 - 발행일: 2026-09-01T13:26:21Z
 - 저자: Zichuan Li, Jian Cui, Ashley Chen, Xiaojing Liao, Luyi Xing
 - 식별자: `arxiv:2609.01222`

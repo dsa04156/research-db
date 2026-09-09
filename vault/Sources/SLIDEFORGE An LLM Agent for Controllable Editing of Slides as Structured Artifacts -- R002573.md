@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`MVTDKMBT`)
 - 발행일: 2026-09-02T19:44:31Z
 - 저자: Haozhen Zheng, Fulin Wang, Tianhu Xiong, Yingjie Yu, Shengyi Qian, Hanchao Yu, Alex Schwing, Klara Nahrstedt, Mingyuan Wu
 - 식별자: `arxiv:2609.03109`

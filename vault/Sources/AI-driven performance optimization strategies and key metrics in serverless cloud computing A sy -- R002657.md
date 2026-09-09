@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`EQ5C6VBQ`)
 - 발행일: 2026-09-01
 - 저자: Zaid Fawaz Jarallah, Hitham Alhussian, Ebrahim Hamid Sumiea, Majdy M. Eltahir, Norshakirah Aziz, ALWaleed Alabri, Ismail Said Almuniri, Yahaya Saidu, Shamsuddeen Adamu
 - 식별자: `doi:10.1016/j.mlwa.2026.100994`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-08|2026-09-08]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`6VRPVJ9Q`)
 - 발행일: 2026-09-08
 - 저자: Dhruv Atreja
 - 식별자: `doi:10.1007/978-3-032-37685-5_29`

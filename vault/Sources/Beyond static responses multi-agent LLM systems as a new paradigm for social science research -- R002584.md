@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`X5RZM63E`)
 - 발행일: 2026-09-02
 - 저자: Jennifer Haase, Sebastian Pokutta
 - 식별자: `doi:10.1057/s41599-026-08832-2`

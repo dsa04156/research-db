@@ -2,18 +2,20 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 415
+source_count: 418
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **415개**
+연결된 자료: **418개**
 
 ## 자료
 
 - [[vault/Sources/Harness Engineering for Self-Improvement -- R000001|Harness Engineering for Self-Improvement]] — 2026-07-04 · `seed` · 관련도 10.0
+- [[vault/Sources/Muse Meta's personal AI agent -- R002728|Muse: Meta's personal AI agent]] — 2026-09-08 · `web:Meta AI` · 관련도 9.5
+- [[vault/Sources/A sandbox is only as closed as what an AI agent can reach -- R002729|A sandbox is only as closed as what an AI agent can reach]] — 2026-08-12 · `web:GitLab` · 관련도 8.8
 - [[vault/Sources/You Can Build an AI Agent Harness in 20min My 5-Step Harness Engineering Loop Legal Agent Projec -- R002667|You Can Build an AI Agent Harness in 20min: My 5-Step Harness Engineering Loop   Legal Agent Project]] — 2026-09-06 · `social:youtube` · 관련도 7.9
 - [[vault/Sources/Banger paper from ByteDance Seed. If you are curious about self-evolving agent harnesses, this o -- R002701|Banger paper from ByteDance Seed. If you are curious about self-evolving agent harnesses, this one is worth your time. (bookmark it) Th]] — 2026-09-02 · `social:threads` · 관련도 7.1
 - [[vault/Sources/Recursive self-improvement makes the agent harness architecture dynamic by design. Across runs, -- R002672|Recursive self-improvement makes the agent harness architecture dynamic by design. Across runs, it can refine prompts, tools, memory, skills]] — 2026-09-02 · `social:linkedin` · 관련도 7.1
@@ -247,6 +249,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/openai openai-agents-python v0.22.1 -- R002726|openai/openai-agents-python v0.22.1]] — 2026-09-08 · `github-release` · 관련도 2.5
 - [[vault/Sources/GitHub Copilot app for Beginners Run several agents at once -- R002593|GitHub Copilot app for Beginners: Run several agents at once]] — 2026-09-03 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/Decoding the new AI lingo Loops, harnesses, squads, hill climbing... oh my! -- R002544|Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/How we make AI coding more cost efficient without sacrificing task quality -- R002545|How we make AI coding more cost efficient without sacrificing task quality]] — 2026-09-02 · `rss:GitHub AI and ML` · 관련도 2.5

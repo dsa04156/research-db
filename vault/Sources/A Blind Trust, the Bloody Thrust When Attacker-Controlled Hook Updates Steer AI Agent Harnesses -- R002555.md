@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-04|2026-09-04]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6EDA3M7W`)
 - 발행일: 2026-09-03T14:08:42Z
 - 저자: Pengxun Li, Litian Zhang, Jianwei Hou, Shujiang Wu, Song Li, Zifeng Kang, Xi Zhang
 - 식별자: `arxiv:2609.03884`
