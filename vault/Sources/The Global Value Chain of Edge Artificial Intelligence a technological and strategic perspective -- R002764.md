@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`P4U7K9PH`)
 - 발행일: 2026-09-07
 - 저자: Tommaso Muciaccia, Pietro Tedeschi
 - 식별자: `doi:10.66578/btis.v2i3.37`

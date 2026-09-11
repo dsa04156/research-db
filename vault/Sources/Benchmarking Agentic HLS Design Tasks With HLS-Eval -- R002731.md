@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`EBS4BMUW`)
 - 발행일: 2026-09-08T23:12:36Z
 - 저자: Stefan Abi-Karam, Callie Hao
 - 식별자: `arxiv:2609.09526`

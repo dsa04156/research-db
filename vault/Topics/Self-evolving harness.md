@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "self-evolving-harness"
 generated_by: codex-research-db
-source_count: 427
+source_count: 429
 ---
 
 # Self-evolving harness
 
 Agent harnesses that improve context, workflows, tools, memory, evaluation, or their own code.
 
-연결된 자료: **427개**
+연결된 자료: **429개**
 
 ## 자료
 
@@ -255,6 +255,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/The Impact of AI Assistance on Radiology Reporting A Pilot Study Using Simulated AI Draft Report -- R000563|The Impact of AI Assistance on Radiology Reporting: A Pilot Study Using Simulated AI Draft Reports]] — 2024-12-16 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Neural Finite-State Machines for Surgical Phase Recognition -- R000565|Neural Finite-State Machines for Surgical Phase Recognition]] — 2024-11-27 · `arxiv` · 관련도 2.6
 - [[vault/Sources/AFlow Automating Agentic Workflow Generation -- R000568|AFlow: Automating Agentic Workflow Generation]] — 2024-10-14 · `arxiv` · 관련도 2.6
+- [[vault/Sources/GitHub Copilot app for Beginners Using the diff, terminal, and browser -- R002799|GitHub Copilot app for Beginners: Using the diff, terminal, and browser]] — 2026-09-10 · `rss:GitHub AI and ML` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.22.2 -- R002772|openai/openai-agents-python v0.22.2]] — 2026-09-09 · `github-release` · 관련도 2.5
 - [[vault/Sources/openai openai-agents-python v0.22.1 -- R002726|openai/openai-agents-python v0.22.1]] — 2026-09-08 · `github-release` · 관련도 2.5
 - [[vault/Sources/GitHub Copilot app for Beginners Run several agents at once -- R002593|GitHub Copilot app for Beginners: Run several agents at once]] — 2026-09-03 · `rss:GitHub AI and ML` · 관련도 2.5
@@ -329,6 +330,7 @@ Agent harnesses that improve context, workflows, tools, memory, evaluation, or t
 - [[vault/Sources/openai openai-agents-python v0.17.5 -- R001502|openai/openai-agents-python v0.17.5]] — 2026-06-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/langchain-ai langgraph langgraph-cli==0.4.28 -- R001511|langchain-ai/langgraph langgraph-cli==0.4.28]] — 2026-06-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/Prime Agent A self-improving RLM agent for coding workflows -- R001937|Prime Agent: A self-improving RLM agent for coding workflows]] — 2026-05-08 · `web:Prime Intellect GitHub` · 관련도 2.5
+- [[vault/Sources/Retrofitting Code Using LLMs to Support Exceptional Behavior -- R002782|Retrofitting Code Using LLMs to Support Exceptional Behavior]] — 2026-09-09 · `arxiv` · 관련도 2.3
 - [[vault/Sources/Co-Evolving Harnesses and Models On-Policy Correction Helps Weaker Models Catch Up Where Imitati -- R002732|Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails]] — 2026-09-08 · `arxiv` · 관련도 2.3
 - [[vault/Sources/VEX-Bench Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerab -- R002735|VEX-Bench: Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerabilities]] — 2026-09-07 · `arxiv` · 관련도 2.3
 - [[vault/Sources/요즘 Astra가 참 🔥HOT합니다. 이제 점점 Agent가 '쓰는 사람만 쓰는'의 개념을 벗어나는 것 같습니다. 너무 좋으니까요. 그래서 그런지 개인 수준의 Agent 사 -- R002698|요즘 𝐀𝐬𝐭𝐫𝐚가 참 🔥HOT합니다. 이제 점점 Agent가 '쓰는 사람만 쓰는'의 개념을 벗어나는 것 같습니다. 너무 좋으니까요. 그래서 그런지 개인 수준의 Agent 사용에서 나아가, 팀, 그리고 조직 단위의 Agent 도입, AX도입이 눈에]] — 2026-09-07 · `social:threads` · 관련도 2.3

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DP6S76R8`)
 - 발행일: 2026-09-08T09:11:53Z
 - 저자: Yang Li, Sergey Volkov, Hai Liu, Zongsi Xu, Xiyu Chen, Tuo Zhou, Dian Shao, Hao Sun, Ye Lu
 - 식별자: `arxiv:2609.08472`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`JB29GBD5`)
 - 발행일: 2026-09-09T03:00:03Z
 - 저자: Zibo Zhao, Jijun Shi, Mo Zhou, Zhongyuan Wang, Shifu Bie, Yunfei Zhang, Xuanting Zhou, Xiangyu Wu, Bin Liu, Ruiming Tang, Wenwu Ou, Kun Gai
 - 식별자: `arxiv:2609.09646`

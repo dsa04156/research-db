@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`PTARQUPB`)
 - 발행일: 2026-09-09T14:36:51Z
 - 저자: Mark Marron, Earl T. Barr
 - 식별자: `arxiv:2609.10248`

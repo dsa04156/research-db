@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`J7VJUM92`)
 - 발행일: 2026-09-08T15:48:11Z
 - 저자: Wenbo Gao, Zhaomou Song, Zhiyuan Ji, Renxi Liu, Xing Li, Xianzhi Yu, Xiaoguang Li, James Chung-wai Cheung, Weizhe Lin, Yaoyuan Wang
 - 식별자: `arxiv:2609.08919`

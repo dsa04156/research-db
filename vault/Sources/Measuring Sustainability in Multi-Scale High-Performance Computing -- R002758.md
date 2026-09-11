@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`5H9Z3GGV`)
 - 발행일: 2026-09-08T12:55:14Z
 - 저자: Carlos J Barrios, Frédéric Le Mouël, Yves Denneulin
 - 식별자: `arxiv:2609.08688`

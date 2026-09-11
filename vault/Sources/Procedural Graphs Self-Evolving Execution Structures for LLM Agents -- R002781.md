@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `codex-web-verified`
 - 검토 상태: `pending`
+- Zotero: created (`T8KNQ243`)
 - 발행일: 2026-09-08T17:59:41Z
 - 식별자: `arxiv:2609.09153`
 

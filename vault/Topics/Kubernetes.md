@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 650
+source_count: 653
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **650개**
+연결된 자료: **653개**
 
 ## 자료
 
@@ -17,6 +17,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Running Agents on Kubernetes with Agent Sandbox -- R001438|Running Agents on Kubernetes with Agent Sandbox]] — 2026-03-20 · `rss:Kubernetes Blog` · 관련도 9.1
 - [[vault/Sources/OpenAI, AWS & MS Standardize AI Agents + K8s GPU Scheduling Revolution DevOps News -- R001917|OpenAI, AWS & MS Standardize AI Agents + K8s GPU Scheduling Revolution   DevOps News]] — 2026-08-09 · `social:youtube` · 관련도 8.9
 - [[vault/Sources/Kubernetes v1.36 ハル (Haru) -- R001434|Kubernetes v1.36: ハル (Haru)]] — 2026-04-22 · `rss:Kubernetes Blog` · 관련도 8.9
+- [[vault/Sources/Kubernetes v1.37 Scheduler Preemption for In-Place Pod Resize (Alpha) -- R002797|Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)]] — 2026-09-10 · `rss:Kubernetes Blog` · 관련도 8.3
 - [[vault/Sources/How to Build AI Agents for Kubernetes Deployments WorkSmartWithK8s kubernetes aiagents k8sgpt mc -- R002486|How to Build AI Agents for Kubernetes Deployments #WorkSmartWithK8s #kubernetes #aiagents #k8sgpt #mcp #gitops #tutorial https://lnkd.in/eS]] — 2026-08-29 · `social:linkedin` · 관련도 8.2
 - [[vault/Sources/Choosing a Kubernetes distribution for AI workloads carries real risk. GPU scheduling, high-perf -- R002290|Choosing a Kubernetes distribution for AI workloads carries real risk. GPU scheduling, high-performance networking, and distributed training]] — 2026-08-20 · `social:linkedin` · 관련도 8.2
 - [[vault/Sources/📺Setting up AI Agents on Kubernetes! ❄️ This time I migrate my OpenClaw instance to a k8s cluste -- R001922|📺Setting up AI Agents on Kubernetes! ❄️ This time I migrate my OpenClaw instance to a k8s cluster. ✅Unprivileged user ✅Read-only file system]] — 2026-08-05 · `social:linkedin` · 관련도 8.2
@@ -245,6 +246,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation -- R000791|Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation]] — 2024-10-21 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Analyzing the theoretical merits of scp Loxi scp load balancer for improving the efficiency of l -- R000334|Analyzing the theoretical merits of <scp>Loxi</scp> load balancer for improving the efficiency of load balancing in <scp>5G</scp> ‐edge <scp>IoT</scp> applications based on <scp>Kubernetes</scp>]] — 2024-07-29 · `crossref` · 관련도 4.6
 - [[vault/Sources/Computing in the Era of Large Generative Models From Cloud-Native to AI-Native -- R000365|Computing in the Era of Large Generative Models: From Cloud-Native to AI-Native]] — 2024-01-17 · `openalex` · 관련도 4.6
+- [[vault/Sources/Kubernetes disaster recovery Guidance from three reproducible failure scenarios -- R002798|Kubernetes disaster recovery: Guidance from three reproducible failure scenarios]] — 2026-09-10 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Whose GPUs are these, anyway Secure, self-service metrics for multi-tenant Kubernetes -- R002766|Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/How cloud native goes AI native -- R002767|How cloud native goes AI native]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Migrating a critical Kubernetes deployment from the default namespace without any downtime -- R002590|Migrating a critical Kubernetes deployment from the default namespace without any downtime]] — 2026-09-03 · `rss:CNCF Blog` · 관련도 4.5
@@ -381,6 +383,7 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Comparison of Reinforcement Learning Algorithms for Edge Computing Applications Deployed by Serv -- R000337|Comparison of Reinforcement Learning Algorithms for Edge Computing Applications Deployed by Serverless Technologies]] — 2024-07-23 · `openalex` · 관련도 3.6
 - [[vault/Sources/Explainable Agentic AI for Predictive Autosys &amp; Cybermation Job Orchestration -- R000340|Explainable Agentic AI for Predictive Autosys &amp; Cybermation Job Orchestration]] — 2024-07-11 · `openalex` · 관련도 3.6
 - [[vault/Sources/Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games Edge-Cloud Architectures, Sche -- R000353|Optimizing Latency and Intelligence Trade-Offs in AI-Driven Games: Edge-Cloud Architectures, Scheduling Policies, and Observability Frameworks Aravind Chinnaraju]] — 2024-04-30 · `openalex` · 관련도 3.6
+- [[vault/Sources/Using AI to upgrade Kubernetes clusters — useful DevOps project or too risky -- R002802|Using AI to upgrade Kubernetes clusters — useful DevOps project or too risky?]] — 2026-09-10 · `social:reddit` · 관련도 3.5
 - [[vault/Sources/kagent-dev kagent v0.10.1 -- R002727|kagent-dev/kagent v0.10.1]] — 2026-09-08 · `github-release` · 관련도 3.5
 - [[vault/Sources/kagent-dev kagent v0.10.0 -- R002643|kagent-dev/kagent v0.10.0]] — 2026-09-04 · `github-release` · 관련도 3.5
 - [[vault/Sources/GreenPipe Power Modeling for Containerized DNN Inference on Kubernetes Edge Nodes -- R002627|GreenPipe: Power Modeling for Containerized DNN Inference on Kubernetes Edge Nodes]] — 2026-09-04 · `arxiv` · 관련도 3.5

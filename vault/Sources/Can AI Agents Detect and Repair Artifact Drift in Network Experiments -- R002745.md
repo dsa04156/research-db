@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`A6ESPHWK`)
 - 발행일: 2026-09-09T07:58:24Z
 - 저자: Tianzhu Zhang, Weichen Tao, Changgang Zheng, Yusheng Zheng, Long Chen, Xiaoyi Fan, Meikang Qiu
 - 식별자: `arxiv:2609.09849`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`4DIH9VWX`)
 - 발행일: 2026-09-08T17:45:09Z
 - 저자: Yuqiao Tan, Shizhu He, Jun Zhao, Kang Liu
 - 식별자: `arxiv:2609.09113`

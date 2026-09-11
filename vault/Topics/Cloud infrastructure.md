@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 543
+source_count: 547
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **543개**
+연결된 자료: **547개**
 
 ## 자료
 
@@ -171,6 +171,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/XaaS Acceleration as a Service to Enable Productive High-Performance Cloud Computing -- R000386|XaaS: Acceleration as a Service to Enable Productive High-Performance Cloud Computing]] — 2024-01-09 · `arxiv` · 관련도 4.3
 - [[vault/Sources/Monitoring of Cloud Computing Environments Concepts, Solutions, Trends, and Future Directions -- R000366|Monitoring of Cloud Computing Environments: Concepts, Solutions, Trends, and Future Directions]] — 2024-01-02 · `openalex` · 관련도 4.3
 - [[vault/Sources/Fusionize++ Improving Serverless Application Performance Using Dynamic Task Inlining and Infrast -- R000390|Fusionize++: Improving Serverless Application Performance Using Dynamic Task Inlining and Infrastructure Optimization]] — 2023-11-08 · `arxiv` · 관련도 4.3
+- [[vault/Sources/Kubernetes v1.37 Scheduler Preemption for In-Place Pod Resize (Alpha) -- R002797|Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)]] — 2026-09-10 · `rss:Kubernetes Blog` · 관련도 4.2
 - [[vault/Sources/Kubernetes v1.37 Introducing Node Lifecycle Conditions -- R002765|Kubernetes v1.37: Introducing Node Lifecycle Conditions]] — 2026-09-09 · `rss:Kubernetes Blog` · 관련도 4.2
 - [[vault/Sources/Kubernetes v1.37 KubeletInUserNamespace (aka Rootless mode) Graduates to Beta -- R002631|Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta]] — 2026-09-04 · `rss:Kubernetes Blog` · 관련도 4.2
 - [[vault/Sources/Kubernetes v1.36 Pod-Level Resource Managers (Alpha) -- R001426|Kubernetes v1.36: Pod-Level Resource Managers (Alpha)]] — 2026-05-01 · `rss:Kubernetes Blog` · 관련도 4.2
@@ -322,6 +323,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Systematic Review of Decentralized and Collaborative Computing Models in Cloud Architectures for -- R000400|Systematic Review of Decentralized and Collaborative Computing Models in Cloud Architectures for Distributed Edge Computing]] — 2024-07-29 · `openalex` · 관련도 3.4
 - [[vault/Sources/How Clustering Affects the Convergence of Decentralized Optimization over Networks A Monte-Carlo -- R000378|How Clustering Affects the Convergence of Decentralized Optimization over Networks: A Monte-Carlo-based Approach]] — 2024-07-01 · `arxiv` · 관련도 3.4
 - [[vault/Sources/Utilizing Python for Scalable Data Processing in Cloud Environments -- R000422|Utilizing Python for Scalable Data Processing in Cloud Environments]] — 2024-06-30 · `openalex` · 관련도 3.4
+- [[vault/Sources/Kubernetes disaster recovery Guidance from three reproducible failure scenarios -- R002798|Kubernetes disaster recovery: Guidance from three reproducible failure scenarios]] — 2026-09-10 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/Whose GPUs are these, anyway Secure, self-service metrics for multi-tenant Kubernetes -- R002766|Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/CNCF Welcomes New Silver Members as Enterprises Scale AI From Training to Inference -- R002719|CNCF Welcomes New Silver Members as Enterprises Scale AI From Training to Inference]] — 2026-09-08 · `rss:CNCF Blog` · 관련도 3.3
 - [[vault/Sources/Migrating a critical Kubernetes deployment from the default namespace without any downtime -- R002590|Migrating a critical Kubernetes deployment from the default namespace without any downtime]] — 2026-09-03 · `rss:CNCF Blog` · 관련도 3.3
@@ -370,6 +372,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Why Centralized AI Will Fail at Scale Dr. Robert Blumofe, Akamai -- R001626|Why Centralized AI Will Fail at Scale   Dr. Robert Blumofe, Akamai]] — 2026-07-07 · `social:youtube` · 관련도 2.9
 - [[vault/Sources/Anomaly detection and root-cause identification in microservices a survey -- R001250|Anomaly detection and root-cause identification in microservices: a survey]] — 2026-06-01 · `openalex` · 관련도 2.9
 - [[vault/Sources/AI-Augmented Cyber Resilience Frameworks for Predictive Threat Modeling Across Software-Defined -- R000744|AI-Augmented Cyber Resilience Frameworks for Predictive Threat Modeling Across Software-Defined Network Layers and Cloud-Native Infrastructures]] — 2025-07-07 · `openalex` · 관련도 2.9
+- [[vault/Sources/GitHub Copilot app for Beginners Using the diff, terminal, and browser -- R002799|GitHub Copilot app for Beginners: Using the diff, terminal, and browser]] — 2026-09-10 · `rss:GitHub AI and ML` · 관련도 2.8
 - [[vault/Sources/cloudflare workerd v1.20260910.1 -- R002773|cloudflare/workerd v1.20260910.1]] — 2026-09-10 · `github-release` · 관련도 2.8
 - [[vault/Sources/cloudflare workerd v1.20260826.1 -- R002321|cloudflare/workerd v1.20260826.1]] — 2026-08-26 · `github-release` · 관련도 2.8
 - [[vault/Sources/The lazy developer’s guide to observing your own code -- R002314|The lazy developer’s guide to observing your own code]] — 2026-08-25 · `rss:CNCF Blog` · 관련도 2.8
@@ -405,6 +408,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260911.1 -- R002801|cloudflare/workerd v1.20260911.1]] — 2026-09-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/How cloud native goes AI native -- R002767|How cloud native goes AI native]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260909.1 -- R002774|cloudflare/workerd v1.20260909.1]] — 2026-09-09 · `github-release` · 관련도 2.5
 - [[vault/Sources/Distributed tracing for CI pipelines without touching a single workflow file -- R002717|Distributed tracing for CI pipelines without touching a single workflow file]] — 2026-09-08 · `rss:CNCF Blog` · 관련도 2.5

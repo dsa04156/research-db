@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DQJKIDMC`)
 - 발행일: 2026-09-05T10:46:41Z
 - 저자: Amirparsa Bahrami, Farid Ashtiani
 - 식별자: `arxiv:2609.06021`

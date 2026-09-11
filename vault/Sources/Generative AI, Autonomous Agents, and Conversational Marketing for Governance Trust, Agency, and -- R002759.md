@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`729VCCIB`)
 - 발행일: 2026-09-11
 - 저자: L. B. Muralidhar, R. Shilpa, N. A. Jayalakshmi
 - 식별자: `doi:10.4018/979-8-2600-0512-5.ch003`

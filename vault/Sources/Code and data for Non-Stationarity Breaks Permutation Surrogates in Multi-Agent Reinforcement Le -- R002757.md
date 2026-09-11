@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`ZI47XU83`)
 - 발행일: 2026-09-08
 - 저자: Nikolaos Al. Papadopoulos
 - 식별자: `doi:10.5281/zenodo.22658530`

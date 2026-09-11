@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`KRUHET53`)
 - 발행일: 2026-09-07
 - 저자: Rebin Saleh, Engida Ephrem Alamerew, Balázs Villányi
 - 식별자: `doi:10.21203/rs.3.rs-10701980/v1`

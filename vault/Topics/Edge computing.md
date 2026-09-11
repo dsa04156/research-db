@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 564
+source_count: 567
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **564개**
+연결된 자료: **567개**
 
 ## 자료
 
@@ -95,6 +95,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/EdgeTimer Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement L -- R000303|EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning]] — 2024-06-11 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing A Model-Based Reinforcemen -- R000477|Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach]] — 2024-06-03 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Resource-efficient Parallel Split Learning in Heterogeneous Edge Computing -- R000529|Resource-efficient Parallel Split Learning in Heterogeneous Edge Computing]] — 2024-03-23 · `arxiv` · 관련도 4.6
+- [[vault/Sources/A systematic review of AI powered adaptive smart home security using multimodal sensor fusion ed -- R002796|A systematic review of AI powered adaptive smart home security using multimodal sensor fusion edge intelligence and privacy preserving architectures]] — 2026-09-09 · `openalex` · 관련도 4.5
 - [[vault/Sources/NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI -- R002328|NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI]] — 2026-08-25 · `web:NVIDIA` · 관련도 4.5
 - [[vault/Sources/Thermo-FL Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI -- R002236|Thermo-FL: Thermal-Aware Robust Federated Fine-Tuning of Large Language Models for Edge AI]] — 2026-08-21 · `kurate` · 관련도 4.5
 - [[vault/Sources/AIGaitor Privacy-preserving and cloud-free motion analysis for everyone, using edge computing -- R001346|AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing]] — 2026-05-20 · `arxiv` · 관련도 4.5
@@ -102,6 +103,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff -- R002803|OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]] — 2026-09-11 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/오프라인 실습 ESP32 제품 개발 및 펌웨어 바이브 코딩 오프라인 강의 일시 2026.10.16 10 00~17 00 장소 서울 금천구 디지털로 178 (가산동) 가산퍼블 -- R002779|[오프라인 실습  ESP32 제품 개발 및 펌웨어 바이브 코딩 오프라인 강의 일시: 2026.10.16 10:00~17:00 장소: 서울 금천구 디지털로 178 (가산동) 가산퍼블릭 A동 1823호 강의 내용 01. Edge AI의 패러다임과 E]] — 2026-09-09 · `social:threads` · 관련도 4.3
 - [[vault/Sources/An AI model on approved hardware can still load a poisoned artifact. Microsoft's edge AI guide s -- R002707|An AI model on approved hardware can still load a poisoned artifact. Microsoft's edge AI guide separates 4 jobs. Attest the runtime. Prove]] — 2026-09-08 · `social:threads` · 관련도 4.3
 - [[vault/Sources/How to secure edge AI in customer-owned environments Microsoft Security Blog AgenticAI AISecurit -- R002709|How to secure edge AI in customer-owned environments   Microsoft Security Blog AgenticAI #AISecurity #AIGovernance #AgentSecurity #CyberGov]] — 2026-09-07 · `social:threads` · 관련도 4.3
@@ -377,6 +379,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260911.1 -- R002801|cloudflare/workerd v1.20260911.1]] — 2026-09-11 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260910.1 -- R002773|cloudflare/workerd v1.20260910.1]] — 2026-09-10 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260909.1 -- R002774|cloudflare/workerd v1.20260909.1]] — 2026-09-09 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260908.1 -- R002665|cloudflare/workerd v1.20260908.1]] — 2026-09-08 · `github-release` · 관련도 2.5

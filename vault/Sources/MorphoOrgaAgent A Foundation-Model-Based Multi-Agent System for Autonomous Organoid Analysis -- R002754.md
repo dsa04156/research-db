@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6PDVPXKS`)
 - 발행일: 2026-09-08T12:59:46Z
 - 저자: Hanyi Zhang, Maximilian Hoermann, Lion J. Gleiter, Yiling Xu, Bettina Katalin Budai, Hans-Ulrich Kauczor, Carsten Marr, Tingying Peng
 - 식별자: `arxiv:2609.08696`

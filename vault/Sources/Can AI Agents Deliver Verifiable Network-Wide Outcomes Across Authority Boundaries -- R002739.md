@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`CI2PTM8U`)
 - 발행일: 2026-09-09T13:51:15Z
 - 저자: Tianzhu Zhang, Chih-Kai Huang, Meikang Qiu
 - 식별자: `arxiv:2609.10181`

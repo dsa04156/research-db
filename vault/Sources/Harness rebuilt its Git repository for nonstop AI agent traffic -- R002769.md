@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-10|2026-09-10]]
 - 수집 채널: `rss:The New Stack`
 - 검토 상태: `pending`
+- Zotero: created (`ZISZAZXF`)
 - 발행일: 2026-09-09T11:00:00+00:00
 - 식별자: `url:f54bc6e577db4737e486f70866dfca872c9e00457e5fc7343e952c4139952655`
 
