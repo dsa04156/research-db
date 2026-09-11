@@ -13,8 +13,6 @@ aliases:
   - "Muse: Meta's personal AI agent"
 topics:
   - "ai-agents"
-  - "cloud-infrastructure"
-  - "self-evolving-harness"
 ---
 
 # Muse: Meta's personal AI agent
@@ -23,7 +21,7 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/AI agents]], [[vault/Topics/Cloud infrastructure]], [[vault/Topics/Self-evolving harness]]
+- 주제: [[vault/Topics/AI agents]]
 - 최초 수집: [[vault/Daily/2026-09-09|2026-09-09]]
 - 수집 채널: `web:Meta AI`
 - 검토 상태: `pending`

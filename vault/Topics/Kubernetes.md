@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "kubernetes"
 generated_by: codex-research-db
-source_count: 644
+source_count: 650
 ---
 
 # Kubernetes
 
 Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 
-연결된 자료: **644개**
+연결된 자료: **650개**
 
 ## 자료
 
@@ -38,6 +38,8 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Kubernetes v1.36 Server-Side Sharded List and Watch -- R001423|Kubernetes v1.36: Server-Side Sharded List and Watch]] — 2026-05-06 · `rss:Kubernetes Blog` · 관련도 6.9
 - [[vault/Sources/Kubernetes v1.36 Admission Policies That Can't Be Deleted -- R001425|Kubernetes v1.36: Admission Policies That Can't Be Deleted]] — 2026-05-04 · `rss:Kubernetes Blog` · 관련도 6.9
 - [[vault/Sources/Securing Production Debugging in Kubernetes -- R001439|Securing Production Debugging in Kubernetes]] — 2026-03-18 · `rss:Kubernetes Blog` · 관련도 6.9
+- [[vault/Sources/Kubernetes v1.37 Introducing Node Lifecycle Conditions -- R002765|Kubernetes v1.37: Introducing Node Lifecycle Conditions]] — 2026-09-09 · `rss:Kubernetes Blog` · 관련도 6.7
+- [[vault/Sources/HARP An Adaptive Hybrid Autoscaling Framework with Online Policy Arbitration for SLO-Aware Cloud -- R002762|HARP: An Adaptive Hybrid Autoscaling Framework with Online Policy Arbitration for SLO-Aware Cloud-Native ML Inference]] — 2026-09-07 · `openalex` · 관련도 6.7
 - [[vault/Sources/AI workloads change the cost and operations profile of a Kubernetes platform. GPU-backed node gr -- R002065|AI workloads change the cost and operations profile of a Kubernetes platform. GPU-backed node groups, tighter autoscaling for high-cost com]] — 2026-08-11 · `social:linkedin` · 관련도 6.7
 - [[vault/Sources/Kubernetes v1.36 Advancing Workload-Aware Scheduling -- R001419|Kubernetes v1.36: Advancing Workload-Aware Scheduling]] — 2026-05-13 · `rss:Kubernetes Blog` · 관련도 6.7
 - [[vault/Sources/Kubernetes v1.36 Fine-Grained Kubelet API Authorization Graduates to GA -- R001431|Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA]] — 2026-04-24 · `rss:Kubernetes Blog` · 관련도 6.7
@@ -243,6 +245,8 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation -- R000791|Streamlining Cloud-Native Application Development and Deployment with Robust Encapsulation]] — 2024-10-21 · `arxiv` · 관련도 4.6
 - [[vault/Sources/Analyzing the theoretical merits of scp Loxi scp load balancer for improving the efficiency of l -- R000334|Analyzing the theoretical merits of <scp>Loxi</scp> load balancer for improving the efficiency of load balancing in <scp>5G</scp> ‐edge <scp>IoT</scp> applications based on <scp>Kubernetes</scp>]] — 2024-07-29 · `crossref` · 관련도 4.6
 - [[vault/Sources/Computing in the Era of Large Generative Models From Cloud-Native to AI-Native -- R000365|Computing in the Era of Large Generative Models: From Cloud-Native to AI-Native]] — 2024-01-17 · `openalex` · 관련도 4.6
+- [[vault/Sources/Whose GPUs are these, anyway Secure, self-service metrics for multi-tenant Kubernetes -- R002766|Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 4.5
+- [[vault/Sources/How cloud native goes AI native -- R002767|How cloud native goes AI native]] — 2026-09-09 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Migrating a critical Kubernetes deployment from the default namespace without any downtime -- R002590|Migrating a critical Kubernetes deployment from the default namespace without any downtime]] — 2026-09-03 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Building an AI factory on Kubernetes -- R002383|Building an AI factory on Kubernetes]] — 2026-08-27 · `rss:CNCF Blog` · 관련도 4.5
 - [[vault/Sources/Automating root cause analysis at scale Multi-signal correlation for cloud native incident respo -- R002267|Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response]] — 2026-08-24 · `rss:CNCF Blog` · 관련도 4.5
@@ -510,6 +514,8 @@ Kubernetes, cloud-native orchestration, AI workloads and autonomous operations.
 - [[vault/Sources/The lazy developer’s guide to observing your own code -- R002314|The lazy developer’s guide to observing your own code]] — 2026-08-25 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/Lightweight Dragonfly Deployment P2P Distribution Without the Database Stack -- R001995|Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack]] — 2026-08-13 · `rss:CNCF Blog` · 관련도 2.8
 - [[vault/Sources/Introducing Managed Workspaces for Mastra Platform -- R001847|Introducing Managed Workspaces for Mastra Platform]] — 2026-07-22 · `web:Mastra` · 관련도 2.8
+- [[vault/Sources/Presentation Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server -- R002771|Presentation: Fixing the AI Infra Scale Problem by Stuffing 1M Sandboxes in a Single Server]] — 2026-09-09 · `rss:InfoQ` · 관련도 2.6
+- [[vault/Sources/Measuring Sustainability in Multi-Scale High-Performance Computing -- R002758|Measuring Sustainability in Multi-Scale High-Performance Computing]] — 2026-09-08 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Anyone else seeing AI make DevOps infra the bottleneck -- R002527|Anyone else seeing AI make DevOps/infra the bottleneck?]] — 2026-09-01 · `social:reddit` · 관련도 2.6
 - [[vault/Sources/Don't Let the Model Write the YAML Deterministic, Minimal-Diff GitOps Remediation from LLM-Propo -- R002515|Don't Let the Model Write the YAML: Deterministic, Minimal-Diff GitOps Remediation from LLM-Proposed Field Changes]] — 2026-08-31 · `arxiv` · 관련도 2.6
 - [[vault/Sources/TPS-RAS A Membrane Computing Inspired Lightweight Scheduling Strategy for Network-Aware Resource -- R002537|TPS-RAS: A Membrane Computing Inspired Lightweight Scheduling Strategy for Network-Aware Resource Allocation in Fog Computing]] — 2026-08-31 · `openalex` · 관련도 2.6

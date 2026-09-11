@@ -211,7 +211,8 @@
         "agent runtime",
         "meta harness",
         "meta-harness",
-        "agentic system design"
+        "agentic system design",
+        "procedural graph"
       ],
       "boost_keywords": [
         "evaluation",
