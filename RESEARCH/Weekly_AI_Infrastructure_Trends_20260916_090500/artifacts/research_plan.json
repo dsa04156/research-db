@@ -1,0 +1,13 @@
+{
+  "current_year": 2026,
+  "window": {"from": "2026-09-09", "to": "2026-09-16"},
+  "subtopics": [
+    {"name": "self-evolving harness", "priority": 1},
+    {"name": "AI agents", "priority": 1},
+    {"name": "Kubernetes and cloud-native AI infrastructure", "priority": 1},
+    {"name": "cloud, serverless, and distributed systems", "priority": 2},
+    {"name": "edge computing and edge AI", "priority": 2}
+  ],
+  "verification": {"minimum_independent_domains": 2, "high_risk_counter_search": true, "verified_only_synthesis": true},
+  "result": "retrieval_blocked"
+}

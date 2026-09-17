@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`E4AHQVN5`)
 - 발행일: 2026-09-10T02:50:29Z
 - 저자: Mia Lassiter, Brinnae Bent
 - 식별자: `arxiv:2609.11018`

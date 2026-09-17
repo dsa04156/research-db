@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`VQ5A436E`)
 - 발행일: 2026-09-09T18:18:10Z
 - 저자: Yuanchen Bai, Zijian Ding, Angelique Taylor
 - 식별자: `arxiv:2609.10724`

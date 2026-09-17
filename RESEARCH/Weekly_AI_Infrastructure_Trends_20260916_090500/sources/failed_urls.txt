@@ -1,0 +1,1 @@
+2026-09-16: arXiv, Crossref, OpenAlex, configured RSS feeds, GitHub releases, Kurate, Hacker News, YouTube, and Threads could not be reliably observed from this execution environment. See state.json for normalized failure states.

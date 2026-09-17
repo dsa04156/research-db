@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`XNJGDPW3`)
 - 발행일: 2026-09-09T22:18:36Z
 - 저자: Alireza Lotfi, Mirza Masfiqur Rahman, Imtiaz Karim, Elisa Bertino
 - 식별자: `arxiv:2609.10871`

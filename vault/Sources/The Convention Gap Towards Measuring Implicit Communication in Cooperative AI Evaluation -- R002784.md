@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`35W3WV45`)
 - 발행일: 2026-09-10T12:57:03Z
 - 저자: Makoto Fukushima, Hua-Dong Xiong, Ehsan Moradi Pari
 - 식별자: `arxiv:2609.11489`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`JTCJN7N2`)
 - 발행일: 2026-09-10T03:20:46Z
 - 저자: Divyanshu Kumar, Rohith HN, Nitin Aravind Birur, Sahil Agarwal, Prashanth Harshangi
 - 식별자: `arxiv:2609.11030`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`4CH5Q7DS`)
 - 발행일: 2026-09-09
 - 저자: M. N. Karuppusamy, N. Sasirekha
 - 식별자: `doi:10.14445/22315381/ijett-v74i8p108`

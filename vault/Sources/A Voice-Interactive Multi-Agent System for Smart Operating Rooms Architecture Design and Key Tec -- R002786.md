@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`Z45WBXN9`)
 - 발행일: 2026-09-10T08:29:27Z
 - 저자: Tianxiang Zhou
 - 식별자: `arxiv:2609.11231`

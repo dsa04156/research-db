@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`M6E3GX5M`)
 - 발행일: 2026-09-09
 - 저자: Xiaoli Nan, Xingman Wu
 - 식별자: `doi:10.3389/fcomm.2026.1784502`

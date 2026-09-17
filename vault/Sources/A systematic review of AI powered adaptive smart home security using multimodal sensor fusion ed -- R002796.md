@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`4QFK2CTJ`)
 - 발행일: 2026-09-09
 - 저자: Zineb Lazrak, Anas Bouayad, Marwa Boumaiz
 - 식별자: `doi:10.1007/s44163-026-02157-4`

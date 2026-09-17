@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-11|2026-09-11]]
 - 수집 채널: `web:AWS`
 - 검토 상태: `pending`
+- Zotero: created (`A2XG6PM9`)
 - 발행일: 2026-09-10
 - 식별자: `url:e9a2116d2afaae3ec584985ad99ad2bba68ad4d279fa581b7ed5ea5ce930bd21`
 
