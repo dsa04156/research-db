@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`UU3VGMHE`)
 - 발행일: 2026-09-15T23:40:42Z
 - 저자: Salman Rahman, Yubin Kim, Mihir Parmar, A. Ali Heydari, Genglin Liu, Simon A. Lee, Weizhi Zhang, Arian Hosseini, Ahmed A. Metwally, Yuzhe Yang, Baharan Mirzasoleiman, Xin Liu, Pavel Izmailov, Saadia Gabriel, Mark Malhotra, Shwetak Patel, Daniel McDuff, Hamid Palangi
 - 식별자: `arxiv:2609.17930`

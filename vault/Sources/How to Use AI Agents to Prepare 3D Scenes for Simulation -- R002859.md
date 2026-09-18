@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `rss:NVIDIA Technical Blog`
 - 검토 상태: `pending`
+- Zotero: created (`QXNMJHQQ`)
 - 발행일: 2026-09-16T23:20:33+00:00
 - 식별자: `url:e538d279a1ab4018b7b81bfcca80b83151e02578f13b68f639fa46aef4764ffc`
 

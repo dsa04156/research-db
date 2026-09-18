@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`GZB7686B`)
 - 발행일: 2026-09-12T16:49:58Z
 - 저자: Georgios Alexopoulos, Konstantinos Karakatsanis, Nikolaos Alexopoulos, Dimitris Mitropoulos, Thodoris Sotiropoulos
 - 식별자: `arxiv:2609.14040`

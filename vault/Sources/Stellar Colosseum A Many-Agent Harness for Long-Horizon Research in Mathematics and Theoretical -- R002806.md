@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6QX3ACFR`)
 - 발행일: 2026-09-14T17:58:55Z
 - 저자: Honghao Lin, David P. Woodruff, Yuan Deng, Jieming Mao, Song Zuo, Vahab Mirrokni
 - 식별자: `arxiv:2609.15983`

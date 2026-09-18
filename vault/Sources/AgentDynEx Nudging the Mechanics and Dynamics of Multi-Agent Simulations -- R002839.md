@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`SPNGX6IC`)
 - 발행일: 2026-09-16
 - 저자: Jenny Ma, Riya Sahni, Karthik Sreedhar, Lydia B. Chilton
 - 식별자: `doi:10.1145/3834580.3838752`

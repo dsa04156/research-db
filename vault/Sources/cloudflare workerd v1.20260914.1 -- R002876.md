@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `github-release`
 - 검토 상태: `pending`
+- Zotero: created (`FDW4AD6B`)
 - 발행일: 2026-09-14T01:13:09Z
 - 저자: github-actions[bot]
 - 식별자: `url:9cdb811aa0637aef3d574d00b9fcfa3ccd9f3f28343a4644c3cbd3525b417230`

@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`56RHGXB5`)
 - 발행일: 2026-09-14T17:58:27Z
 - 저자: Ruishuo Chen, Xun Wang, Yu Chen, Zhuoran Li, Longbo Huang
 - 식별자: `arxiv:2609.15982`

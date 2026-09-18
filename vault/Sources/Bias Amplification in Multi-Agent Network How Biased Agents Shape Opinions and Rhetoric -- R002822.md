@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6A4QDCFZ`)
 - 발행일: 2026-09-16T08:27:15Z
 - 저자: Omran Berjawi, Giuseppe Fenza, Rida Khatoun
 - 식별자: `arxiv:2609.18306`

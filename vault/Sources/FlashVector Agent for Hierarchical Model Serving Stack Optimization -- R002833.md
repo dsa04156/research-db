@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`GJNVESCP`)
 - 발행일: 2026-09-15T16:27:45Z
 - 저자: Qi Wu, Lohan Lemire, Kai Meng, Zhongmou Cai, Raphael Bargues, Petr Zhitnikov, Zeyuan Cao, Yao Wang, Shujun Bian, Wei Chen, Sean Sheng
 - 식별자: `arxiv:2609.17391`

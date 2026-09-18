@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`TJ4H2CEB`)
 - 발행일: 2026-09-15
 - 저자: Evgeny V. Arsentyev
 - 식별자: `doi:10.32388/kdxh0z`

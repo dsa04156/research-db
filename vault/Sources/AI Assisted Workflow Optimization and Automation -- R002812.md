@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`G2I9EBST`)
 - 발행일: 2026-09-13T06:41:55Z
 - 저자: Zhen Zhong
 - 식별자: `doi:10.14569/ijacsa.2025.0161001`

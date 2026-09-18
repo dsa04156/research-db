@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `rss:Kubernetes Blog`
 - 검토 상태: `pending`
+- Zotero: created (`429BTU6V`)
 - 발행일: 2026-09-15T18:30:00+00:00
 - 식별자: `url:5309177f19f859cab89d6cd940ab38fcfee3f4cae9bb83095476382f0cac2ca1`
 

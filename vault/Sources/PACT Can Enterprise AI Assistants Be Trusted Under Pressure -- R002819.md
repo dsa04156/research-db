@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`XGAESV3Q`)
 - 발행일: 2026-09-16T12:57:15Z
 - 저자: Mika Okamoto, Ansel Kaplan Erol
 - 식별자: `arxiv:2609.18605`

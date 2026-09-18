@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`R7HI7VBB`)
 - 발행일: 2026-09-15
 - 저자: Kushboo Nasir, Sahar Badri, Asad Masood Khattak, Daniyal Alghazzawi, Mohammed Yahya Alghamdi, Mona Alkhozae, Abeer Almakky, Rania M. Alhazmi, Muhammad Zubair Asghar
 - 식별자: `doi:10.1038/s41598-026-61336-6`

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`REAMUIFU`)
 - 발행일: 2026-09-15
 - 저자: Jon Garcia
 - 식별자: `doi:10.63345/jqst.v3i3.434`

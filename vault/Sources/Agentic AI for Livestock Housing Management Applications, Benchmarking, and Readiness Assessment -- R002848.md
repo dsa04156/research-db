@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`I5AKAXDR`)
 - 발행일: 2026-09-14
 - 저자: Alexey Ruchay, Hao Guo, Andrea Pezzuolo
 - 식별자: `doi:10.1016/j.compag.2026.112361`

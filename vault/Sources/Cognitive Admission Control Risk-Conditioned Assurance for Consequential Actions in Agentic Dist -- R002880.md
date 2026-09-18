@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`U8KHFXZA`)
 - 발행일: 2026-09-14T20:20:54Z
 - 저자: Jun He, Deying Yu
 - 식별자: `arxiv:2609.16313`

@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`FPZMS5DM`)
 - 발행일: 2026-09-11
 - 저자: Deniz Oktay Tuncay
 - 식별자: `doi:10.47119/ijrp1002041920269752`

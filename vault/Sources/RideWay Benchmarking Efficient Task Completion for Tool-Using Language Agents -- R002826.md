@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`KVAF99KD`)
 - 발행일: 2026-09-16T01:15:21Z
 - 저자: Qingnuan Han, Boli Fang, Mingzhi Hou, Claire Liu
 - 식별자: `arxiv:2609.17985`

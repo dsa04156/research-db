@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`R446H97V`)
 - 발행일: 2026-09-13T12:33:15Z
 - 저자: Bin Li, Yuchen Ou, Yinqiu Liu, Abbas Jamalipour
 - 식별자: `doi:10.1109/tmc.2026.3734258`

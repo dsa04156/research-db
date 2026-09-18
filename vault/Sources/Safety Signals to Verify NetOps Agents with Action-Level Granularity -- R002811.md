@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`8G4KIG7R`)
 - 발행일: 2026-09-13T10:43:37Z
 - 저자: Tobias Labarta, Frederik Pahde, Novak Boškov, Maximilian Dreyer, David Birkenberger, Manzoor Ahmed Khan, Sebastian Lapuschkin, Wojciech Samek
 - 식별자: `arxiv:2609.14422`

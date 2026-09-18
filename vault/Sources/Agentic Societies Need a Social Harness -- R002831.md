@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`6VCNEKK3`)
 - 발행일: 2026-09-15T17:57:27Z
 - 저자: Tapan Chugh, Vidushi Singh, Krish Jain, Arvind Krishnamurthy, Ratul Mahajan
 - 식별자: `arxiv:2609.17527`

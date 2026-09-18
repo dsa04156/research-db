@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-17|2026-09-17]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`84RF28XQ`)
 - 발행일: 2026-09-16
 - 저자: Tao Long, Xuanming Zhang, Sitong Wang, Yu Zhou, Lydia B. Chilton
 - 식별자: `doi:10.1145/3834580.3838737`

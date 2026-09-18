@@ -2,18 +2,17 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 579
+source_count: 581
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **579개**
+연결된 자료: **581개**
 
 ## 자료
 
-- [[vault/Sources/Introducing CUDA Rust Two Tracks for Writing GPU Kernels -- R002883|Introducing CUDA Rust: Two Tracks for Writing GPU Kernels]] — 2026-09-08 · `web:NVIDIA` · 관련도 7.9
 - [[vault/Sources/Enabling Zero-Touch Cloud Edge Computing Continuum Management -- R000339|Enabling Zero-Touch Cloud Edge Computing Continuum Management]] — 2024-07-12 · `openalex` · 관련도 7.7
 - [[vault/Sources/Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing -- R000864|Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing]] — 2025-07-21 · `arxiv` · 관련도 7.4
 - [[vault/Sources/Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing Performance and -- R000712|Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing: Performance and Resource Efficiency]] — 2025-03-04 · `arxiv` · 관련도 6.8
@@ -104,6 +103,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/Distributed Edge Inference an Experimental Study on Multiview Detection -- R002920|Distributed Edge Inference: an Experimental Study on Multiview Detection]] — 2026-09-17 · `arxiv` · 관련도 4.3
 - [[vault/Sources/HED-ID a federated expert system for interpretable and resource-adaptive intrusion detection on -- R002843|HED-ID: a federated expert system for interpretable and resource-adaptive intrusion detection on edge devices]] — 2026-09-15 · `openalex` · 관련도 4.3
 - [[vault/Sources/OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff -- R002803|OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff]] — 2026-09-11 · `social:hackernews` · 관련도 4.3
 - [[vault/Sources/오프라인 실습 ESP32 제품 개발 및 펌웨어 바이브 코딩 오프라인 강의 일시 2026.10.16 10 00~17 00 장소 서울 금천구 디지털로 178 (가산동) 가산퍼블 -- R002779|[오프라인 실습  ESP32 제품 개발 및 펌웨어 바이브 코딩 오프라인 강의 일시: 2026.10.16 10:00~17:00 장소: 서울 금천구 디지털로 178 (가산동) 가산퍼블릭 A동 1823호 강의 내용 01. Edge AI의 패러다임과 E]] — 2026-09-09 · `social:threads` · 관련도 4.3
@@ -226,6 +226,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/AdaptSFL Adaptive Split Federated Learning in Resource-constrained Edge Networks -- R000532|AdaptSFL: Adaptive Split Federated Learning in Resource-constrained Edge Networks]] — 2024-03-19 · `arxiv` · 관련도 3.6
 - [[vault/Sources/Intelligent Resource Orchestration for 5G Edge Infrastructures -- R000357|Intelligent Resource Orchestration for 5G Edge Infrastructures]] — 2024-03-19 · `openalex` · 관련도 3.6
 - [[vault/Sources/TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor -- R002860|TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor]] — 2026-09-16 · `rss:NVIDIA Technical Blog` · 관련도 3.5
+- [[vault/Sources/From Pixels to Semantics Edge AI for UAV-Based Critical Infrastructure Inspection -- R002927|From Pixels to Semantics: Edge AI for UAV-Based Critical Infrastructure Inspection]] — 2026-09-16 · `kurate` · 관련도 3.5
 - [[vault/Sources/Embedded AI Edge AI is CE + ML actually a valuable hybrid profile in real engineering teams -- R002777|Embedded AI / Edge AI: is CE + ML actually a valuable hybrid profile in real engineering teams?]] — 2026-09-09 · `social:reddit` · 관련도 3.5
 - [[vault/Sources/EcoFair Energy-efficient inference routing for edge AI under data degradation -- R002539|EcoFair: Energy-efficient inference routing for edge AI under data degradation]] — 2026-09-01 · `openalex` · 관련도 3.5
 - [[vault/Sources/Convergence of need technology and culture driving the era of physical AI in medicine -- R002529|Convergence of need technology and culture driving the era of physical AI in medicine]] — 2026-09-01 · `openalex` · 관련도 3.5
@@ -384,6 +385,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization -- R000523|DNN Memory Footprint Reduction via Post-Training Intra-Layer Multi-Precision Quantization]] — 2024-04-03 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning -- R000525|Driving Intelligent IoT Monitoring and Control through Cloud Computing and Machine Learning]] — 2024-03-26 · `arxiv` · 관련도 2.6
 - [[vault/Sources/Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse -- R000531|Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse]] — 2024-03-22 · `arxiv` · 관련도 2.6
+- [[vault/Sources/cloudflare workerd v1.20260918.1 -- R002925|cloudflare/workerd v1.20260918.1]] — 2026-09-18 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260917.1 -- R002873|cloudflare/workerd v1.20260917.1]] — 2026-09-17 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260916.1 -- R002874|cloudflare/workerd v1.20260916.1]] — 2026-09-16 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260915.1 -- R002875|cloudflare/workerd v1.20260915.1]] — 2026-09-15 · `github-release` · 관련도 2.5
