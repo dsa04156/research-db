@@ -1,0 +1,47 @@
+{
+  "session_id": "Weekly_AI_Infrastructure_Trends_20260922_110000",
+  "topic": "Weekly AI Infrastructure Trends 2026-09-22",
+  "created_at": "2026-09-22T11:00:00+09:00",
+  "status": "COMPLETED",
+  "current_phase": 7,
+  "requirements": {
+    "primary_window": "2026-09-15/2026-09-22",
+    "timezone": "Asia/Seoul",
+    "exclusions": [
+      "X/Twitter",
+      "lead-only social claims as conclusions",
+      "unreplicated performance numbers as facts"
+    ],
+    "minimum_quality": "two independent domains per verified claim",
+    "output": "Korean weekly synthesis and evidence-backed report"
+  },
+  "progress": {
+    "phase_1": "completed",
+    "phase_2": "completed",
+    "phase_3": "completed",
+    "phase_4": "completed",
+    "phase_5": "completed",
+    "phase_6": "completed",
+    "phase_7": "completed"
+  },
+  "sources_count": 6,
+  "artifacts": {
+    "research_plan": "artifacts/research_plan.json",
+    "claim_ledger": "artifacts/claim_ledger.jsonl",
+    "sources": "sources/sources.jsonl",
+    "executive_summary": "outputs/00_executive_summary.md",
+    "full_report": "outputs/01_full_report/01_weekly_research_report.md"
+  },
+  "errors": [
+    "Red Hat Developer Blog RSS HTTP 403; remaining sources continued"
+  ],
+  "verification": {
+    "passed": true,
+    "signature": "da0493f87f257dad4a4d1f78c95705472ebdb9b1ddb997b6ba6909c69126c1ae",
+    "verified_count": 2,
+    "unresolved_count": 2,
+    "refuted_count": 0,
+    "checked_at": "2026-09-22T02:14:53.483793+00:00",
+    "checker": "validate_ledger.py"
+  }
+}

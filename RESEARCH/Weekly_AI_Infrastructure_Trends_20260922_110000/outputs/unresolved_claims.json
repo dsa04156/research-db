@@ -1,0 +1,32 @@
+[
+  {
+    "claim_id": "clm_003",
+    "text": "영속볼륨청구의 마지막 사용 시계열이 이종 배포 환경에서 정리 판단의 충분한 근거를 제공한다.",
+    "risk": "high",
+    "claim_type": "causal",
+    "source_ids": [
+      "src_004"
+    ],
+    "counter_search": "공식 기능 소개는 확인했으나 모든 클러스터의 정리 신호 신뢰성, 실제 운영 결과를 검증한 독립 도메인 자료를 찾지 못했다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  },
+  {
+    "claim_id": "clm_004",
+    "text": "반도체 삼진 감시 장치가 현장 배치 모델의 유해 가중치 변조를 일관되게 발견한다.",
+    "risk": "high",
+    "claim_type": "causal",
+    "source_ids": [
+      "src_005"
+    ],
+    "counter_search": "저자 사전논문은 확인했으나 독립 구현·현장 재현을 찾지 못했다. 지원하지 않는 OOD·적대적 입력까지 효과를 확대하지 않는다.",
+    "counter_refuted": false,
+    "conflicting": false,
+    "primary_source": true,
+    "status": "unresolved",
+    "status_reason": "독립 출처(도메인) 1개 < 2"
+  }
+]
