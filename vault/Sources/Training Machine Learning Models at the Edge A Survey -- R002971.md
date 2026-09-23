@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`CE6RKPSE`)
 - 발행일: 2026-09-17
 - 저자: Aymen Rayane Khouas, Mohamed Reda Bouadjenek, Hakim Hacid, Sunil Aryal
 - 식별자: `doi:10.1145/3848509`

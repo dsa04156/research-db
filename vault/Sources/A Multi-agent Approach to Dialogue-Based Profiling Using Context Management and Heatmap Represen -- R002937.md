@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `crossref`
 - 검토 상태: `pending`
+- Zotero: created (`KNUI9FT6`)
 - 발행일: 2026-09-22
 - 저자: Paweł Miksiewicz, Paweł Moszczyński, Maciej Wiśniewski, Szymon Rosowski, Dariusz Pierzchała
 - 식별자: `doi:10.1007/978-3-032-38939-8_7`

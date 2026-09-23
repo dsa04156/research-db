@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`23ZSE7CW`)
 - 발행일: 2026-09-19
 - 저자: Setti Sarika, S. Jhansi Rani
 - 식별자: `doi:10.22266/ijies2026.1031.29`

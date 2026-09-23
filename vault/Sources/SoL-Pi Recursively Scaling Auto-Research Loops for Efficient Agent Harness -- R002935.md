@@ -26,6 +26,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`28MQP2T2`)
 - 발행일: 2026-09-17T14:58:29Z
 - 저자: Haozhe Liu, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li, Mingchen Zhuge, Duomin Wang, Ruihua Zhang, Ping Luo, Jiawang Bian, Lei Zhu, Ligeng Zhu, Enze Xie, Song Han
 - 식별자: `arxiv:2609.20519`

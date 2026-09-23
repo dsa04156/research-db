@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`MEBAVJFI`)
 - 발행일: 2026-09-19T08:45:22Z
 - 저자: Yalin Zhang, Zhongxin Liucand Fuyong Wang, Zengqiang Chen
 - 식별자: `doi:10.1080/00207721.2025.2534901`

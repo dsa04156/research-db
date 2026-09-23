@@ -12,8 +12,8 @@ generated_by: codex-research-db
 aliases:
   - "OpenAI researcher on agent swarms & recursive self-improvement"
 topics:
-  - "ai-agents"
   - "self-evolving-harness"
+  - "ai-agents"
 ---
 
 # OpenAI researcher on agent swarms & recursive self-improvement
@@ -25,7 +25,7 @@ topics:
 
 ## 연결
 
-- 주제: [[vault/Topics/AI agents]], [[vault/Topics/Self-evolving harness]]
+- 주제: [[vault/Topics/Self-evolving harness]], [[vault/Topics/AI agents]]
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `social:youtube`
 - 검토 상태: `pending`

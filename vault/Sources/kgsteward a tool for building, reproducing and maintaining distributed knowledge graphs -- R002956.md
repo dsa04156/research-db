@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`72Z6P6E9`)
 - 발행일: 2026-09-18T09:53:14Z
 - 저자: Marco Pagni, Robin Engler, Frederic Burdet, Sebastien Moretti, Loic Le Gregam, Luis Quiros-Guerrero, Jahn Nitschke, Pierre-Marie Allard, Louis-Felix Nothias, Jack McGoldrick, Ronan M. T. Fleming, Alan Bridge, Vincent Emonet, Tarcisio Mendes de Farias, Ana-Claudia Sima, Mark Ibberson, Jean-Luc Wolfender, Florence Mehl
 - 식별자: `arxiv:2609.21564`

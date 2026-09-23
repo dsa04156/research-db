@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`DXJDZEEX`)
 - 발행일: 2026-09-18T12:03:11Z
 - 저자: Piotr Masztalski, Michał K. Grzeszczyk, Olaf Sikorski
 - 식별자: `arxiv:2609.21666`

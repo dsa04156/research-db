@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`DPXS5MZM`)
 - 발행일: 2026-09-19
 - 저자: L. Wang, Xianfeng Zheng, Liang Liu, Hao Feng, Wenwei Li, Huan Liu
 - 식별자: `doi:10.1038/s41598-026-71909-0`

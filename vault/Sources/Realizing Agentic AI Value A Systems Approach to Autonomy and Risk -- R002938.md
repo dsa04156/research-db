@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`CFES9CJQ`)
 - 발행일: 2026-09-18
 - 저자: Alex Reppel, Stefanie Beninger, Henry Robben, Onur Eken
 - 식별자: `doi:10.1177/00081256261486300`

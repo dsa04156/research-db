@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`TMGRRQI6`)
 - 발행일: 2026-09-19T07:45:13Z
 - 저자: Wenlong Ding, Zhixiong Niu, Jianan Yang, Fajun Zhang, Bo Zhang, Ling Liang, Yongqiang Xiong, Tianyin Xu, Hong Xu
 - 식별자: `arxiv:2609.22848`

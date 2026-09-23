@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`3ZPWP9R2`)
 - 발행일: 2026-09-18T17:58:10Z
 - 저자: Uchi Uchibeke
 - 식별자: `arxiv:2609.22076`

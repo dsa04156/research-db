@@ -2,19 +2,22 @@
 type: research-topic
 topic_id: "cloud-infrastructure"
 generated_by: codex-research-db
-source_count: 589
+source_count: 595
 ---
 
 # Cloud infrastructure
 
 Distributed cloud, serverless, AI infrastructure and platform engineering.
 
-연결된 자료: **589개**
+연결된 자료: **595개**
 
 ## 자료
 
+- [[vault/Sources/Google AX open agentic orchestration runtime -- R003080|Google AX: open agentic orchestration runtime]] — 2026-09-22 · `web:GitHub` · 관련도 9.0
 - [[vault/Sources/CASA A Framework for SLO and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computi -- R000797|CASA: A Framework for SLO and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing]] — 2024-08-31 · `arxiv` · 관련도 8.6
+- [[vault/Sources/Unreal Agent an asynchronous tool-call harness -- R003078|Unreal Agent: an asynchronous tool-call harness]] — 2026-09-22 · `web:Unreal Labs` · 관련도 8.4
 - [[vault/Sources/Optimizing simultaneous autoscaling for serverless cloud computing -- R000391|Optimizing simultaneous autoscaling for serverless cloud computing]] — 2023-10-29 · `arxiv` · 관련도 8.2
+- [[vault/Sources/Writing Rust code faster through benchmark-driven agentic iteration -- R003079|Writing Rust code faster through benchmark-driven agentic iteration]] — 2026-09-21 · `web:Max Woolf` · 관련도 8.1
 - [[vault/Sources/AI-driven performance optimization strategies and key metrics in serverless cloud computing A sy -- R002657|AI-driven performance optimization strategies and key metrics in serverless cloud computing: A systematic literature review]] — 2026-09-01 · `openalex` · 관련도 7.4
 - [[vault/Sources/Enhancing Security in Serverless Cloud Computing Using AI-Based Intrusion and Anomaly Detection -- R001324|Enhancing Security in Serverless Cloud Computing Using AI-Based Intrusion and Anomaly Detection: A Comprehensive Review]] — 2026-06-16 · `openalex` · 관련도 7.1
 - [[vault/Sources/Tutorial Object as a Service (OaaS) Serverless Cloud Computing Paradigm -- R000376|Tutorial: Object as a Service (OaaS) Serverless Cloud Computing Paradigm]] — 2024-07-24 · `arxiv` · 관련도 7.1
@@ -218,6 +221,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Application and data modernization with generative AI &amp; cloud Infrastructure -- R001265|Application and data modernization with generative AI &amp; cloud Infrastructure]] — 2026-05-18 · `openalex` · 관련도 3.8
 - [[vault/Sources/Multi-Cloud Enterprise Architecture A Comprehensive Framework for Hybrid Cloud Orchestration -- R000816|Multi-Cloud Enterprise Architecture: A Comprehensive Framework for Hybrid Cloud Orchestration]] — 2025-07-23 · `openalex` · 관련도 3.8
 - [[vault/Sources/STL-GO Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network -- R000631|STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies]] — 2025-07-20 · `arxiv` · 관련도 3.8
+- [[vault/Sources/Spotlight on SIG Apps -- R003068|Spotlight on SIG Apps]] — 2026-09-22 · `rss:Kubernetes Blog` · 관련도 3.7
 - [[vault/Sources/ray-project ray Ray-2.58.0 -- R002228|ray-project/ray Ray-2.58.0]] — 2026-08-23 · `github-release` · 관련도 3.7
 - [[vault/Sources/Architecting the Red Hat OpenShift AI dashboard for Models-as-a-Service -- R002138|Architecting the Red Hat OpenShift AI dashboard for Models-as-a-Service]] — 2026-08-18 · `rss:Red Hat Developer Blog` · 관련도 3.7
 - [[vault/Sources/ray-project ray Ray-2.57.0 -- R001899|ray-project/ray Ray-2.57.0]] — 2026-08-11 · `github-release` · 관련도 3.7
@@ -433,6 +437,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/Service-Oriented Evolution of Modern AI A Position Paper -- R000842|Service-Oriented Evolution of Modern AI: A Position Paper]] — 2025-07-07 · `openalex` · 관련도 2.6
 - [[vault/Sources/Engineering resilient data architectures for regulated domains From ETL to remediation -- R000421|Engineering resilient data architectures for regulated domains: From ETL to remediation]] — 2024-06-30 · `openalex` · 관련도 2.6
 - [[vault/Sources/The Future of DevOps Compute A Survey of Innovative Strategies for Efficient Resource Utilizatio -- R000439|The Future of DevOps Compute: A Survey of Innovative Strategies for Efficient Resource Utilization]] — 2024-06-11 · `openalex` · 관련도 2.6
+- [[vault/Sources/From attendee badge to speaker badge My first KubeCon at KubeCon + CloudNativeCon India 2026 -- R003069|From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026]] — 2026-09-22 · `rss:CNCF Blog` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260922.1 -- R002989|cloudflare/workerd v1.20260922.1]] — 2026-09-22 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260921.1 -- R002990|cloudflare/workerd v1.20260921.1]] — 2026-09-21 · `github-release` · 관련도 2.5
 - [[vault/Sources/cloudflare workerd v1.20260920.1 -- R002991|cloudflare/workerd v1.20260920.1]] — 2026-09-20 · `github-release` · 관련도 2.5
@@ -545,6 +550,7 @@ Distributed cloud, serverless, AI infrastructure and platform engineering.
 - [[vault/Sources/ray-project ray Ray-2.55.1 -- R001523|ray-project/ray Ray-2.55.1]] — 2026-04-22 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
+- [[vault/Sources/The Meta-HR framework a systematic literature review on AI-accelerated HR systems for digital ta -- R003063|The Meta-HR framework: a systematic literature review on AI-accelerated HR systems for digital talent transformation]] — 2026-09-24 · `crossref` · 관련도 2.3
 - [[vault/Sources/A Review on Challenges & Solutions of Cloud Security and Data Privacy -- R002966|A Review on Challenges & Solutions of Cloud Security and Data Privacy]] — 2026-09-17 · `openalex` · 관련도 2.3
 - [[vault/Sources/Analyzing YouTube Content With AWS Data Pipeline, AI And Visualization -- R002917|Analyzing YouTube Content With AWS: Data Pipeline, AI And Visualization]] — 2026-09-15 · `openalex` · 관련도 2.3
 - [[vault/Sources/Building the future of business requires more than just modern tools—it takes a resilient, intel -- R002780|Building the future of business requires more than just modern tools—it takes a resilient, intelligent digital foundation. 💡 At Clarity Inf]] — 2026-09-09 · `social:threads` · 관련도 2.3

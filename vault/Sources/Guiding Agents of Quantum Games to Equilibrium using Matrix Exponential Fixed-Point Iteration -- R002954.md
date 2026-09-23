@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`ED5923ZP`)
 - 발행일: 2026-09-18T16:00:29Z
 - 저자: Alireza Habibi, Luis F. Abanto Leon, Setareh Maghsudi
 - 식별자: `arxiv:2609.21944`

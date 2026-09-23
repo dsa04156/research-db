@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`7X4D5UIN`)
 - 발행일: 2026-09-19T11:06:14Z
 - 저자: Rudrendu Kumar Paul, Sourav Nandy
 - 식별자: `arxiv:2609.22949`

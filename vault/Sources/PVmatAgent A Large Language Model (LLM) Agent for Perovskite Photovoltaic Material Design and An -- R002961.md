@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`2RKP8AXC`)
 - 발행일: 2026-09-19
 - 저자: Hangyuan Deng, Yuyan Wu, Youle Wang, Lei Zhang
 - 식별자: `doi:10.1002/mgea.70102`

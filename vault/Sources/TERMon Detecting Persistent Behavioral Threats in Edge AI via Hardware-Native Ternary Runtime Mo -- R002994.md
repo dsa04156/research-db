@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `kurate`
 - 검토 상태: `pending`
+- Zotero: created (`4VJZ9B79`)
 - 발행일: 2026-09-18T12:49:50Z
 - 저자: Arish Sateesan, Edlira Dushku
 - 식별자: `arxiv:2609.21713`

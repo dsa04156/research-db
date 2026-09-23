@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`G6VUN9R6`)
 - 발행일: 2026-09-18
 - 저자: V. Sahithi Yellanki, Basant Sah
 - 식별자: `doi:10.1007/s10791-026-10585-0`

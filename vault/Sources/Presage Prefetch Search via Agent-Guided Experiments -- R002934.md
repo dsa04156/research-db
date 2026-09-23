@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`3PNKVFUT`)
 - 발행일: 2026-09-18T22:56:39Z
 - 저자: Matthew Giordano, Parthasarathy Ranganathan, Baris Kasikci, Akanksha Jain
 - 식별자: `arxiv:2609.22636`

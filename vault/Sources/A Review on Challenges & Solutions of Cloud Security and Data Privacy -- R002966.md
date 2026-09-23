@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `openalex`
 - 검토 상태: `pending`
+- Zotero: created (`SGRGTI7S`)
 - 발행일: 2026-09-17
 - 저자: Anirudh BS, Sharan S, Rohith R, Neha Singh
 - 식별자: `doi:10.65890/dmp-lncse.impact26.231`

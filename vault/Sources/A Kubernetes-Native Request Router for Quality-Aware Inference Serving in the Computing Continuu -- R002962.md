@@ -25,6 +25,7 @@ topics:
 - 최초 수집: [[vault/Daily/2026-09-22|2026-09-22]]
 - 수집 채널: `arxiv`
 - 검토 상태: `pending`
+- Zotero: created (`75FN42HW`)
 - 발행일: 2026-09-17T14:45:21Z
 - 저자: Ignjat Karanovic, Pantelis A. Frangoudis, Ivan Čilić, Ivana Podnar Žarko, Schahram Dustdar
 - 식별자: `arxiv:2609.20497`

@@ -2,14 +2,14 @@
 type: research-topic
 topic_id: "edge-computing"
 generated_by: codex-research-db
-source_count: 598
+source_count: 603
 ---
 
 # Edge computing
 
 Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 
-연결된 자료: **598개**
+연결된 자료: **603개**
 
 ## 자료
 
@@ -104,6 +104,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Trusting the Cloud-Native Edge Remotely Attested Kubernetes Workers -- R000309|Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers]] — 2024-05-16 · `arxiv` · 관련도 4.5
 - [[vault/Sources/Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, E -- R000951|Framework for Next-Generation Predictive Maintenance of Software-Defined Vehicles Using Cloud, Edge Computing and Modern AI]] — 2025-07-28 · `openalex` · 관련도 4.4
 - [[vault/Sources/Latency and Energy Minimization in NOMA-Assisted MEC Network A Federated Deep Reinforcement Lear -- R000494|Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach]] — 2024-05-07 · `arxiv` · 관련도 4.4
+- [[vault/Sources/Not my lane. I focus on landing page clarity and conversion friction for solopreneurs, not edge -- R003075|Not my lane. I focus on landing page clarity and conversion friction for solopreneurs, not edge AI hardware or VLA runtimes. If you're optim]] — 2026-09-22 · `social:threads` · 관련도 4.3
+- [[vault/Sources/Optimized runtimes for VLAs on Jetson Thor are here. If you’re deploying edge AI, check out this -- R003074|Optimized runtimes for VLAs on Jetson Thor are here. If you’re deploying edge AI, check out this Show HN.]] — 2026-09-22 · `social:threads` · 관련도 4.3
 - [[vault/Sources/$MCHP , edge AI işlemci şirketi Hailo’yu satın aldı. Finansal şartlar açıklanmadı ve kısa vadeli -- R003031|$MCHP , edge AI işlemci şirketi Hailo’yu satın aldı. Finansal şartlar açıklanmadı ve kısa vadeli bilanço etkisi sınırlı. Microchip artık mi]] — 2026-09-21 · `social:threads` · 관련도 4.3
 - [[vault/Sources/DISTRIBUTED INFERENCE DOESN’T MEAN MOVING EVERYTHING TO THE EDGE That misses the point. The futu -- R003033|DISTRIBUTED INFERENCE DOESN’T MEAN MOVING EVERYTHING TO THE EDGE That misses the point. The future of AI infrastructure isn’t centralized v]] — 2026-09-20 · `social:linkedin` · 관련도 4.3
 - [[vault/Sources/1 6 สิ่งที่ผมได้เรียนรู้ จากการมีโอกาสพาทีมเข้าร่วมการแข่งขัน 🤖 TESA IOT SECURE EDGE AI 2026 SER -- R003032|1/6 สิ่งที่ผมได้เรียนรู้ จากการมีโอกาสพาทีมเข้าร่วมการแข่งขัน 🤖 TESA IOT: SECURE EDGE AI 2026 SERVICE ROBOTICS HACKATHON FINAL ROUND รอบชิ]] — 2026-09-20 · `social:threads` · 관련도 4.3
@@ -288,6 +290,7 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extractio -- R000953|Cloud–Edge Collaborative Model Adaptation Based on Deep Q-Network and Transfer Feature Extraction]] — 2025-07-26 · `openalex` · 관련도 3.1
 - [[vault/Sources/CHAMP A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks -- R000862|CHAMP: A Configurable, Hot-Swappable Edge Architecture for Adaptive Biometric Tasks]] — 2025-07-23 · `arxiv` · 관련도 3.1
 - [[vault/Sources/Computing Looking Back and Moving Forward -- R000448|Computing: Looking Back and Moving Forward]] — 2024-07-17 · `arxiv` · 관련도 3.1
+- [[vault/Sources/Trust in Edge-Enabled IoT Security Features, Challenges and Research Directions -- R003065|Trust in Edge-Enabled IoT Security: Features, Challenges and Research Directions]] — 2026-09-21 · `arxiv` · 관련도 2.9
 - [[vault/Sources/Samsone A Family of Open Small Audio Language Models for On-Device Inference -- R002968|Samsone: A Family of Open Small Audio Language Models for On-Device Inference]] — 2026-09-18 · `arxiv` · 관련도 2.9
 - [[vault/Sources/AI-Assisted Self-Powered Flexible Electronic System for Energy Management -- R002849|AI-Assisted Self-Powered Flexible Electronic System for Energy Management]] — 2026-09-13 · `openalex` · 관련도 2.9
 - [[vault/Sources/The Global Value Chain of Edge Artificial Intelligence a technological and strategic perspective -- R002764|The Global Value Chain of Edge Artificial Intelligence: a technological and strategic perspective]] — 2026-09-07 · `openalex` · 관련도 2.9
@@ -475,6 +478,8 @@ Edge AI, distributed inference, on-device agents and cloud-edge orchestration.
 - [[vault/Sources/ray-project ray Ray-2.51.2 -- R001528|ray-project/ray Ray-2.51.2]] — 2025-11-29 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.1 -- R001529|ray-project/ray Ray-2.52.1]] — 2025-11-28 · `github-release` · 관련도 2.5
 - [[vault/Sources/ray-project ray Ray-2.52.0 -- R001530|ray-project/ray Ray-2.52.0]] — 2025-11-21 · `github-release` · 관련도 2.5
+- [[vault/Sources/全球功率半導體漲價潮持續擴散,繼德州儀器、瑞薩陸續傳出調價後,安森美也傳出通知客戶將自10月10日起調整部分產品價格。國際大廠接連出手,有助降低台廠與客戶協商漲價阻力,強茂、台半、德微等功率元 -- R003073|全球功率半導體漲價潮持續擴散，繼德州儀器、瑞薩陸續傳出調價後，安森美也傳出通知客戶將自10月10日起調整部分產品價格。國際大廠接連出手，有助降低台廠與客戶協商漲價阻力，強茂、台半、德微等功率元件廠第四季至2027年營運，除受惠AI拉貨，亦有望迎來產品組合及價格同步改善。 德微看]] — 2026-09-22 · `social:threads` · 관련도 2.3
+- [[vault/Sources/Editorial New trends in distributed and autonomous intelligent systems for crop production -- R003066|Editorial: New trends in distributed and autonomous intelligent systems for crop production]] — 2026-09-22 · `openalex` · 관련도 2.3
 - [[vault/Sources/I am 64 years old and have retired from Palantir. I will only say this once. The fastest way to -- R003030|I am 64 years old and have retired from Palantir. I will only say this once. The fastest way to reach $5.4 million by the end of 2026: Cu]] — 2026-09-19 · `social:threads` · 관련도 2.3
 - [[vault/Sources/How to Use AI Agents to Prepare 3D Scenes for Simulation -- R002859|How to Use AI Agents to Prepare 3D Scenes for Simulation]] — 2026-09-16 · `rss:NVIDIA Technical Blog` · 관련도 2.3
 - [[vault/Sources/오늘의 당근 AI 트렌드 브리핑. Daily Letter 168_AI 경쟁이 ‘더 큰 모델’에서 에너지·현장반도체·개인 Agent·산업 Workflow·과학 데이터 자산으로 -- R002778|오늘의 당근 AI 트렌드 브리핑. Daily Letter #168_AI 경쟁이 ‘더 큰 모델’에서 에너지·현장반도체·개인 Agent·산업 Workflow·과학 데이터 자산으로 이동 안녕하세요, 당근대장입니다! Google은 AI 데이터센터를 짓는 데]] — 2026-09-10 · `social:threads` · 관련도 2.3
